@@ -1,0 +1,364 @@
+/* =========================================================================
+ * MADTHEM - アプリロジック
+ * ========================================================================= */
+
+/* ---------- ユーティリティ ---------- */
+
+// タイトルから決定的に色を生成（サムネ用グラデーション）
+function gradientFor(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) h = (h * 31 + str.charCodeAt(i)) % 360;
+  const h2 = (h + 40) % 360;
+  return `linear-gradient(135deg, hsl(${h} 65% 32%), hsl(${h2} 70% 18%))`;
+}
+
+// YouTubeサムネURL（IDが有効なら表示、ダメならグラデにフォールバック）
+function thumbUrl(id) {
+  return `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
+}
+
+const typeLabel = (t) =>
+  t === "single" ? "単体" : t === "composite" ? "複合" : "名言集";
+// 区分の表示名（名言集は「名言集」、他は「単体MAD」「複合MAD」）
+const categoryLabel = (t) => (t === "quote" ? "名言集" : typeLabel(t) + "MAD");
+
+/* ---------- カードDOM生成 ---------- */
+function createCard(mad) {
+  const card = document.createElement("div");
+  card.className = "card";
+  card.dataset.id = mad.id;
+
+  const grad = gradientFor(mad.title);
+
+  card.innerHTML = `
+    <div class="card__thumb-fallback" style="background:${grad}">${mad.title}</div>
+    <div class="card__thumb" style="background-image:url('${thumbUrl(mad.youtubeId)}')"></div>
+    <div class="card__grad"></div>
+    <div class="card__badges">
+      ${mad.hot ? '<span class="badge badge--hot">今注目</span>' : ""}
+      ${mad.recommended ? '<span class="badge badge--rec">★おすすめ</span>' : ""}
+      <span class="badge badge--type">${typeLabel(mad.type)}</span>
+    </div>
+    <div class="card__duration">${mad.duration}</div>
+    <div class="card__info">
+      <div class="card__title">${mad.title}</div>
+      <div class="card__sub">${mad.author} ・ ${mad.genres.join(" / ")}</div>
+    </div>
+  `;
+
+  // サムネ画像が読めなかったら非表示にしてグラデを見せる
+  const thumb = card.querySelector(".card__thumb");
+  const img = new Image();
+  img.onload = () => {
+    // YouTubeの「動画なし」プレースホルダ(120x90)を弾く
+    if (img.naturalWidth <= 120) thumb.style.display = "none";
+  };
+  img.onerror = () => (thumb.style.display = "none");
+  img.src = thumbUrl(mad.youtubeId);
+
+  card.addEventListener("click", () => openModal(mad));
+  return card;
+}
+
+/* ---------- 行DOM生成 ---------- */
+function createRow(title, items, accentTitle = false) {
+  if (!items.length) return null;
+
+  const row = document.createElement("section");
+  row.className = "row";
+
+  const h = document.createElement("h2");
+  h.className = "row__title";
+  h.innerHTML = accentTitle ? `<em>${title}</em>` : title;
+  row.appendChild(h);
+
+  const viewport = document.createElement("div");
+  viewport.className = "row__viewport";
+
+  const track = document.createElement("div");
+  track.className = "row__track";
+  items.forEach((mad) => track.appendChild(createCard(mad)));
+
+  const left = document.createElement("button");
+  left.className = "row__arrow row__arrow--left";
+  left.innerHTML = "‹";
+  left.addEventListener("click", () =>
+    track.scrollBy({ left: -track.clientWidth * 0.8, behavior: "smooth" })
+  );
+
+  const right = document.createElement("button");
+  right.className = "row__arrow row__arrow--right";
+  right.innerHTML = "›";
+  right.addEventListener("click", () =>
+    track.scrollBy({ left: track.clientWidth * 0.8, behavior: "smooth" })
+  );
+
+  viewport.appendChild(left);
+  viewport.appendChild(track);
+  viewport.appendChild(right);
+  row.appendChild(viewport);
+  return row;
+}
+
+/* ---------- 行構成の定義 ---------- */
+
+// MADが少なく行として表示しないジャンル（検索は引き続き可能）
+const HIDDEN_GENRES = ["クラシック", "シティポップ", "ダブステップ", "メタル"];
+
+// 音楽ジャンル一覧（非表示ジャンルを除外・日本語ソート・「その他」は末尾）
+function genresOf(items) {
+  return [...new Set(items.flatMap((m) => m.genres))]
+    .filter((g) => !HIDDEN_GENRES.includes(g))
+    .sort((a, b) => {
+    if (a === "その他") return 1;
+    if (b === "その他") return -1;
+    return a.localeCompare(b, "ja");
+  });
+}
+
+// ジャンル別の行スペックを生成（suffix 例: "のMAD" / "の複合MAD"）
+function genreRowSpecs(items, suffix) {
+  return genresOf(items).map((g) => [
+    `${g} ${suffix}`,
+    items.filter((m) => m.genres.includes(g)),
+  ]);
+}
+
+// フィルタごとに表示する行スペック [title, items, accent?] を返す
+function specsFor(filter, pool) {
+  if (filter === "single") {
+    // 単体MAD: アニメ名ごとの横スクロール（単一HTML内で擬似ページ化）
+    const singles = pool.filter((m) => m.type === "single");
+    const animes = [...new Set(singles.map((m) => m.anime).filter(Boolean))].sort(
+      (a, b) => a.localeCompare(b, "ja")
+    );
+    const specs = animes.map((a) => [
+      a,
+      singles.filter((m) => m.anime === a),
+    ]);
+    const noAnime = singles.filter((m) => !m.anime);
+    if (noAnime.length) specs.push(["その他の単体MAD", noAnime]);
+    return specs;
+  }
+
+  if (filter === "composite") {
+    const comps = pool.filter((m) => m.type === "composite");
+    return [["複合MAD", comps, true], ...genreRowSpecs(comps, "の複合MAD")];
+  }
+
+  if (filter === "quote") {
+    const quotes = pool.filter((m) => m.type === "quote");
+    return [["名言集", quotes, true], ...genreRowSpecs(quotes, "の名言集")];
+  }
+
+  if (filter === "hot" || filter === "recommended") {
+    const sub = pool.filter((m) => (filter === "hot" ? m.hot : m.recommended));
+    return [
+      ["単体MAD", sub.filter((m) => m.type === "single")],
+      ["複合MAD", sub.filter((m) => m.type === "composite")],
+      ["名言集", sub.filter((m) => m.type === "quote")],
+      ...genreRowSpecs(sub, "のMAD"),
+    ];
+  }
+
+  // "all"（ホーム）
+  return [
+    ["今注目のMAD", pool.filter((m) => m.hot), true],
+    ["おすすめのMAD", pool.filter((m) => m.recommended), true],
+    ["単体MAD", pool.filter((m) => m.type === "single")],
+    ["複合MAD", pool.filter((m) => m.type === "composite")],
+    ["名言集", pool.filter((m) => m.type === "quote")],
+    ...genreRowSpecs(pool, "のMAD"),
+  ];
+}
+
+function buildRows(specs) {
+  const rowsEl = document.getElementById("rows");
+  rowsEl.innerHTML = "";
+
+  const rendered = specs
+    .map(([title, items, accent]) => createRow(title, items, accent))
+    .filter(Boolean);
+
+  if (!rendered.length) {
+    rowsEl.innerHTML = '<p class="empty">該当するMADが見つかりませんでした。</p>';
+    return;
+  }
+  rendered.forEach((r) => rowsEl.appendChild(r));
+}
+
+/* ---------- ヒーロー ---------- */
+function setHero(mad) {
+  document.getElementById("heroTitle").textContent = mad.title;
+  document.getElementById("heroMeta").textContent =
+    `${mad.year} ・ ${categoryLabel(mad.type)} ・ ${mad.genres.join(" / ")} ・ ${mad.duration} ・ ${mad.author}`;
+  document.getElementById("heroDesc").textContent = mad.description;
+  const bd = document.getElementById("heroBackdrop");
+  bd.style.background = gradientFor(mad.title);
+  bd.style.backgroundImage =
+    `url('${thumbUrl(mad.youtubeId)}'), ${gradientFor(mad.title)}`;
+  bd.style.backgroundSize = "cover";
+  bd.style.backgroundPosition = "center";
+
+  document.getElementById("heroPlay").onclick = () => openModal(mad);
+  document.getElementById("heroInfo").onclick = () => openModal(mad);
+}
+
+/* ---------- 関連MAD（モーダル下部） ---------- */
+
+// 同じジャンルを共有するMADを近い順に。足りなければ同タイプで補完。
+function relatedTo(mad) {
+  const sameGenre = MAD_DATA.filter(
+    (m) => m.id !== mad.id && m.genres.some((g) => mad.genres.includes(g))
+  ).sort(
+    (a, b) =>
+      b.genres.filter((g) => mad.genres.includes(g)).length -
+      a.genres.filter((g) => mad.genres.includes(g)).length
+  );
+  const ids = new Set([mad.id, ...sameGenre.map((m) => m.id)]);
+  const sameType = MAD_DATA.filter((m) => !ids.has(m.id) && m.type === mad.type);
+  return [...sameGenre, ...sameType].slice(0, 12);
+}
+
+// モーダル内用の小さめ関連カード
+function createRelatedCard(mad) {
+  const card = document.createElement("div");
+  card.className = "rcard";
+  const grad = gradientFor(mad.title);
+  card.innerHTML = `
+    <div class="rcard__thumb-fallback" style="background:${grad}">${mad.title}</div>
+    <div class="rcard__thumb" style="background-image:url('${thumbUrl(mad.youtubeId)}')"></div>
+    <div class="rcard__grad"></div>
+    <span class="rcard__duration">${mad.duration}</span>
+    <div class="rcard__info">
+      <div class="rcard__title">${mad.title}</div>
+      <div class="rcard__sub">${mad.genres.join(" / ")}</div>
+    </div>
+  `;
+  const thumb = card.querySelector(".rcard__thumb");
+  const img = new Image();
+  img.onload = () => { if (img.naturalWidth <= 120) thumb.style.display = "none"; };
+  img.onerror = () => (thumb.style.display = "none");
+  img.src = thumbUrl(mad.youtubeId);
+
+  // クリックでそのMADにモーダルを切り替え
+  card.addEventListener("click", () => openModal(mad));
+  return card;
+}
+
+function renderRelated(mad) {
+  const wrap = document.getElementById("modalRelated");
+  const track = document.getElementById("modalRelatedTrack");
+  const items = relatedTo(mad);
+  track.innerHTML = "";
+  if (!items.length) {
+    wrap.hidden = true;
+    return;
+  }
+  items.forEach((m) => track.appendChild(createRelatedCard(m)));
+  wrap.hidden = false;
+}
+
+/* ---------- モーダル ---------- */
+const modal = document.getElementById("modal");
+
+function openModal(mad) {
+  document.getElementById("modalPlayer").innerHTML =
+    `<iframe src="https://www.youtube.com/embed/${mad.youtubeId}?autoplay=1&rel=0"
+       allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>`;
+  document.getElementById("modalTitle").textContent = mad.title;
+
+  const meta = [
+    mad.year,
+    categoryLabel(mad.type),
+    mad.anime ? `アニメ: ${mad.anime}` : null,
+    mad.genres.join(" / "),
+    mad.duration,
+    `制作: ${mad.author}`,
+  ].filter(Boolean);
+  document.getElementById("modalMeta").innerHTML = meta
+    .map((m) => `<span>${m}</span>`)
+    .join('<span class="dot">●</span>');
+
+  document.getElementById("modalDesc").textContent = mad.description;
+  document.getElementById("modalTags").innerHTML = mad.tags
+    .map((t) => `<span class="chip">#${t}</span>`)
+    .join("");
+
+  renderRelated(mad);
+
+  modal.classList.add("is-open");
+  modal.setAttribute("aria-hidden", "false");
+  document.body.style.overflow = "hidden";
+  modal.scrollTop = 0; // 関連カードから切替えた時に先頭へ
+}
+
+function closeModal() {
+  modal.classList.remove("is-open");
+  modal.setAttribute("aria-hidden", "true");
+  document.getElementById("modalPlayer").innerHTML = ""; // 再生停止
+  document.body.style.overflow = "";
+}
+
+document.getElementById("modalClose").addEventListener("click", closeModal);
+document.getElementById("modalOverlay").addEventListener("click", closeModal);
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") closeModal();
+});
+
+/* ---------- フィルタ & 検索 ---------- */
+let currentFilter = "all";
+let currentQuery = "";
+
+// 検索: タイトル・職人・ジャンル・タグ・アニメ名を対象
+function searchMatch(m, q) {
+  return [m.title, m.author, m.anime || "", ...m.genres, ...m.tags]
+    .join(" ")
+    .toLowerCase()
+    .includes(q);
+}
+
+function applyView() {
+  let pool = MAD_DATA;
+  if (currentQuery) {
+    const q = currentQuery.toLowerCase();
+    pool = pool.filter((m) => searchMatch(m, q));
+  }
+  buildRows(specsFor(currentFilter, pool));
+}
+
+// ナビ
+document.querySelectorAll(".nav__link").forEach((link) => {
+  link.addEventListener("click", (e) => {
+    e.preventDefault();
+    document.querySelectorAll(".nav__link").forEach((l) => l.classList.remove("is-active"));
+    link.classList.add("is-active");
+    currentFilter = link.dataset.filter;
+    applyView();
+    window.scrollTo({ top: window.innerHeight * 0.55, behavior: "smooth" });
+  });
+});
+
+// 検索
+document.getElementById("searchInput").addEventListener("input", (e) => {
+  currentQuery = e.target.value.trim();
+  applyView();
+});
+
+/* ---------- ヘッダーのスクロール変化 ---------- */
+window.addEventListener("scroll", () => {
+  document.getElementById("header").classList.toggle("is-scrolled", window.scrollY > 40);
+});
+
+/* ---------- 初期化 ---------- */
+function init() {
+  // ヒーローはおすすめ&注目の中からランダムに1つ
+  const featured = MAD_DATA.filter((m) => m.recommended && m.hot);
+  const pick = (featured.length ? featured : MAD_DATA)[
+    Math.floor(Math.random() * (featured.length ? featured.length : MAD_DATA.length))
+  ];
+  setHero(pick);
+  buildRows(specsFor("all", MAD_DATA));
+}
+
+init();

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MADTHEM - MADまとめサイト</title>
+  <meta name="description" content="YouTubeのMAD・AMVをジャンルごとにまとめて楽しめるNetflix風まとめサイト" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- ===================== ヘッダー ===================== -->
+  <header class="header" id="header">
+    <div class="header__left">
+      <a href="#" class="logo">MADTHEM</a>
+      <nav class="nav">
+        <a href="#" class="nav__link is-active" data-filter="all">ホーム</a>
+        <a href="#" class="nav__link" data-filter="single">単体MAD</a>
+        <a href="#" class="nav__link" data-filter="composite">複合MAD</a>
+        <a href="#" class="nav__link" data-filter="quote">名言集</a>
+        <a href="#" class="nav__link" data-filter="hot">今注目</a>
+        <a href="#" class="nav__link" data-filter="recommended">おすすめ</a>
+      </nav>
+    </div>
+    <div class="header__right">
+      <div class="search">
+        <span class="search__icon">⌕</span>
+        <input type="text" class="search__input" id="searchInput" placeholder="タイトル・職人・タグで検索" />
+      </div>
+      <div class="avatar">M</div>
+    </div>
+  </header>
+
+  <!-- ===================== ヒーロー ===================== -->
+  <section class="hero" id="hero">
+    <div class="hero__backdrop" id="heroBackdrop"></div>
+    <div class="hero__shade"></div>
+    <div class="hero__content">
+      <span class="hero__badge">今週の特選MAD</span>
+      <h1 class="hero__title" id="heroTitle">—</h1>
+      <p class="hero__meta" id="heroMeta">—</p>
+      <p class="hero__desc" id="heroDesc">—</p>
+      <div class="hero__actions">
+        <button class="btn btn--play" id="heroPlay">▶ 再生</button>
+        <button class="btn btn--info" id="heroInfo">ⓘ 詳細</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 行コンテナ ===================== -->
+  <main class="rows" id="rows"></main>
+
+  <!-- ===================== 詳細モーダル ===================== -->
+  <div class="modal" id="modal" aria-hidden="true">
+    <div class="modal__overlay" id="modalOverlay"></div>
+    <div class="modal__card" role="dialog" aria-modal="true">
+      <button class="modal__close" id="modalClose" aria-label="閉じる">✕</button>
+      <div class="modal__player" id="modalPlayer"></div>
+      <div class="modal__body">
+        <h2 class="modal__title" id="modalTitle">—</h2>
+        <div class="modal__meta" id="modalMeta"></div>
+        <p class="modal__desc" id="modalDesc">—</p>
+        <div class="modal__tags" id="modalTags"></div>
+        <div class="modal__related" id="modalRelated" hidden>
+          <h3 class="modal__related-title">関連するMAD</h3>
+          <div class="modal__related-track" id="modalRelatedTrack"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>MADTHEM — YouTubeのMAD/AMVをジャンルで楽しむ非公式まとめサイト（サンプル）</p>
+    <p class="footer__note">※ 動画の権利は各制作者・権利者に帰属します。</p>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/data-auto.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
