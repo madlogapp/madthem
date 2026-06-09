@@ -25,6 +25,23 @@ import time
 import urllib.error
 import urllib.request
 
+# 漢字→読み（五十音インデックス用）。未導入でも動作（reading=None）
+try:
+    import pykakasi
+    _KKS = pykakasi.kakasi()
+except Exception:
+    _KKS = None
+
+
+def to_reading(text):
+    """日本語タイトルのひらがな読みを返す（索引のバケット判定用）。"""
+    if not _KKS or not text:
+        return None
+    try:
+        return "".join(it["hira"] for it in _KKS.convert(text))
+    except Exception:
+        return None
+
 # ---- 設定 ---------------------------------------------------------------
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -32,19 +49,27 @@ DATA_AUTO_JS = os.path.join(ROOT, "js", "data-auto.js")
 SEEN_PATH = os.path.join(HERE, "seen_ids.json")
 ANIME_CACHE = os.path.join(HERE, "anime_cache.json")
 
-MAX_TOTAL = 50          # data-auto.js に保持する最大件数
-PER_QUERY = 25          # 1検索あたりの取得本数
+MAX_TOTAL = 500         # data-auto.js に保持する最大件数
+PER_QUERY = 80          # 1検索あたりの取得本数
 MIN_SEC = 60            # 最短尺（ショート除外）
 MAX_SEC = 660          # 最長尺（年末複合などを許容しつつ長尺配信は除外）
 
-# 検索クエリ（単体・複合・名言集をバランス良く拾う）
+# 検索クエリ（単体・複合・名言集 + 人気アニメ別でバランス良く広く拾う）
 SEARCH_QUERIES = [
-    "アニメ MAD",
-    "アニメ AMV",
-    "単体MAD アニメ",
-    "複合MAD",
-    "アニメ 名言集 MAD",
-    "MAD 神作画",
+    # 汎用
+    "アニメ MAD", "アニメ AMV", "単体MAD アニメ", "複合MAD", "複合MAD アニメ",
+    "アニメ 名言集 MAD", "MAD 神作画", "AMV anime", "アニメ MAD 作業用",
+    "MAD アニメ 神編集", "アニメ MAD 2024", "アニメ MAD 2025", "AMV 4K アニメ",
+    # 人気アニメ別（単体MADを広く確保）
+    "呪術廻戦 MAD", "鬼滅の刃 MAD", "チェンソーマン MAD", "葬送のフリーレン MAD",
+    "薬屋のひとりごと MAD", "進撃の巨人 MAD", "僕のヒーローアカデミア MAD",
+    "ワンピース MAD", "NARUTO MAD", "BLEACH MAD", "ハイキュー MAD",
+    "東京リベンジャーズ MAD", "推しの子 MAD", "SPY×FAMILY MAD", "ブルーロック MAD",
+    "ぼっち・ざ・ろっく MAD", "暗殺教室 MAD", "Dr.STONE MAD", "炎炎ノ消防隊 MAD",
+    "モブサイコ100 MAD", "コードギアス MAD", "Fate MAD", "エヴァンゲリオン MAD",
+    "ガンダム MAD", "ポケモン MAD", "ドラゴンボール MAD", "聲の形 MAD",
+    "リコリスリコイル MAD", "葬送 MAD", "怪獣8号 MAD", "ダンダダン MAD",
+    "薫る花は凛と咲く MAD", "天元突破グレンラガン MAD", "Sakamoto Days MAD",
 ]
 
 # 非アニメ（人物・配信者・芸能人）系を確実に弾くNGワード
@@ -449,9 +474,12 @@ def main():
                      + (["名言集"] if ctype == "quote" else [])),
             "auto": True,
         }
-        # 単体MADのみ anime フィールドを付与（アニメ別行に並ぶ）
+        # 単体MADのみ anime フィールドと読み（五十音インデックス用）を付与
         if ctype == "single":
             entry["anime"] = anime
+            r = to_reading(anime)
+            if r:
+                entry["reading"] = r
 
         accepted.append(entry)
         seen.add(vid)

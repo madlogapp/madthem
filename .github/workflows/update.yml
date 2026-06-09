@@ -23,8 +23,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install yt-dlp
-        run: pip install --upgrade yt-dlp
+      - name: Install deps (yt-dlp + 読み変換)
+        run: pip install --upgrade yt-dlp pykakasi
 
       - name: Run updater (YouTube → js/data-auto.js)
         run: python tools/update_mads.py

@@ -124,13 +124,66 @@ function genreRowSpecs(items, suffix) {
   ]);
 }
 
+/* ---------- 五十音インデックス用ヘルパー ---------- */
+// カタカナ→ひらがな
+function kataToHira(s) {
+  return (s || "").replace(/[ァ-ヶ]/g, (c) =>
+    String.fromCharCode(c.charCodeAt(0) - 0x60)
+  );
+}
+// ひらがな → 行（あかさたなはまやらわ）
+const GOJUON_ROWS = [
+  ["あ", "あいうえおぁぃぅぇぉゔ"],
+  ["か", "かきくけこがぎぐげご"],
+  ["さ", "さしすせそざじずぜぞ"],
+  ["た", "たちつてとだぢづでどっ"],
+  ["な", "なにぬねの"],
+  ["は", "はひふへほばびぶべぼぱぴぷぺぽ"],
+  ["ま", "まみむめも"],
+  ["や", "やゆよゃゅょ"],
+  ["ら", "らりるれろ"],
+  ["わ", "わをんゐゑ"],
+];
+const HIRA2ROW = {};
+GOJUON_ROWS.forEach(([row, chars]) => {
+  for (const c of chars) HIRA2ROW[c] = row;
+});
+
+// アニメ名 → 並び順情報 {grp, label, sort}（A〜Z → あ〜わ → 他）
+function bucketOf(anime, reading) {
+  const t = (anime || "").trim();
+  if (!t || anime === "その他の単体MAD") return { grp: 3, label: "他", sort: "3" };
+  const c0 = t[0];
+  if (/[A-Za-z]/.test(c0)) {
+    const L = c0.toUpperCase();
+    return { grp: 0, label: L, sort: "0" + t.toUpperCase() };
+  }
+  if (/[0-9]/.test(c0)) return { grp: 2, label: "#", sort: "2" + t };
+  const h = reading || kataToHira(t);
+  const row = HIRA2ROW[h[0]] || HIRA2ROW[kataToHira(c0)[0]];
+  if (row) return { grp: 1, label: row, sort: "1" + (h || t) };
+  return { grp: 2, label: "#", sort: "2" + t };
+}
+
+// アニメ名 → 読み の対応表（単体MADの reading から）
+function buildReadingMap() {
+  const m = {};
+  MAD_DATA.forEach((x) => {
+    if (x.type === "single" && x.anime && x.reading && !m[x.anime]) {
+      m[x.anime] = x.reading;
+    }
+  });
+  return m;
+}
+
 // フィルタごとに表示する行スペック [title, items, accent?] を返す
 function specsFor(filter, pool) {
   if (filter === "single") {
-    // 単体MAD: アニメ名ごとの横スクロール（単一HTML内で擬似ページ化）
+    // 単体MAD: アニメ名ごとの横スクロール（A〜Z → 五十音順 に並べる）
     const singles = pool.filter((m) => m.type === "single");
+    const rmap = buildReadingMap();
     const animes = [...new Set(singles.map((m) => m.anime).filter(Boolean))].sort(
-      (a, b) => a.localeCompare(b, "ja")
+      (a, b) => bucketOf(a, rmap[a]).sort.localeCompare(bucketOf(b, rmap[b]).sort, "ja")
     );
     const specs = animes.map((a) => [
       a,
@@ -331,6 +384,45 @@ function applyView() {
     pool = pool.filter((m) => searchMatch(m, q));
   }
   buildRows(specsFor(currentFilter, pool));
+  renderAnimeIndex(currentFilter);
+}
+
+/* ---------- 五十音インデックス（単体MADビューのみ） ---------- */
+function renderAnimeIndex(filter) {
+  const idx = document.getElementById("azIndex");
+  if (!idx) return;
+  if (filter !== "single") {
+    idx.hidden = true;
+    idx.innerHTML = "";
+    return;
+  }
+  const rmap = buildReadingMap();
+  const seen = new Set();
+  const items = [];
+  document.querySelectorAll("#rows .row").forEach((r) => {
+    const anime = r.querySelector(".row__title").textContent;
+    const b = bucketOf(anime, rmap[anime]);
+    if (!seen.has(b.label)) {
+      seen.add(b.label);
+      const id = "bk-" + encodeURIComponent(b.label);
+      r.id = id;
+      items.push({ label: b.label, id });
+    }
+  });
+  idx.innerHTML = items
+    .map((it) => `<a class="az-index__item" data-target="${it.id}">${it.label}</a>`)
+    .join("");
+  idx.hidden = false;
+  idx.querySelectorAll(".az-index__item").forEach((a) => {
+    a.addEventListener("click", (e) => {
+      e.preventDefault();
+      const el = document.getElementById(a.dataset.target);
+      if (el) {
+        const y = el.getBoundingClientRect().top + window.scrollY - 84;
+        window.scrollTo({ top: y, behavior: "smooth" });
+      }
+    });
+  });
 }
 
 // ナビ
