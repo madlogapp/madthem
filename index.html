@@ -2,10 +2,20 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>MADTHEM - MADまとめサイト</title>
   <meta name="description" content="YouTubeのMAD・AMVをジャンルごとにまとめて楽しめるNetflix風まとめサイト" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+  <!-- PWA / ホーム画面に追加 -->
+  <link rel="manifest" href="manifest.webmanifest" />
+  <meta name="theme-color" content="#141414" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="MADTHEM" />
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+  <link rel="icon" href="icons/favicon-64.png" />
+
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
@@ -13,7 +23,7 @@
   <header class="header" id="header">
     <div class="header__left">
       <a href="#" class="logo">MADTHEM</a>
-      <nav class="nav">
+      <nav class="nav" id="nav">
         <a href="#" class="nav__link is-active" data-filter="all">ホーム</a>
         <a href="#" class="nav__link" data-filter="single">単体MAD</a>
         <a href="#" class="nav__link" data-filter="composite">複合MAD</a>
@@ -27,6 +37,9 @@
         <span class="search__icon">⌕</span>
         <input type="text" class="search__input" id="searchInput" placeholder="タイトル・職人・タグで検索" />
       </div>
+      <button class="nav-toggle" id="navToggle" aria-haspopup="true" aria-expanded="false">
+        <span id="navToggleLabel">ホーム</span> <span class="nav-toggle__caret">▾</span>
+      </button>
       <div class="avatar">M</div>
     </div>
   </header>

@@ -193,12 +193,18 @@ function setHero(mad) {
   document.getElementById("heroMeta").textContent =
     `${mad.year} ・ ${categoryLabel(mad.type)} ・ ${mad.genres.join(" / ")} ・ ${mad.duration} ・ ${mad.author}`;
   document.getElementById("heroDesc").textContent = mad.description;
+
   const bd = document.getElementById("heroBackdrop");
-  bd.style.background = gradientFor(mad.title);
+  // サムネを背景に敷き（動画読み込み前のフォールバック）
   bd.style.backgroundImage =
     `url('${thumbUrl(mad.youtubeId)}'), ${gradientFor(mad.title)}`;
   bd.style.backgroundSize = "cover";
   bd.style.backgroundPosition = "center";
+  // ミュート・ループの自動再生動画を被せる
+  const v = mad.youtubeId;
+  bd.innerHTML =
+    `<iframe class="hero__video" allow="autoplay; encrypted-media"
+       src="https://www.youtube-nocookie.com/embed/${v}?autoplay=1&mute=1&loop=1&playlist=${v}&controls=0&showinfo=0&modestbranding=1&playsinline=1&rel=0&iv_load_policy=3&disablekb=1"></iframe>`;
 
   document.getElementById("heroPlay").onclick = () => openModal(mad);
   document.getElementById("heroInfo").onclick = () => openModal(mad);
@@ -328,15 +334,39 @@ function applyView() {
 }
 
 // ナビ
+const navEl = document.getElementById("nav");
+const navToggle = document.getElementById("navToggle");
+const navToggleLabel = document.getElementById("navToggleLabel");
+
+function closeNav() {
+  navEl.classList.remove("is-open");
+  navToggle.setAttribute("aria-expanded", "false");
+}
+
 document.querySelectorAll(".nav__link").forEach((link) => {
   link.addEventListener("click", (e) => {
     e.preventDefault();
     document.querySelectorAll(".nav__link").forEach((l) => l.classList.remove("is-active"));
     link.classList.add("is-active");
     currentFilter = link.dataset.filter;
+    navToggleLabel.textContent = link.textContent; // ボタン表示を現在地に更新
+    closeNav();
     applyView();
     window.scrollTo({ top: window.innerHeight * 0.55, behavior: "smooth" });
   });
+});
+
+// モバイル: カテゴリボタンでドロップダウン開閉
+navToggle.addEventListener("click", (e) => {
+  e.stopPropagation();
+  const open = navEl.classList.toggle("is-open");
+  navToggle.setAttribute("aria-expanded", open ? "true" : "false");
+});
+// 外側クリックで閉じる
+document.addEventListener("click", (e) => {
+  if (!navEl.contains(e.target) && e.target !== navToggle && !navToggle.contains(e.target)) {
+    closeNav();
+  }
 });
 
 // 検索
