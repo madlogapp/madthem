@@ -1,5 +1,68 @@
 [
   {
+    "id": "auto__9aZfsJ-snc",
+    "title": "【MAD】チェンソーマン/IRIS OUT【ver.2】",
+    "author": "じぇべりー",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "_9aZfsJ-snc",
+    "duration": "2:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（じぇべりー）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン"
+  },
+  {
+    "id": "auto_Rfu6I0V01IQ",
+    "title": "【MAD】ハイキュー！！×【決戦スピリット】",
+    "author": "ゆゆ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Rfu6I0V01IQ",
+    "duration": "4:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ゆゆ）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!!"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!!"
+  },
+  {
+    "id": "auto_JPz_4SuNDy8",
+    "title": "【AMV/MAD】SAKAMOTO DAYS【アメイジンググレイス】",
+    "author": "Nanatsuki",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "JPz_4SuNDy8",
+    "duration": "1:51",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Nanatsuki）。",
+    "tags": [
+      "自動取得",
+      "SAKAMOTO DAYS"
+    ],
+    "auto": true,
+    "anime": "SAKAMOTO DAYS"
+  },
+  {
     "id": "auto_Ze5p7u1hZZo",
     "title": "【MAD】呪術廻戦/一騎当千",
     "author": "ねむねこ【MAD】",
@@ -947,65 +1010,6 @@
     "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
     "tags": [
       "自動取得"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_RDx5XGQnCro",
-    "title": "【複合MAD】ヒバナ",
-    "author": "にわか侍",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "RDx5XGQnCro",
-    "duration": "2:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_RZYMMN_egPU",
-    "title": "【名言集】心に刺さる＆勇気が出るアニメの名言集✨",
-    "author": "NY太郎",
-    "type": "quote",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "RZYMMN_egPU",
-    "duration": "4:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（NY太郎）。",
-    "tags": [
-      "自動取得",
-      "名言集"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_67oqqEKVU0Y",
-    "title": "【アニメ名言集】勇気をくれる・背中を押してくれる名言〜裸の勇者〜",
-    "author": "ぴらこ",
-    "type": "quote",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "67oqqEKVU0Y",
-    "duration": "3:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぴらこ）。",
-    "tags": [
-      "自動取得",
-      "名言集"
     ],
     "auto": true
   }
