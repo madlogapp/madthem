@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_zkOYWw0u8as",
+    "title": "『SAKAMOTO DAYS』ノンクレジットオープニング│Vaundy「走れSAKAMOTO」│SAKAMOTO DAYS Opening",
+    "author": "TMSアニメ公式チャンネル",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "zkOYWw0u8as",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TMSアニメ公式チャンネル）。",
+    "tags": [
+      "自動取得",
+      "SAKAMOTO DAYS"
+    ],
+    "auto": true,
+    "anime": "SAKAMOTO DAYS",
+    "reading": "SAKAMOTO DAYS"
+  },
+  {
     "id": "auto_y7acZNS6C0Q",
     "title": "かくれんぼ1万再生突破記念🎉  【MAD】暗殺教室×怪物【YOASOBI】",
     "author": "栗ちゃんネル",
@@ -10963,26 +10985,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "天元突破グレンラガン",
     "reading": "てんげんとっぱぐれんらがん"
-  },
-  {
-    "id": "auto_wuBCxhq_L8A",
-    "title": "【感動MAD/AMV】心に響く名言集【春想】【ヒロイン】【高画質】【セリフ入り】【全てのアニメファンに見てほしい】",
-    "author": "わんポニ",
-    "type": "quote",
-    "genres": [
-      "バラード"
-    ],
-    "youtubeId": "wuBCxhq_L8A",
-    "duration": "8:47",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（わんポニ）。",
-    "tags": [
-      "自動取得",
-      "名言集"
-    ],
-    "auto": true
   }
 ];
 
