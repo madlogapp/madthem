@@ -2,6 +2,111 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_r8IVBTQvjw4",
+    "title": "【セリフ入りMAD】僕のヒーローアカデミアFINAL SEASON ×I 【4K/2160p60】【BUMP OF CHICKEN】【AMV】【My Hero Academia】",
+    "author": "まけと。",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "r8IVBTQvjw4",
+    "duration": "4:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（まけと。）。",
+    "tags": [
+      "自動取得",
+      "僕のヒーローアカデミア FINAL SEASON"
+    ],
+    "auto": true,
+    "anime": "僕のヒーローアカデミア FINAL SEASON"
+  },
+  {
+    "id": "auto_N6CHtrd-WtI",
+    "title": "Jujutsu Kaisen X I Will Survive | JJK CULLING GAME 4K [AMV/EDIT] |",
+    "author": "MonkeyEdits",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "N6CHtrd-WtI",
+    "duration": "3:35",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（MonkeyEdits）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦"
+  },
+  {
+    "id": "auto_JiLMIysz4F0",
+    "title": "【葬送のフリーレン】勇者/YOASOBI　【MAD/AMV】【高画質】【4K】",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "JiLMIysz4F0",
+    "duration": "3:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン"
+  },
+  {
+    "id": "auto_vDUfVxQ8Ukw",
+    "title": "「AMV」BANG | Gachiakuta",
+    "author": "Zorken 剣士",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "vDUfVxQ8Ukw",
+    "duration": "2:04",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Zorken 剣士）。",
+    "tags": [
+      "自動取得",
+      "Bang!Bang!Bang!"
+    ],
+    "auto": true,
+    "anime": "Bang!Bang!Bang!"
+  },
+  {
+    "id": "auto_aXzOYa4R8mY",
+    "title": "Blue Box【AMV】Baby",
+    "author": "Yaudah AMVs",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "aXzOYa4R8mY",
+    "duration": "1:45",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Yaudah AMVs）。",
+    "tags": [
+      "自動取得",
+      "アオのハコ"
+    ],
+    "auto": true,
+    "anime": "アオのハコ"
+  },
+  {
     "id": "auto__9aZfsJ-snc",
     "title": "【MAD】チェンソーマン/IRIS OUT【ver.2】",
     "author": "じぇべりー",
@@ -915,101 +1020,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（jokerMAD）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_WdTsX6NQxhg",
-    "title": "【複合MAD】ロキ",
-    "author": "にわか侍",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "WdTsX6NQxhg",
-    "duration": "2:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_f6vrZJqgctc",
-    "title": "Show -Ado- [ AMV - Mix ] Anime Mix",
-    "author": "にわか侍",
-    "type": "composite",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "f6vrZJqgctc",
-    "duration": "3:10",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_QPAxNLCacJU",
-    "title": "【複合MAD】01",
-    "author": "にわか侍",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "QPAxNLCacJU",
-    "duration": "3:12",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_vdHCDYnLaUw",
-    "title": "【複合MAD】ファタール",
-    "author": "にわか侍",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vdHCDYnLaUw",
-    "duration": "3:39",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_SodvTgeC0Bs",
-    "title": "【複合MAD】群青",
-    "author": "にわか侍",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "SodvTgeC0Bs",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
     "tags": [
       "自動取得"
     ],
