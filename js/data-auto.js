@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_v63ncEW99SA",
+    "title": "[MAD] 天元突破グレンラガン / 証明 (SUPER BEAVER)",
+    "author": "脇藩",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "v63ncEW99SA",
+    "duration": "4:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（脇藩）。",
+    "tags": [
+      "自動取得",
+      "天元突破グレンラガン"
+    ],
+    "auto": true,
+    "anime": "天元突破グレンラガン",
+    "reading": "てんげんとっぱぐれんらがん"
+  },
+  {
     "id": "auto_zkOYWw0u8as",
     "title": "『SAKAMOTO DAYS』ノンクレジットオープニング│Vaundy「走れSAKAMOTO」│SAKAMOTO DAYS Opening",
     "author": "TMSアニメ公式チャンネル",
@@ -10963,28 +10985,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_NgreEkT4l2U",
-    "title": "【天元突破グレンラガン】僕の見せたい景色【MAD】",
-    "author": "雲谷ノア",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "NgreEkT4l2U",
-    "duration": "4:23",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（雲谷ノア）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ];
 
