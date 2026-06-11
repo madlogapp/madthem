@@ -50,8 +50,8 @@ DATA_AUTO_JS = os.path.join(ROOT, "js", "data-auto.js")
 SEEN_PATH = os.path.join(HERE, "seen_ids.json")
 ANIME_CACHE = os.path.join(HERE, "anime_cache.json")
 
-MAX_TOTAL = 500         # data-auto.js に保持する最大件数
-PER_QUERY = 80          # 1検索あたりの取得本数
+MAX_TOTAL = 1000        # data-auto.js に保持する最大件数
+PER_QUERY = 150         # 1検索あたりの取得本数（深く掘って新規を確保）
 MIN_SEC = 60            # 最短尺（ショート除外）
 MAX_SEC = 660          # 最長尺（年末複合などを許容しつつ長尺配信は除外）
 
@@ -71,6 +71,19 @@ SEARCH_QUERIES = [
     "ガンダム MAD", "ポケモン MAD", "ドラゴンボール MAD", "聲の形 MAD",
     "リコリスリコイル MAD", "葬送 MAD", "怪獣8号 MAD", "ダンダダン MAD",
     "薫る花は凛と咲く MAD", "天元突破グレンラガン MAD", "Sakamoto Days MAD",
+    # 追加（新規確保のため更に広げる）
+    "ワンパンマン MAD", "オーバーロード MAD", "Re:ゼロ MAD", "このすば MAD",
+    "幼女戦記 MAD", "鉄血のオルフェンズ MAD", "シュタインズゲート MAD",
+    "とある魔術の禁書目録 MAD", "デート・ア・ライブ MAD", "オーバーテイク MAD",
+    "ヴァイオレットエヴァーガーデン MAD", "メイドインアビス MAD", "彼方のアストラ MAD",
+    "約束のネバーランド MAD", "魔法科高校の劣等生 MAD",
+    "七つの大罪 MAD", "黒子のバスケ MAD", "テニスの王子様 MAD", "弱虫ペダル MAD",
+    "ユーリ!!! on ICE MAD", "あの花 MAD", "凪のあすから MAD", "四月は君の嘘 MAD",
+    "やはり俺の青春ラブコメはまちがっている MAD", "ホリミヤ MAD", "five centimeters MAD",
+    "天気の子 MAD", "言の葉の庭 MAD", "サマーウォーズ MAD", "君に届け MAD",
+    "ヴァンパイア MAD アニメ", "魔法少女まどかマギカ MAD", "化物語 MAD",
+    "オッドタクシー MAD", "サイバーパンク エッジランナーズ MAD", "PSYCHO-PASS MAD",
+    "BLEACH 千年血戦 MAD", "葬送のフリーレン AMV", "鬼滅の刃 AMV", "呪術廻戦 AMV",
 ]
 
 # 非アニメ（人物・配信者・芸能人）系を確実に弾くNGワード
