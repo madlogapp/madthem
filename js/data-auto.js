@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_paTUGe-1Rhw",
+    "title": "【MAD】弱虫ペダル × FUNK JUNGLE",
+    "author": "ヘマチオのMAD作成チャンネル®",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "paTUGe-1Rhw",
+    "duration": "2:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ヘマチオのMAD作成チャンネル®）。",
+    "tags": [
+      "自動取得",
+      "弱虫ペダル"
+    ],
+    "auto": true,
+    "anime": "弱虫ペダル",
+    "reading": "よわむしぺだる"
+  },
+  {
     "id": "auto_0GFfAgaSHLo",
     "title": "【歌詞入りMAD】弱虫ペダル×決戦スピリット",
     "author": "そーるなまいch",
@@ -21965,28 +21987,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "アニメ モンスターストライク",
     "reading": "あにめ もんすたーすとらいく"
-  },
-  {
-    "id": "auto_hYhhxGqCYyE",
-    "title": "【AMV/MAD】紅蓮の弓矢×自由の奴隷『進撃の巨人MAD』",
-    "author": "バラターズ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "hYhhxGqCYyE",
-    "duration": "5:10",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（バラターズ）。",
-    "tags": [
-      "自動取得",
-      "劇場版「進撃の巨人」前編～紅蓮の弓矢～"
-    ],
-    "auto": true,
-    "anime": "劇場版「進撃の巨人」前編～紅蓮の弓矢～",
-    "reading": "げきじょうばん「しんげきのきょじん」ぜんぺん～ぐれんのゆみや～"
   }
 ];
 
