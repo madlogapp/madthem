@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_cdPyQcqSNGk",
+    "title": "【AMV】ダンダダン × Episode X - Ado｜EP9｜中文字幕",
+    "author": "Sanguine Heron",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "cdPyQcqSNGk",
+    "duration": "3:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Sanguine Heron）。",
+    "tags": [
+      "自動取得",
+      "ダンダダン"
+    ],
+    "auto": true,
+    "anime": "ダンダダン",
+    "reading": "だんだだん"
+  },
+  {
     "id": "auto_paTUGe-1Rhw",
     "title": "【MAD】弱虫ペダル × FUNK JUNGLE",
     "author": "ヘマチオのMAD作成チャンネル®",
@@ -21963,27 +21985,5 @@
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_Ux931RziGfU",
-    "title": "【 MAD 】 薬屋のひとりごと op曲 / 花になって (full ×1.5)【 アニメ 】歌詞付き♪",
-    "author": "verひろべ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ux931RziGfU",
-    "duration": "4:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（verひろべ）。",
-    "tags": [
-      "自動取得",
-      "アニメ モンスターストライク"
-    ],
-    "auto": true,
-    "anime": "アニメ モンスターストライク",
-    "reading": "あにめ もんすたーすとらいく"
   }
 ]
