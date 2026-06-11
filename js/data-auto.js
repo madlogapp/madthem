@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_7wMvXh1FyeI",
+    "title": "【MAD】進撃の巨人/天国 -Mrs. GREEN APPLE-",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "7wMvXh1FyeI",
+    "duration": "5:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "進撃の巨人"
+    ],
+    "auto": true,
+    "anime": "進撃の巨人",
+    "reading": "しんげきのきょじん"
+  },
+  {
     "id": "auto_v63ncEW99SA",
     "title": "[MAD] 天元突破グレンラガン / 証明 (SUPER BEAVER)",
     "author": "脇藩",
@@ -10963,28 +10985,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "劇場版「進撃の巨人」前編～紅蓮の弓矢～",
     "reading": "げきじょうばん「しんげきのきょじん」ぜんぺん～ぐれんのゆみや～"
-  },
-  {
-    "id": "auto_QI4N-A9wQdk",
-    "title": "【SAKAMOTO DAYS】 ORDER PV 【最新16巻発売記念】",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "QI4N-A9wQdk",
-    "duration": "1:35",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 
