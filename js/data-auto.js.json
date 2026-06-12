@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_8OORmSuecEQ",
+    "title": "桜井さん(Mr.Children)　曲が降ってきた瞬間",
+    "author": "よしき参拝",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "8OORmSuecEQ",
+    "duration": "1:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（よしき参拝）。",
+    "tags": [
+      "自動取得",
+      "himawari"
+    ],
+    "auto": true,
+    "anime": "himawari",
+    "reading": "himawari"
+  },
+  {
     "id": "auto_VUIh_nLZhKk",
     "title": "【mad】境界の彼方(ただ声一つ)",
     "author": "mad sunny",
@@ -21963,27 +21985,5 @@
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_mpVMICBFEbc",
-    "title": "【原神】【MAD/GMV】祝福×Genshin Impact ⚠︎ネタバレ注意",
-    "author": "かっふぇ☕️",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "mpVMICBFEbc",
-    "duration": "3:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（かっふぇ☕️）。",
-    "tags": [
-      "自動取得",
-      "原神"
-    ],
-    "auto": true,
-    "anime": "原神",
-    "reading": "はらかみ"
   }
 ]
