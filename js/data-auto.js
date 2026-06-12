@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_p2E7euZW4Hs",
+    "title": "【手描き】テレキャスタービーボーイ/Dr.STONE",
+    "author": "ブルースター",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "p2E7euZW4Hs",
+    "duration": "1:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ブルースター）。",
+    "tags": [
+      "自動取得",
+      "テレキャスタービーボーイ"
+    ],
+    "auto": true,
+    "anime": "テレキャスタービーボーイ",
+    "reading": "てれきゃすたーびーぼーい"
+  },
+  {
     "id": "auto_cdPyQcqSNGk",
     "title": "【AMV】ダンダダン × Episode X - Ado｜EP9｜中文字幕",
     "author": "Sanguine Heron",
@@ -21965,28 +21987,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "キルラキル",
     "reading": "きるらきる"
-  },
-  {
-    "id": "auto_oDL7ROqscnw",
-    "title": "【MAD】進撃の巨人×命に嫌われている。-リヴァイ兵長- リメイク",
-    "author": "橋本season4",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "oDL7ROqscnw",
-    "duration": "4:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（橋本season4）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 
