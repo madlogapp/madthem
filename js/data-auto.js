@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_VUIh_nLZhKk",
+    "title": "【mad】境界の彼方(ただ声一つ)",
+    "author": "mad sunny",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "VUIh_nLZhKk",
+    "duration": "2:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（mad sunny）。",
+    "tags": [
+      "自動取得",
+      "境界の彼方"
+    ],
+    "auto": true,
+    "anime": "境界の彼方",
+    "reading": "きょうかいのかなた"
+  },
+  {
     "id": "auto_p2E7euZW4Hs",
     "title": "【手描き】テレキャスタービーボーイ/Dr.STONE",
     "author": "ブルースター",
@@ -21965,28 +21987,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "原神",
     "reading": "はらかみ"
-  },
-  {
-    "id": "auto_l-NCtNBHk_E",
-    "title": "【MAD】BELIEVE IN NEXUS【キルラキル】",
-    "author": "ダンカ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "l-NCtNBHk_E",
-    "duration": "3:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ダンカ）。",
-    "tags": [
-      "自動取得",
-      "キルラキル"
-    ],
-    "auto": true,
-    "anime": "キルラキル",
-    "reading": "きるらきる"
   }
 ];
 
