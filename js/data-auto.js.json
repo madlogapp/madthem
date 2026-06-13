@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_a09l9DKasTs",
+    "title": "【MAD】　ホリミヤ×キセキ",
+    "author": "miniマカロン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "a09l9DKasTs",
+    "duration": "3:07",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（miniマカロン）。",
+    "tags": [
+      "自動取得",
+      "ホリミヤ"
+    ],
+    "auto": true,
+    "anime": "ホリミヤ",
+    "reading": "ほりみや"
+  },
+  {
     "id": "auto_8OORmSuecEQ",
     "title": "桜井さん(Mr.Children)　曲が降ってきた瞬間",
     "author": "よしき参拝",
@@ -21963,27 +21985,5 @@
     "auto": true,
     "anime": "BLEACH",
     "reading": "BLEACH"
-  },
-  {
-    "id": "auto_TeFY994Cc0s",
-    "title": "【薫る花は凛と咲く】x ‘まなざしは光’ - Tatsuya Kitani [AMV]",
-    "author": "Vn",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "TeFY994Cc0s",
-    "duration": "3:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Vn）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ]
