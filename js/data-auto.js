@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Gyvkk7MaHQ4",
+    "title": "ソラニン / 後藤ひとり (結束バンド)【ぼっちざろっく】",
+    "author": "MUMEI",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Gyvkk7MaHQ4",
+    "duration": "5:10",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（MUMEI）。",
+    "tags": [
+      "自動取得",
+      "ぼっち・ざ・ろっく！"
+    ],
+    "auto": true,
+    "anime": "ぼっち・ざ・ろっく！",
+    "reading": "ぼっち・ざ・ろっく！"
+  },
+  {
     "id": "auto_a09l9DKasTs",
     "title": "【MAD】　ホリミヤ×キセキ",
     "author": "miniマカロン",
@@ -21965,28 +21987,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "III",
     "reading": "III"
-  },
-  {
-    "id": "auto_R8pib9YdgTE",
-    "title": "【MAD】BLEACH×かくれんぼ　死神代行編〜千年血戦編　リメイク",
-    "author": "底辺の頂点",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "R8pib9YdgTE",
-    "duration": "4:59",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（底辺の頂点）。",
-    "tags": [
-      "自動取得",
-      "BLEACH"
-    ],
-    "auto": true,
-    "anime": "BLEACH",
-    "reading": "BLEACH"
   }
 ];
 
