@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_hSGZabccRSA",
+    "title": "【MAD】ヴァイオレットエヴァーガーデン×「今はいいんだよ」【アニメ映画】【名シーン】",
+    "author": "ゆいぽん酢",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "hSGZabccRSA",
+    "duration": "1:09",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ゆいぽん酢）。",
+    "tags": [
+      "自動取得",
+      "シーキャット"
+    ],
+    "auto": true,
+    "anime": "シーキャット",
+    "reading": "しーきゃっと"
+  },
+  {
     "id": "auto_Gyvkk7MaHQ4",
     "title": "ソラニン / 後藤ひとり (結束バンド)【ぼっちざろっく】",
     "author": "MUMEI",
@@ -21963,27 +21985,5 @@
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_P4U2HtgK9wI",
-    "title": "【手描きコードギアス】III【ルルーシュ・スザク】",
-    "author": "ぐみ(旧あをい)",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "P4U2HtgK9wI",
-    "duration": "3:10",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぐみ(旧あをい)）。",
-    "tags": [
-      "自動取得",
-      "III"
-    ],
-    "auto": true,
-    "anime": "III",
-    "reading": "III"
   }
 ]
