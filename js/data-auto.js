@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_OcWktiT4EaE",
+    "title": "聲の形MAD",
+    "author": "ひ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "OcWktiT4EaE",
+    "duration": "1:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ひ）。",
+    "tags": [
+      "自動取得",
+      "聲の形"
+    ],
+    "auto": true,
+    "anime": "聲の形",
+    "reading": "こえのかたち"
+  },
+  {
     "id": "auto_hSGZabccRSA",
     "title": "【MAD】ヴァイオレットエヴァーガーデン×「今はいいんだよ」【アニメ映画】【名シーン】",
     "author": "ゆいぽん酢",
@@ -21965,28 +21987,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_k91Xwsjr0yI",
-    "title": "【リクエストMAD】モブサイコ100「99.9」",
-    "author": "イヌヅカ:BR",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "k91Xwsjr0yI",
-    "duration": "3:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（イヌヅカ:BR）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 
