@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_jQjaHUpMU4I",
+    "title": "『BLEACH 千年血戦篇』Number One「AMV」",
+    "author": "Re:Seventeen",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "jQjaHUpMU4I",
+    "duration": "2:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Re:Seventeen）。",
+    "tags": [
+      "自動取得",
+      "BLEACH 千年血戦篇"
+    ],
+    "auto": true,
+    "anime": "BLEACH 千年血戦篇",
+    "reading": "BLEACH せんねんけっせんへん"
+  },
+  {
     "id": "auto_OcWktiT4EaE",
     "title": "聲の形MAD",
     "author": "ひ",
@@ -21963,27 +21985,5 @@
       "自動取得"
     ],
     "auto": true
-  },
-  {
-    "id": "auto_L5_zcR8rMhc",
-    "title": "【MAD】怪獣8号×シルエット/KANA-BOON",
-    "author": "Lです",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "L5_zcR8rMhc",
-    "duration": "3:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lです）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ]
