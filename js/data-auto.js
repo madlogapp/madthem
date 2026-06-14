@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_kBbhjZ3Tais",
+    "title": "【BLEACH 千年血戦篇】聖者の行進｜キタニタツヤ【MAD/AMV】English Sub",
+    "author": "えふのこ@efnoko",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "kBbhjZ3Tais",
+    "duration": "3:00",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（えふのこ@efnoko）。",
+    "tags": [
+      "自動取得",
+      "BLEACH 千年血戦篇"
+    ],
+    "auto": true,
+    "anime": "BLEACH 千年血戦篇",
+    "reading": "BLEACH せんねんけっせんへん"
+  },
+  {
     "id": "auto_jQjaHUpMU4I",
     "title": "『BLEACH 千年血戦篇』Number One「AMV」",
     "author": "Re:Seventeen",
@@ -21968,25 +21990,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "タコピーの原罪",
     "reading": "たこぴーのげんざい"
-  },
-  {
-    "id": "auto_hcoYz6gP6u8",
-    "title": "【静止画MAD】 DRAGONBALL× IMAGINARY LIKE THE JUSTICE  【合作MAD】",
-    "author": "kurosu 【MAD】",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "hcoYz6gP6u8",
-    "duration": "4:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（kurosu 【MAD】）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
   }
 ];
 
