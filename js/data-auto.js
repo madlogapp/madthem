@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_SaqYnZDlIT8",
+    "title": "[ Tengen Toppa Gurren Lagann ]「ＡＭＶ」 - Happily ever after",
+    "author": "Sky Box AMVs",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "SaqYnZDlIT8",
+    "duration": "3:26",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Sky Box AMVs）。",
+    "tags": [
+      "自動取得",
+      "天元突破グレンラガン"
+    ],
+    "auto": true,
+    "anime": "天元突破グレンラガン",
+    "reading": "てんげんとっぱぐれんらがん"
+  },
+  {
     "id": "auto_kBbhjZ3Tais",
     "title": "【BLEACH 千年血戦篇】聖者の行進｜キタニタツヤ【MAD/AMV】English Sub",
     "author": "えふのこ@efnoko",
@@ -21968,28 +21990,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "新世紀エヴァンゲリオン",
     "reading": "しんせいきえゔぁんげりおん"
-  },
-  {
-    "id": "auto_544Mzhu3y6g",
-    "title": "【MAD】タコピーの原罪/痛いの痛いの飛んでいけ",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "544Mzhu3y6g",
-    "duration": "3:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "タコピーの原罪"
-    ],
-    "auto": true,
-    "anime": "タコピーの原罪",
-    "reading": "たこぴーのげんざい"
   }
 ];
 
