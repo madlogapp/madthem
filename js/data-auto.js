@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto__1RZGbCWLwU",
+    "title": "【完結記念MAD】僕のヒーローアカデミア×THE REVO/ポルノグラフィティ #ヒロアカ #MAD #完結 #アニメ",
+    "author": "Ayu@MAD製作",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "_1RZGbCWLwU",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Ayu@MAD製作）。",
+    "tags": [
+      "自動取得",
+      "僕のヒーローアカデミア"
+    ],
+    "auto": true,
+    "anime": "僕のヒーローアカデミア",
+    "reading": "ぼくのひーろーあかでみあ"
+  },
+  {
     "id": "auto_SaqYnZDlIT8",
     "title": "[ Tengen Toppa Gurren Lagann ]「ＡＭＶ」 - Happily ever after",
     "author": "Sky Box AMVs",
@@ -21968,28 +21990,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_morYvNViNbU",
-    "title": "【MAD】エヴァンゲリオン×魔法鏡",
-    "author": "K",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "morYvNViNbU",
-    "duration": "3:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（K）。",
-    "tags": [
-      "自動取得",
-      "新世紀エヴァンゲリオン"
-    ],
-    "auto": true,
-    "anime": "新世紀エヴァンゲリオン",
-    "reading": "しんせいきえゔぁんげりおん"
   }
 ];
 
