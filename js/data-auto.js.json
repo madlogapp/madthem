@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_w9fahDDhFJo",
+    "title": "【MAD/AMV】敗北と勝利【黒子のバスケ】",
+    "author": "seki951",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "w9fahDDhFJo",
+    "duration": "3:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（seki951）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto__1RZGbCWLwU",
     "title": "【完結記念MAD】僕のヒーローアカデミア×THE REVO/ポルノグラフィティ #ヒロアカ #MAD #完結 #アニメ",
     "author": "Ayu@MAD製作",
@@ -21966,27 +21988,5 @@
     "auto": true,
     "anime": "怪獣８号",
     "reading": "かいじゅう８ごう"
-  },
-  {
-    "id": "auto_UaaLmmZs1Qk",
-    "title": "【MAD】聲の形×明日への扉　歌詞入り　1080ｐ",
-    "author": "Toka",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "UaaLmmZs1Qk",
-    "duration": "4:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Toka）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ]
