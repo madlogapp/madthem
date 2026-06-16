@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_gVW8b4FjoeE",
+    "title": "【AMV】The Defeated Boy × Ryūnosuke Tanaka【Haikyu!! TO THE TOP】",
+    "author": "ALINCO",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gVW8b4FjoeE",
+    "duration": "2:46",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ALINCO）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!! TO THE TOP"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!! TO THE TOP",
+    "reading": "はいきゅー!! TO THE TOP"
+  },
+  {
     "id": "auto_MyuOm70GqN4",
     "title": "【MAD】炎のヒーロー【炎炎ノ消防隊】",
     "author": "アカサカ",
@@ -21966,27 +21988,5 @@
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_w2SC6VULdCw",
-    "title": "【MAD】葬送のフリーレン×KING",
-    "author": "コーラ信者",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "w2SC6VULdCw",
-    "duration": "2:08",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（コーラ信者）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ]
