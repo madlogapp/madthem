@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_MyuOm70GqN4",
+    "title": "【MAD】炎のヒーロー【炎炎ノ消防隊】",
+    "author": "アカサカ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "MyuOm70GqN4",
+    "duration": "1:28",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（アカサカ）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_eAzRIvLT5eM",
     "title": "[AMV/MAD] Fate/Grand Order | AliA 「impulse」",
     "author": "Altair Alter",
@@ -21968,28 +21990,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_nouHsGvwl1w",
-    "title": "【MAD】ハイキュー×青と夏",
-    "author": "Hassy",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "nouHsGvwl1w",
-    "duration": "4:32",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Hassy）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
