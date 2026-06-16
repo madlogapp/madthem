@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_eAzRIvLT5eM",
+    "title": "[AMV/MAD] Fate/Grand Order | AliA 「impulse」",
+    "author": "Altair Alter",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "eAzRIvLT5eM",
+    "duration": "3:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Altair Alter）。",
+    "tags": [
+      "自動取得",
+      "運命"
+    ],
+    "auto": true,
+    "anime": "運命",
+    "reading": "うんめい"
+  },
+  {
     "id": "auto_w9fahDDhFJo",
     "title": "【MAD/AMV】敗北と勝利【黒子のバスケ】",
     "author": "seki951",
@@ -21966,27 +21988,5 @@
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_CFjI21M9wZs",
-    "title": "アニメ『怪獣８号』ノンクレジットOP｜YUNGBLUD「Abyss」｜毎週土曜23時～放送・配信",
-    "author": "TOHO animation チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "CFjI21M9wZs",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
-    "tags": [
-      "自動取得",
-      "怪獣８号"
-    ],
-    "auto": true,
-    "anime": "怪獣８号",
-    "reading": "かいじゅう８ごう"
   }
 ]
