@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_dOTPnFupIn0",
+    "title": "【MAD】ダンダダン x フューエル",
+    "author": "まつん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "dOTPnFupIn0",
+    "duration": "1:46",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（まつん）。",
+    "tags": [
+      "自動取得",
+      "ダンダダン"
+    ],
+    "auto": true,
+    "anime": "ダンダダン",
+    "reading": "だんだだん"
+  },
+  {
     "id": "auto_gVW8b4FjoeE",
     "title": "【AMV】The Defeated Boy × Ryūnosuke Tanaka【Haikyu!! TO THE TOP】",
     "author": "ALINCO",
@@ -21968,28 +21990,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "セレナーデ",
     "reading": "せれなーで"
-  },
-  {
-    "id": "auto_LuF7zWmVlgs",
-    "title": "『チェンソーマン』19巻発売記念PV【チェンソー協奏曲 -歓喜の歌-】",
-    "author": "ジャンプラチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "LuF7zWmVlgs",
-    "duration": "1:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプラチャンネル）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 
