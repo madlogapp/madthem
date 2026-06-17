@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_j4AA6aIbdWY",
+    "title": "【MAD】 炎炎ノ消防隊 × ロキ 【ロキ×炎炎ノ消防隊】 【ロキ】",
+    "author": "Bさん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "j4AA6aIbdWY",
+    "duration": "3:45",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Bさん）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_x9H2uJxOREs",
     "title": "TVアニメ『オーバーテイク！』ティザーPV",
     "author": "KADOKAWAanime",
@@ -21968,28 +21990,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ヒッチコック",
     "reading": "ひっちこっく"
-  },
-  {
-    "id": "auto_dYEOaPzbJ8M",
-    "title": "【MAD/AMV 】EndRoll【BLEACH 千年血戦篇 訣別譚】",
-    "author": "桐生輝瀬 / kiryu klse",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "dYEOaPzbJ8M",
-    "duration": "2:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（桐生輝瀬 / kiryu klse）。",
-    "tags": [
-      "自動取得",
-      "BLEACH 千年血戦篇-訣別譚-"
-    ],
-    "auto": true,
-    "anime": "BLEACH 千年血戦篇-訣別譚-",
-    "reading": "BLEACH せんねんけっせんへん-けつべつたん-"
   }
 ];
 
