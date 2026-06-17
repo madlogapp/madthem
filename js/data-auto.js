@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_x9H2uJxOREs",
+    "title": "TVアニメ『オーバーテイク！』ティザーPV",
+    "author": "KADOKAWAanime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "x9H2uJxOREs",
+    "duration": "1:10",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（KADOKAWAanime）。",
+    "tags": [
+      "自動取得",
+      "オーバーテイク！"
+    ],
+    "auto": true,
+    "anime": "オーバーテイク！",
+    "reading": "おーばーていく！"
+  },
+  {
     "id": "auto_dOTPnFupIn0",
     "title": "【MAD】ダンダダン x フューエル",
     "author": "まつん",
@@ -21968,28 +21990,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "BLEACH 千年血戦篇-訣別譚-",
     "reading": "BLEACH せんねんけっせんへん-けつべつたん-"
-  },
-  {
-    "id": "auto_bCs4si_f1Sk",
-    "title": "【MAD】【推しの子】『 セレナーデ 』",
-    "author": "脳が焼かれた子",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "bCs4si_f1Sk",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（脳が焼かれた子）。",
-    "tags": [
-      "自動取得",
-      "セレナーデ"
-    ],
-    "auto": true,
-    "anime": "セレナーデ",
-    "reading": "せれなーで"
   }
 ];
 
