@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_queG7rLylpY",
+    "title": "【黒子のバスケ】 Do you like basketball 【静止画MAD】",
+    "author": "Yuzuri SOPHIA",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "queG7rLylpY",
+    "duration": "1:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Yuzuri SOPHIA）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_8g1Y31ec0bo",
     "title": "【MAD】ダーウィンズゲーム×ヴァンパイア 【covered星川サラ】",
     "author": "himazin0_y",
@@ -21971,28 +21993,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_inD8ZXvX73k",
-    "title": "ブルーロック/シネマ【高画質】【ブルーロック1~16話】【MAD】【AMV】【4K】【シネマ】",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "inD8ZXvX73k",
-    "duration": "3:35",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 
