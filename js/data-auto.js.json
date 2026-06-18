@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_8g1Y31ec0bo",
+    "title": "【MAD】ダーウィンズゲーム×ヴァンパイア 【covered星川サラ】",
+    "author": "himazin0_y",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "8g1Y31ec0bo",
+    "duration": "1:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（himazin0_y）。",
+    "tags": [
+      "自動取得",
+      "ダーウィンズゲーム"
+    ],
+    "auto": true,
+    "anime": "ダーウィンズゲーム",
+    "reading": "だーうぃんずげーむ"
+  },
+  {
     "id": "auto_2aCK8FxhYPA",
     "title": "[MAD]佐倉杏子（魔法少女まどか☆マギカ）× 深紅の呂旗-The ONE-（kirina）",
     "author": "ichikazeyaga",
@@ -21969,24 +21991,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_5uy9YRcyVGE",
-    "title": "ポケモン 神作画MAD",
-    "author": "隙ジ語",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "5uy9YRcyVGE",
-    "duration": "2:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（隙ジ語）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
   }
 ]
