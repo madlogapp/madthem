@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_2aCK8FxhYPA",
+    "title": "[MAD]佐倉杏子（魔法少女まどか☆マギカ）× 深紅の呂旗-The ONE-（kirina）",
+    "author": "ichikazeyaga",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "2aCK8FxhYPA",
+    "duration": "4:54",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ichikazeyaga）。",
+    "tags": [
+      "自動取得",
+      "魔法少女まどか☆マギカ"
+    ],
+    "auto": true,
+    "anime": "魔法少女まどか☆マギカ",
+    "reading": "まほうしょうじょまどか☆まぎか"
+  },
+  {
     "id": "auto_j4AA6aIbdWY",
     "title": "【MAD】 炎炎ノ消防隊 × ロキ 【ロキ×炎炎ノ消防隊】 【ロキ】",
     "author": "Bさん",
@@ -21966,27 +21988,5 @@
       "自動取得"
     ],
     "auto": true
-  },
-  {
-    "id": "auto_WOsx1DUnz5I",
-    "title": "【ヒッチコック】聲の形【AMV/MAD】",
-    "author": "MAY",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "WOsx1DUnz5I",
-    "duration": "3:46",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MAY）。",
-    "tags": [
-      "自動取得",
-      "ヒッチコック"
-    ],
-    "auto": true,
-    "anime": "ヒッチコック",
-    "reading": "ひっちこっく"
   }
 ]
