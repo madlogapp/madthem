@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_gHbWDw5q9Nw",
+    "title": "【ヴィジランテ】OP  けっかおーらい-こっちのけんと　　［MAD動画］",
+    "author": "シンキ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gHbWDw5q9Nw",
+    "duration": "2:51",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（シンキ）。",
+    "tags": [
+      "自動取得",
+      "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-"
+    ],
+    "auto": true,
+    "anime": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+    "reading": "ゔぃじらんて -ぼくのひーろーあかでみあ ILLEGALS-"
+  },
+  {
     "id": "auto_queG7rLylpY",
     "title": "【黒子のバスケ】 Do you like basketball 【静止画MAD】",
     "author": "Yuzuri SOPHIA",
@@ -21969,27 +21991,5 @@
       "自動取得"
     ],
     "auto": true
-  },
-  {
-    "id": "auto_BC2ZeNIL3i4",
-    "title": "【手描き】ロ/ウ/ワ/ー【モブサイコ100】",
-    "author": "星井",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "BC2ZeNIL3i4",
-    "duration": "3:54",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（星井）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ]
