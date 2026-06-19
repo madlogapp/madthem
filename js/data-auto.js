@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_h4Z5wq8k94E",
+    "title": "このすばMAD",
+    "author": "ロロロ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "h4Z5wq8k94E",
+    "duration": "4:46",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ロロロ）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！紅伝説"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！紅伝説",
+    "reading": "このすばらしいせかいにしゅくふくを！くれないでんせつ"
+  },
+  {
     "id": "auto_gHbWDw5q9Nw",
     "title": "【ヴィジランテ】OP  けっかおーらい-こっちのけんと　　［MAD動画］",
     "author": "シンキ",
@@ -21974,25 +21996,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_7BWicdZJyKc",
-    "title": "【JUMPMV】BLEACH (TITE KUBO) × Velonica（Aqua Timez【Official Trailer】",
-    "author": "ジャンプチャンネル",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "7BWicdZJyKc",
-    "duration": "2:19",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
   }
 ];
 
