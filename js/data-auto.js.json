@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_7xQuxRQOKfM",
+    "title": "【MAD】不可逆リプレイス【Re：ゼロから始める異世界生活】最終回記念",
+    "author": "channelアニメ好きのためのアニメ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "7xQuxRQOKfM",
+    "duration": "4:03",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（channelアニメ好きのためのアニメ）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ"
+  },
+  {
     "id": "auto_h4Z5wq8k94E",
     "title": "このすばMAD",
     "author": "ロロロ",
@@ -21972,27 +21994,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_x3DWWPVPdTA",
-    "title": "「MAD」呪術廻戦/ロウワー「Jujutsu Kaisen」「歌詞付き」",
-    "author": "Reki",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "x3DWWPVPdTA",
-    "duration": "3:48",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Reki）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ]
