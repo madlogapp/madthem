@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_qwSTLH7wyUs",
+    "title": "(MAD) 暗殺教室×Loser 戦闘シーン",
+    "author": "あいうえお",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "qwSTLH7wyUs",
+    "duration": "3:53",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（あいうえお）。",
+    "tags": [
+      "自動取得",
+      "暗殺教室"
+    ],
+    "auto": true,
+    "anime": "暗殺教室",
+    "reading": "あんさつきょうしつ"
+  },
+  {
     "id": "auto_jpphjf6lya8",
     "title": "【MAD】タコピーの原罪/少女A",
     "author": "TUT",
@@ -21974,28 +21996,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_JIvvemev00A",
-    "title": "【MAD】炎炎ノ消防隊「新門紅丸」×アイのシナリオ",
-    "author": "那和",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JIvvemev00A",
-    "duration": "4:19",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（那和）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ];
 
