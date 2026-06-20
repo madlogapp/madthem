@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_jpphjf6lya8",
+    "title": "【MAD】タコピーの原罪/少女A",
+    "author": "TUT",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "jpphjf6lya8",
+    "duration": "4:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TUT）。",
+    "tags": [
+      "自動取得",
+      "タコピーの原罪"
+    ],
+    "auto": true,
+    "anime": "タコピーの原罪",
+    "reading": "たこぴーのげんざい"
+  },
+  {
     "id": "auto_0hKLB5Q3DqE",
     "title": "映画『劇場版 あの日見た花の名前を僕達はまだ知らない。』特別先行映像",
     "author": "シネマトゥデイ",
@@ -21972,27 +21994,5 @@
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_2XkRlHDQeIw",
-    "title": "暗殺教室×臨海ダイバー【アニメMAD】　潮田渚vs赤羽業",
-    "author": "Yuma Ucchiy",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "2XkRlHDQeIw",
-    "duration": "2:48",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Yuma Ucchiy）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ]
