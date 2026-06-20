@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_0hKLB5Q3DqE",
+    "title": "映画『劇場版 あの日見た花の名前を僕達はまだ知らない。』特別先行映像",
+    "author": "シネマトゥデイ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "0hKLB5Q3DqE",
+    "duration": "2:28",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（シネマトゥデイ）。",
+    "tags": [
+      "自動取得",
+      "劇場版 あの日見た花の名前を僕達はまだ知らない。"
+    ],
+    "auto": true,
+    "anime": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+    "reading": "げきじょうばん あのひみたはなのなまえをぼくたちはまだしらない。"
+  },
+  {
     "id": "auto_7xQuxRQOKfM",
     "title": "【MAD】不可逆リプレイス【Re：ゼロから始める異世界生活】最終回記念",
     "author": "channelアニメ好きのためのアニメ",
@@ -21972,27 +21994,5 @@
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_MmebNWL_fFI",
-    "title": "[AMV/MAD]ブルーロック×かくれんぼ（1次選考編）（セリフ入り）",
-    "author": "Ray",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "MmebNWL_fFI",
-    "duration": "5:00",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Ray）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ]
