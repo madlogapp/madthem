@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_UB3WQAn2J2I",
+    "title": "【MAD】BRAND NEW WORLD/動き出す時代　#赤髪　#黒ひげ　#ワンピース　#mad　 #amv",
+    "author": "hutomi.ワンピースの曲MAD",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "UB3WQAn2J2I",
+    "duration": "4:56",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（hutomi.ワンピースの曲MAD）。",
+    "tags": [
+      "自動取得",
+      "ドリフターズ (2017)"
+    ],
+    "auto": true,
+    "anime": "ドリフターズ (2017)",
+    "reading": "どりふたーず (2017)"
+  },
+  {
     "id": "auto_qwSTLH7wyUs",
     "title": "(MAD) 暗殺教室×Loser 戦闘シーン",
     "author": "あいうえお",
@@ -21974,28 +21996,6 @@ const MAD_AUTO = [
       "自動取得"
     ],
     "auto": true
-  },
-  {
-    "id": "auto_gksWI4kYRwQ",
-    "title": "【MAD】東京リベンジャーズ×唱/Ado",
-    "author": "そら_Sora",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "gksWI4kYRwQ",
-    "duration": "3:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（そら_Sora）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 
