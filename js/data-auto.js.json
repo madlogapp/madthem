@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_V6d6dDxeH5Y",
+    "title": "【MAD】炎炎ノ消防隊×ピースサイン【高画質】",
+    "author": "ocean beauty",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "V6d6dDxeH5Y",
+    "duration": "4:00",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ocean beauty）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_GuvOh3E7ouQ",
     "title": "【手描き】チーム2人で卵とじ【弱虫ペダル】",
     "author": "doromizu 89",
@@ -21978,24 +22000,5 @@
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_RDx5XGQnCro",
-    "title": "【複合MAD】ヒバナ",
-    "author": "にわか侍",
-    "type": "composite",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "RDx5XGQnCro",
-    "duration": "2:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
   }
 ]
