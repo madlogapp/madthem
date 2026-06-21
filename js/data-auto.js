@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_GuvOh3E7ouQ",
+    "title": "【手描き】チーム2人で卵とじ【弱虫ペダル】",
+    "author": "doromizu 89",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "GuvOh3E7ouQ",
+    "duration": "3:57",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（doromizu 89）。",
+    "tags": [
+      "自動取得",
+      "弱虫ペダル"
+    ],
+    "auto": true,
+    "anime": "弱虫ペダル",
+    "reading": "よわむしぺだる"
+  },
+  {
     "id": "auto_UB3WQAn2J2I",
     "title": "【MAD】BRAND NEW WORLD/動き出す時代　#赤髪　#黒ひげ　#ワンピース　#mad　 #amv",
     "author": "hutomi.ワンピースの曲MAD",
@@ -21973,25 +21995,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（にわか侍）。",
-    "tags": [
-      "自動取得"
-    ],
-    "auto": true
-  },
-  {
-    "id": "auto_8Hafs7bkJ1g",
-    "title": "【複合MAD】クスシキ / Mrs. GREEN APPLE",
-    "author": "ぼくのめ【MAD】",
-    "type": "composite",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "8Hafs7bkJ1g",
-    "duration": "3:07",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぼくのめ【MAD】）。",
     "tags": [
       "自動取得"
     ],
