@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_N2E6PqivT3o",
+    "title": "【MAD/AMV】KUSUSHIKI『The Apothecary Diaries』karaoke sub（On Vocal）",
+    "author": "よるば",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "N2E6PqivT3o",
+    "duration": "3:08",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（よるば）。",
+    "tags": [
+      "自動取得",
+      "薬屋のひとりごと"
+    ],
+    "auto": true,
+    "anime": "薬屋のひとりごと",
+    "reading": "くすりやのひとりごと"
+  },
+  {
     "id": "auto_V6d6dDxeH5Y",
     "title": "【MAD】炎炎ノ消防隊×ピースサイン【高画質】",
     "author": "ocean beauty",
@@ -21980,28 +22002,6 @@ const MAD_AUTO = [
       "名言集"
     ],
     "auto": true
-  },
-  {
-    "id": "auto_ktNRaLZhBVk",
-    "title": "【MAD】【AMV】薬屋のひとりごと×百花繚乱2期オープニングテーマ",
-    "author": "ただのアニメ好きチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ktNRaLZhBVk",
-    "duration": "2:59",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ただのアニメ好きチャンネル）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 
