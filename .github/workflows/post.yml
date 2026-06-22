@@ -1,0 +1,59 @@
+name: Post to X
+
+# 1日3回（06:30 / 14:30 / 22:30 JST）。データ更新(update.yml)の30分後に投稿。
+on:
+  schedule:
+    - cron: "30 21 * * *"   # 06:30 JST
+    - cron: "30 5 * * *"    # 14:30 JST
+    - cron: "30 13 * * *"   # 22:30 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tweepy
+        run: pip install --upgrade tweepy
+
+      - name: Post to X
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          POSTS_PER_RUN: "1"
+        run: python tools/post_to_x.py
+
+      - name: Commit posted_ids
+        run: |
+          git config user.name "madthem-bot"
+          git config user.email "madthem-bot@users.noreply.github.com"
+          git add tools/posted_ids.json
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: X投稿記録を更新 ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+# --- セットアップ手順（X側）-------------------------------------------------
+# 1. https://developer.x.com/ で開発者登録 → App を作成（Free プランで投稿可）
+# 2. App の User authentication settings を「Read and Write」に設定
+# 3. 以下4つのキーを取得:
+#      API Key / API Key Secret / Access Token / Access Token Secret
+#    （Access Token は権限を Read and Write にしてから再生成すること）
+# 4. リポジトリ Settings → Secrets and variables → Actions → New repository secret で
+#    次の4つを登録:
+#      X_API_KEY / X_API_SECRET / X_ACCESS_TOKEN / X_ACCESS_SECRET
+# 5. Actions タブから "Post to X" を手動実行してテスト
