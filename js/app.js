@@ -345,6 +345,14 @@ function openModal(mad) {
     .join("");
 
   renderRelated(mad);
+  setupShare(mad);
+
+  // 共有用にURLを ?mad=<youtubeId> に更新（リロード/共有でこのMADが開く）
+  try {
+    const u = new URL(location.href);
+    u.searchParams.set("mad", mad.youtubeId);
+    history.replaceState(null, "", u);
+  } catch (e) {}
 
   modal.classList.add("is-open");
   modal.setAttribute("aria-hidden", "false");
@@ -352,11 +360,38 @@ function openModal(mad) {
   modal.scrollTop = 0; // 関連カードから切替えた時に先頭へ
 }
 
+// シェアボタン（X / リンクコピー）の設定
+function setupShare(mad) {
+  const url = `${location.origin}${location.pathname}?mad=${mad.youtubeId}`;
+  const text = `「${mad.title}」${mad.anime ? " / " + mad.anime : ""} #MAD #AMV #アニメMAD`;
+  document.getElementById("shareX").onclick = () => {
+    const x = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+    window.open(x, "_blank", "noopener,width=600,height=500");
+  };
+  const copyBtn = document.getElementById("shareCopy");
+  copyBtn.onclick = async () => {
+    try {
+      await navigator.clipboard.writeText(url);
+      const orig = copyBtn.textContent;
+      copyBtn.textContent = "✓ コピーしました";
+      setTimeout(() => (copyBtn.textContent = orig), 1600);
+    } catch (e) {
+      prompt("このリンクをコピーしてください", url);
+    }
+  };
+}
+
 function closeModal() {
   modal.classList.remove("is-open");
   modal.setAttribute("aria-hidden", "true");
   document.getElementById("modalPlayer").innerHTML = ""; // 再生停止
   document.body.style.overflow = "";
+  // URLから ?mad= を除去
+  try {
+    const u = new URL(location.href);
+    u.searchParams.delete("mad");
+    history.replaceState(null, "", u.pathname + u.search);
+  } catch (e) {}
 }
 
 document.getElementById("modalClose").addEventListener("click", closeModal);
@@ -481,6 +516,15 @@ function init() {
   ];
   setHero(pick);
   buildRows(specsFor("all", MAD_DATA));
+
+  // ディープリンク: ?mad=<youtubeId> があれば該当MADを開く
+  try {
+    const id = new URLSearchParams(location.search).get("mad");
+    if (id) {
+      const target = MAD_DATA.find((m) => m.youtubeId === id);
+      if (target) openModal(target);
+    }
+  } catch (e) {}
 }
 
 init();

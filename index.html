@@ -4,7 +4,23 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>MADTHEM - MADまとめサイト</title>
-  <meta name="description" content="YouTubeのMAD・AMVをジャンルごとにまとめて楽しめるNetflix風まとめサイト" />
+  <meta name="description" content="YouTubeのアニメMAD・AMVをジャンル別・アニメ別にまとめたNetflix風サイト。単体MAD・複合MAD・名言集を毎日更新、1000本以上を収録。" />
+  <link rel="canonical" href="https://madlogapp.github.io/madthem/" />
+
+  <!-- OGP / Twitter シェアカード -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="MADTHEM" />
+  <meta property="og:title" content="MADTHEM - アニメMAD/AMVまとめ" />
+  <meta property="og:description" content="アニメMAD・AMVをジャンル別・アニメ別にまとめて毎日更新。単体MAD/複合MAD/名言集、1000本以上を収録。" />
+  <meta property="og:url" content="https://madlogapp.github.io/madthem/" />
+  <meta property="og:image" content="https://madlogapp.github.io/madthem/og.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:locale" content="ja_JP" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="MADTHEM - アニメMAD/AMVまとめ" />
+  <meta name="twitter:description" content="アニメMAD・AMVをジャンル別・アニメ別にまとめて毎日更新。1000本以上を収録。" />
+  <meta name="twitter:image" content="https://madlogapp.github.io/madthem/og.png" />
 
   <!-- PWA / ホーム画面に追加 -->
   <link rel="manifest" href="manifest.webmanifest" />
@@ -76,6 +92,10 @@
         <h2 class="modal__title" id="modalTitle">—</h2>
         <div class="modal__meta" id="modalMeta"></div>
         <p class="modal__desc" id="modalDesc">—</p>
+        <div class="modal__share">
+          <button class="share-btn share-btn--x" id="shareX">𝕏 でシェア</button>
+          <button class="share-btn share-btn--copy" id="shareCopy">🔗 リンクをコピー</button>
+        </div>
         <div class="modal__tags" id="modalTags"></div>
         <div class="modal__related" id="modalRelated" hidden>
           <h3 class="modal__related-title">関連するMAD</h3>
