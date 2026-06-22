@@ -127,18 +127,21 @@ def main():
             continue
         try:
             media_ids = None
-            tp = thumb_path(mad["youtubeId"])
-            if tp:
-                media = api_v1.media_upload(tp)
-                media_ids = [media.media_id]
+            # 画像アップロードは有料枠が必要(無料枠は402)。POST_WITH_MEDIA=1で有効化。
+            if os.environ.get("POST_WITH_MEDIA") == "1":
+                tp = thumb_path(mad["youtubeId"])
+                if tp:
+                    media = api_v1.media_upload(tp)
+                    media_ids = [media.media_id]
             client.create_tweet(text=text, media_ids=media_ids)
             posted.add(mad["youtubeId"])
             done += 1
             print("→ 投稿成功")
         except Exception as e:
-            print(f"→ 投稿失敗: {e}", file=sys.stderr)
-            # 次の候補へ（恒久的エラーなら以降も失敗するため打ち切り）
-            if "401" in str(e) or "403" in str(e):
+            msg = str(e)
+            print(f"→ 投稿失敗: {msg}", file=sys.stderr)
+            # 恒久的エラー（権限/課金/レート）は即打ち切り（無駄打ち防止）
+            if any(c in msg for c in ("401", "402", "403", "429")):
                 break
 
     with open(POSTED_PATH, "w", encoding="utf-8") as f:
