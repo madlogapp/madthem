@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_C8m4L3NYrTU",
+    "title": "【MAD】七つの大罪 × ROB THE FRONTIER",
+    "author": "nnn",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "C8m4L3NYrTU",
+    "duration": "3:03",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（nnn）。",
+    "tags": [
+      "自動取得",
+      "七つの大罪"
+    ],
+    "auto": true,
+    "anime": "七つの大罪",
+    "reading": "ななつのたいざい"
+  },
+  {
     "id": "auto_N2E6PqivT3o",
     "title": "【MAD/AMV】KUSUSHIKI『The Apothecary Diaries』karaoke sub（On Vocal）",
     "author": "よるば",
@@ -21982,26 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_cwDIu4Agf6g",
-    "title": "【アニメMAD】✨師匠・先生役の名言・名場面集✨【名言集】【名シーン】【また君に会える日】",
-    "author": "KEN VANKC",
-    "type": "quote",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "cwDIu4Agf6g",
-    "duration": "4:44",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（KEN VANKC）。",
-    "tags": [
-      "自動取得",
-      "名言集"
-    ],
-    "auto": true
   }
 ];
 
