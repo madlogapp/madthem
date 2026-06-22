@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_8S1wCit9M_0",
+    "title": "【MAD】天元突破グレンラガン×英雄",
+    "author": "ヘリボウヤ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "8S1wCit9M_0",
+    "duration": "3:19",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ヘリボウヤ）。",
+    "tags": [
+      "自動取得",
+      "天元突破グレンラガン"
+    ],
+    "auto": true,
+    "anime": "天元突破グレンラガン",
+    "reading": "てんげんとっぱぐれんらがん"
+  },
+  {
     "id": "auto_C8m4L3NYrTU",
     "title": "【MAD】七つの大罪 × ROB THE FRONTIER",
     "author": "nnn",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "とある科学の超電磁砲T",
     "reading": "とあるかがくのちょうでんじほうT"
-  },
-  {
-    "id": "auto_-_WVa_8HC0c",
-    "title": "【完結MAD】僕のヒーローアカデミア×Alia/かくれんぼ",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "-_WVa_8HC0c",
-    "duration": "5:21",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ]
