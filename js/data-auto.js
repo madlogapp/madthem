@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_XgKbrq2g39w",
+    "title": "【Onボーカル カラオケ歌詞full】百花繚乱 ／ 薬屋のひとりごと 2nd Season OP ／ 幾田りら",
+    "author": "bitakoe05",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "XgKbrq2g39w",
+    "duration": "3:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（bitakoe05）。",
+    "tags": [
+      "自動取得",
+      "百花繚乱 サムライアフター"
+    ],
+    "auto": true,
+    "anime": "百花繚乱 サムライアフター",
+    "reading": "ひゃっかりょうらん さむらいあふたー"
+  },
+  {
     "id": "auto_8S1wCit9M_0",
     "title": "【MAD】天元突破グレンラガン×英雄",
     "author": "ヘリボウヤ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ティロリミックス (2024)",
     "reading": "てぃろりみっくす (2024)"
-  },
-  {
-    "id": "auto_qSaRG1am1ow",
-    "title": "【4K】【MAD/AMV】final phase（歌詞付き）【とある科学の超電磁砲T】",
-    "author": "ダンク",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "qSaRG1am1ow",
-    "duration": "4:02",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ダンク）。",
-    "tags": [
-      "自動取得",
-      "とある科学の超電磁砲T"
-    ],
-    "auto": true,
-    "anime": "とある科学の超電磁砲T",
-    "reading": "とあるかがくのちょうでんじほうT"
   }
 ];
 
