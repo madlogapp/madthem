@@ -446,8 +446,8 @@ def write_outputs(accepted, existing, seen, anime_cache):
     )
     with open(DATA_AUTO_JS, "w", encoding="utf-8") as f:
         f.write(js)
-    write_sitemap(merged)
     return len(merged)
+    # 注: sitemap.xml / robots.txt は tools/build_pages.py が生成する
 
 
 def write_sitemap(items):
