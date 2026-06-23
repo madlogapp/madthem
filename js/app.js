@@ -346,6 +346,7 @@ function openModal(mad) {
 
   renderRelated(mad);
   setupShare(mad);
+  setVideoLD(mad);
 
   // 共有用にURLを ?mad=<youtubeId> に更新（リロード/共有でこのMADが開く）
   try {
@@ -358,6 +359,50 @@ function openModal(mad) {
   modal.setAttribute("aria-hidden", "false");
   document.body.style.overflow = "hidden";
   modal.scrollTop = 0; // 関連カードから切替えた時に先頭へ
+}
+
+// モーダルで開いたMADの構造化データ（VideoObject + BreadcrumbList）を埋め込み
+function setVideoLD(mad) {
+  document.getElementById("madJsonLd")?.remove();
+  const url = `${location.origin}${location.pathname}?mad=${mad.youtubeId}`;
+  const ld = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "VideoObject",
+        name: mad.title,
+        description: mad.description || `${mad.anime || ""} のMAD/AMV`,
+        thumbnailUrl: `https://i.ytimg.com/vi/${mad.youtubeId}/hqdefault.jpg`,
+        uploadDate: `${mad.year || new Date().getFullYear()}-01-01`,
+        contentUrl: `https://www.youtube.com/watch?v=${mad.youtubeId}`,
+        embedUrl: `https://www.youtube.com/embed/${mad.youtubeId}`,
+        url: url,
+        inLanguage: "ja",
+        keywords: ["MAD", "AMV", "アニメMAD", ...(mad.tags || [])].join(", "),
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "MADTHEM",
+            item: "https://madlogapp.github.io/madthem/" },
+          ...(mad.anime
+            ? [{ "@type": "ListItem", position: 2, name: mad.anime, item: url }]
+            : []),
+          { "@type": "ListItem",
+            position: mad.anime ? 3 : 2,
+            name: mad.title, item: url },
+        ],
+      },
+    ],
+  };
+  const s = document.createElement("script");
+  s.type = "application/ld+json";
+  s.id = "madJsonLd";
+  s.textContent = JSON.stringify(ld);
+  document.head.appendChild(s);
+}
+function clearVideoLD() {
+  document.getElementById("madJsonLd")?.remove();
 }
 
 // シェアボタン（X / リンクコピー）の設定
@@ -386,6 +431,7 @@ function closeModal() {
   modal.setAttribute("aria-hidden", "true");
   document.getElementById("modalPlayer").innerHTML = ""; // 再生停止
   document.body.style.overflow = "";
+  clearVideoLD();
   // URLから ?mad= を除去
   try {
     const u = new URL(location.href);

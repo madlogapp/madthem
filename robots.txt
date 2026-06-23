@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madlogapp.github.io/madthem/sitemap.xml

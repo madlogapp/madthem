@@ -1,11 +1,12 @@
-name: Post to X
+name: Post to X (無効化中)
 
-# 1日3回（06:30 / 14:30 / 22:30 JST）。データ更新(update.yml)の30分後に投稿。
+# ⚠️ X API無料枠の制約(投稿クレジット要求)のためスケジュール無効化。
+# 有料プラン契約時は schedule のコメントを外して再有効化してください。
 on:
-  schedule:
-    - cron: "30 21 * * *"   # 06:30 JST
-    - cron: "30 5 * * *"    # 14:30 JST
-    - cron: "30 13 * * *"   # 22:30 JST
+  # schedule:
+  #   - cron: "30 21 * * *"   # 06:30 JST
+  #   - cron: "30 5 * * *"    # 14:30 JST
+  #   - cron: "30 13 * * *"   # 22:30 JST
   workflow_dispatch:
 
 permissions:

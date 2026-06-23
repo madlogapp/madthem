@@ -22,6 +22,35 @@
   <meta name="twitter:description" content="アニメMAD・AMVをジャンル別・アニメ別にまとめて毎日更新。1000本以上を収録。" />
   <meta name="twitter:image" content="https://madlogapp.github.io/madthem/og.png" />
 
+  <!-- 構造化データ: サイト情報 + 検索ボックス -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://madlogapp.github.io/madthem/#website",
+        "url": "https://madlogapp.github.io/madthem/",
+        "name": "MADTHEM",
+        "description": "アニメMAD・AMVをジャンル別・アニメ別にまとめたNetflix風サイト。",
+        "inLanguage": "ja",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://madlogapp.github.io/madthem/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://madlogapp.github.io/madthem/#organization",
+        "name": "MADTHEM",
+        "url": "https://madlogapp.github.io/madthem/",
+        "logo": "https://madlogapp.github.io/madthem/icons/icon-512.png"
+      }
+    ]
+  }
+  </script>
+
   <!-- PWA / ホーム画面に追加 -->
   <link rel="manifest" href="manifest.webmanifest" />
   <meta name="theme-color" content="#141414" />
@@ -35,6 +64,27 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
+  <!-- JS無効/クローラ向けフォールバック -->
+  <noscript>
+    <div style="padding:80px 6% 40px;color:#eee;background:#141414;min-height:100vh;font-family:sans-serif">
+      <h1 style="color:#ff5e1a;font-size:42px;margin:0 0 12px">MADTHEM</h1>
+      <p style="font-size:18px;line-height:1.7">
+        YouTubeのアニメMAD・AMVをジャンル別・アニメ別にまとめたNetflix風サイトです。
+        単体MAD・複合MAD・名言集を毎日更新、1000本以上のMADを収録しています。
+      </p>
+      <p style="color:#bbb">このサイトの閲覧には JavaScript を有効にしてください。</p>
+      <h2 style="color:#ff5e1a;margin-top:32px">取り扱っているアニメ（一部）</h2>
+      <p style="line-height:1.9">
+        呪術廻戦・葬送のフリーレン・薬屋のひとりごと・チェンソーマン・ぼっち・ざ・ろっく！・
+        ハイキュー!!・ブルーロック・推しの子・聲の形・君の名は。・僕のヒーローアカデミア・
+        モブサイコ100・BLEACH・Dr.STONE・進撃の巨人・天元突破グレンラガン・暗殺教室・
+        炎炎ノ消防隊・銀魂・ドラゴンボール・NARUTO・ワンピース・エヴァンゲリオン ほか200作以上
+      </p>
+      <h2 style="color:#ff5e1a;margin-top:32px">音楽ジャンル</h2>
+      <p>ロック / J-POP / アニソン / バラード / ボカロ / ヒップホップ / K-POP / EDM ほか</p>
+    </div>
+  </noscript>
+
   <!-- ===================== ヘッダー ===================== -->
   <header class="header" id="header">
     <div class="header__left">

@@ -446,7 +446,38 @@ def write_outputs(accepted, existing, seen, anime_cache):
     )
     with open(DATA_AUTO_JS, "w", encoding="utf-8") as f:
         f.write(js)
+    write_sitemap(merged)
     return len(merged)
+
+
+def write_sitemap(items):
+    """robots.txt と sitemap.xml を書き出し（SEO用）。
+    トップURL + 各MADの ?mad=ID ディープリンクを列挙し、Googleに発見させる。"""
+    base = "https://madlogapp.github.io/madthem/"
+    today = time.strftime("%Y-%m-%d")
+    urls = [(base, "1.0", "daily")]
+    for m in items:
+        vid = m.get("youtubeId")
+        if vid:
+            urls.append((f"{base}?mad={vid}", "0.7", "weekly"))
+    body = ['<?xml version="1.0" encoding="UTF-8"?>',
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for u, pr, ch in urls:
+        body.append(
+            f"  <url><loc>{u}</loc><lastmod>{today}</lastmod>"
+            f"<changefreq>{ch}</changefreq><priority>{pr}</priority></url>"
+        )
+    body.append("</urlset>")
+    with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write("\n".join(body) + "\n")
+
+    robots = (
+        "User-agent: *\n"
+        "Allow: /\n"
+        f"Sitemap: {base}sitemap.xml\n"
+    )
+    with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write(robots)
 
 
 # ---- メイン -------------------------------------------------------------
