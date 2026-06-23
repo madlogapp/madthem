@@ -34,7 +34,16 @@ ROOT = os.path.dirname(HERE)
 DATA_JS = os.path.join(ROOT, "js", "data.js")
 DATA_AUTO = os.path.join(ROOT, "js", "data-auto.js.json")
 ANIME_DIR = os.path.join(ROOT, "anime")
+GENRE_DIR = os.path.join(ROOT, "genre")
 BASE = "https://madlogapp.github.io/madthem/"
+
+# 音楽ジャンル → URLスラッグ（英語）
+GENRE_SLUG = {
+    "ロック": "rock", "J-POP": "jpop", "アニソン": "anison", "バラード": "ballad",
+    "ボカロ": "vocaloid", "ヒップホップ": "hiphop", "K-POP": "kpop", "EDM": "edm",
+    "シティポップ": "citypop", "メタル": "metal", "クラシック": "classic",
+    "ダブステップ": "dubstep", "フューチャーファンク": "futurefunk", "その他": "others",
+}
 
 GOJUON = [
     ("あ", "あいうえおぁぃぅぇぉゔ"), ("か", "かきくけこがぎぐげご"),
@@ -157,13 +166,13 @@ def head(title, desc, canonical, og_image, jsonld):
 <meta property="og:image" content="{og_image}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="{BASE}icons/favicon-64.png">
-<link rel="stylesheet" href="pages.css">
+<link rel="stylesheet" href="{BASE}anime/pages.css">
 <script type="application/ld+json">{jsonld}</script>
 </head>
 <body>
 <header class="top"><div class="wrap" style="display:flex;align-items:center;gap:20px;width:100%">
 <a class="logo" href="{BASE}">MADTHEM</a>
-<nav><a href="{BASE}">ホーム</a><a href="index.html">アニメ一覧</a></nav>
+<nav><a href="{BASE}">ホーム</a><a href="{BASE}anime/">アニメ一覧</a><a href="{BASE}genre/">ジャンル一覧</a></nav>
 </div></header>
 <main class="wrap">"""
 
@@ -280,12 +289,79 @@ def build_index(anime_slugs, total_mads):
 {FOOT}"""
 
 
-def write_sitemap(anime_slugs):
+def genre_slug(g):
+    return GENRE_SLUG.get(g, slugify(g))
+
+
+def build_genre_page(genre, mads, all_genre_links):
+    n = len(mads)
+    slug = genre_slug(genre)
+    title = f"{genre}のアニメMAD・AMVまとめ（{n}本） | MADTHEM"
+    desc = (f"音楽ジャンル「{genre}」のアニメMAD/AMVを{n}本まとめました。"
+            f"{genre}の楽曲に乗せた高品質なMADをまとめて視聴できます。MADTHEMは毎日更新。")
+    canonical = f"{BASE}genre/{slug}.html"
+    og_image = thumb(mads[0]["youtubeId"])
+    elements = []
+    for i, m in enumerate(mads[:100], 1):  # 構造化データは上限100件
+        vid = m["youtubeId"]
+        elements.append({
+            "@type": "ListItem", "position": i,
+            "item": {"@type": "VideoObject", "name": m.get("title"),
+                     "description": m.get("description") or f"{genre} のMAD/AMV",
+                     "thumbnailUrl": thumb(vid), "uploadDate": f"{m.get('year',2024)}-01-01",
+                     "contentUrl": f"https://www.youtube.com/watch?v={vid}",
+                     "embedUrl": f"https://www.youtube.com/embed/{vid}",
+                     "url": f"{BASE}?mad={vid}"},
+        })
+    jsonld = json.dumps({"@context": "https://schema.org", "@graph": [
+        {"@type": "ItemList", "name": f"{genre} の アニメMAD/AMV",
+         "numberOfItems": n, "itemListElement": elements},
+        {"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "MADTHEM", "item": BASE},
+            {"@type": "ListItem", "position": 2, "name": "ジャンル一覧", "item": f"{BASE}genre/"},
+            {"@type": "ListItem", "position": 3, "name": genre, "item": canonical}]},
+    ]}, ensure_ascii=False)
+    others = "".join(f'<a href="{s}.html">{esc(g)}</a>' for g, s in all_genre_links if g != genre)
+    cards = "\n".join(card_html(m) for m in mads)
+    return f"""{head(title, desc, canonical, og_image, jsonld)}
+<h1>{esc(genre)} のアニメMAD・AMV <span class="count">{n}本</span></h1>
+<p class="lead">音楽ジャンル「{esc(genre)}」の楽曲を使ったアニメMAD/AMVをまとめました。サムネイルをクリックすると MADTHEM 上で再生できます。</p>
+<div class="grid">
+{cards}
+</div>
+<h2 class="sec">他のジャンル</h2>
+<div class="animelist related">{others}</div>
+<p><a href="{BASE}anime/" style="color:#7ab8ff">▶ アニメ別の一覧を見る</a></p>
+{FOOT}"""
+
+
+def build_genre_index(genre_links, counts):
+    title = "音楽ジャンル一覧（アニメMAD/AMV） | MADTHEM"
+    desc = "ロック・J-POP・アニソン・ボカロ・バラードなど、音楽ジャンル別にアニメMAD/AMVを探せます。"
+    canonical = f"{BASE}genre/"
+    jsonld = json.dumps({"@context": "https://schema.org", "@type": "CollectionPage",
+                         "name": title, "url": canonical}, ensure_ascii=False)
+    links = "".join(
+        f'<a href="{s}.html">{esc(g)} <span class="count">{counts[g]}</span></a>'
+        for g, s in genre_links)
+    return f"""{head(title, desc, canonical, BASE + 'og.png', jsonld)}
+<h1>音楽ジャンル一覧</h1>
+<p class="lead">ジャンル別にアニメMAD/AMVを探せます。</p>
+<div class="animelist" style="margin-top:20px">{links}</div>
+<p style="margin-top:20px"><a href="{BASE}anime/" style="color:#7ab8ff">▶ アニメ別の一覧はこちら</a></p>
+{FOOT}"""
+
+
+def write_sitemap(anime_slugs, genre_slugs=None):
     import time
     today = time.strftime("%Y-%m-%d")
-    urls = [(BASE, "1.0", "daily"), (f"{BASE}anime/", "0.9", "daily")]
+    urls = [(BASE, "1.0", "daily"),
+            (f"{BASE}anime/", "0.9", "daily"),
+            (f"{BASE}genre/", "0.9", "daily")]
     for _, slug, _ in anime_slugs:
         urls.append((f"{BASE}anime/{slug}.html", "0.8", "weekly"))
+    for slug in (genre_slugs or []):
+        urls.append((f"{BASE}genre/{slug}.html", "0.8", "weekly"))
     body = ['<?xml version="1.0" encoding="UTF-8"?>',
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u, pr, ch in urls:
@@ -328,9 +404,27 @@ def main():
         f.write(build_index(anime_slugs, len(singles)))
     with open(os.path.join(ANIME_DIR, "pages.css"), "w", encoding="utf-8") as f:
         f.write(PAGE_CSS)
-    write_sitemap(anime_slugs)
 
-    print(f"生成完了: アニメ {len(anime_slugs)} ページ + 一覧 + sitemap "
+    # --- ジャンル別ページ（全タイプのMADを対象） ---
+    os.makedirs(GENRE_DIR, exist_ok=True)
+    by_genre = {}
+    for m in catalog:
+        for g in m.get("genres", []):
+            by_genre.setdefault(g, []).append(m)
+    # 表示順: 件数の多い順
+    genres_sorted = sorted(by_genre.keys(), key=lambda g: -len(by_genre[g]))
+    genre_links = [(g, genre_slug(g)) for g in genres_sorted]
+    counts = {g: len(by_genre[g]) for g in by_genre}
+    for g in genres_sorted:
+        page = build_genre_page(g, by_genre[g], genre_links)
+        with open(os.path.join(GENRE_DIR, f"{genre_slug(g)}.html"), "w", encoding="utf-8") as f:
+            f.write(page)
+    with open(os.path.join(GENRE_DIR, "index.html"), "w", encoding="utf-8") as f:
+        f.write(build_genre_index(genre_links, counts))
+
+    write_sitemap(anime_slugs, [genre_slug(g) for g in genres_sorted])
+
+    print(f"生成完了: アニメ {len(anime_slugs)} + ジャンル {len(genres_sorted)} ページ + 各一覧 + sitemap "
           f"(総MAD {len(catalog)} / 単体 {len(singles)})")
 
 

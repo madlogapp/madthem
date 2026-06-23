@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://madlogapp.github.io/madthem/</loc><lastmod>2026-06-23</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://madlogapp.github.io/madthem/anime/</loc><lastmod>2026-06-23</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://madlogapp.github.io/madthem/genre/</loc><lastmod>2026-06-23</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://madlogapp.github.io/madthem/anime/bleach.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://madlogapp.github.io/madthem/anime/bleach-sennenkessenhen.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://madlogapp.github.io/madthem/anime/boolean-paradox.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -230,4 +231,11 @@
   <url><loc>https://madlogapp.github.io/madthem/anime/onihoronoha-hashirakeikohen.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://madlogapp.github.io/madthem/anime/mahoushoujomadoka-magika.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://madlogapp.github.io/madthem/anime/kurokonobasuke.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://madlogapp.github.io/madthem/genre/anison.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://madlogapp.github.io/madthem/genre/rock.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://madlogapp.github.io/madthem/genre/jpop.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://madlogapp.github.io/madthem/genre/ballad.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://madlogapp.github.io/madthem/genre/vocaloid.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://madlogapp.github.io/madthem/genre/hiphop.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://madlogapp.github.io/madthem/genre/others.html</loc><lastmod>2026-06-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>

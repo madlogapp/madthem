@@ -4,6 +4,13 @@
 
 /* ---------- ユーティリティ ---------- */
 
+// GA4 イベント送信（gtagが無くても安全）
+function track(event, params) {
+  try {
+    if (typeof gtag === "function") gtag("event", event, params || {});
+  } catch (e) {}
+}
+
 // タイトルから決定的に色を生成（サムネ用グラデーション）
 function gradientFor(str) {
   let h = 0;
@@ -347,6 +354,13 @@ function openModal(mad) {
   renderRelated(mad);
   setupShare(mad);
   setVideoLD(mad);
+  track("play_mad", {
+    mad_title: mad.title,
+    anime: mad.anime || "(複合/名言集)",
+    mad_type: mad.type,
+    video_id: mad.youtubeId,
+    genre: (mad.genres || []).join("/"),
+  });
 
   // 共有用にURLを ?mad=<youtubeId> に更新（リロード/共有でこのMADが開く）
   try {
@@ -410,6 +424,7 @@ function setupShare(mad) {
   const url = `${location.origin}${location.pathname}?mad=${mad.youtubeId}`;
   const text = `「${mad.title}」${mad.anime ? " / " + mad.anime : ""} #MAD #AMV #アニメMAD`;
   document.getElementById("shareX").onclick = () => {
+    track("share", { method: "x", mad_title: mad.title, video_id: mad.youtubeId });
     const x = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
     window.open(x, "_blank", "noopener,width=600,height=500");
   };
@@ -417,6 +432,7 @@ function setupShare(mad) {
   copyBtn.onclick = async () => {
     try {
       await navigator.clipboard.writeText(url);
+      track("share", { method: "copy", mad_title: mad.title, video_id: mad.youtubeId });
       const orig = copyBtn.textContent;
       copyBtn.textContent = "✓ コピーしました";
       setTimeout(() => (copyBtn.textContent = orig), 1600);

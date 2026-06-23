@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "madthem-bot"
           git config user.email "madthem-bot@users.noreply.github.com"
-          git add js/data-auto.js js/data-auto.js.json tools/seen_ids.json tools/anime_cache.json anime sitemap.xml robots.txt
+          git add js/data-auto.js js/data-auto.js.json tools/seen_ids.json tools/anime_cache.json anime genre sitemap.xml robots.txt
           if git diff --cached --quiet; then
             echo "変更なし。コミットをスキップします。"
           else
