@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_8gNSQm_USp0",
+    "title": "『黒子のバスケ』 アニメ10周年記念アニバーサリーソング「ゼロステップ」新作アニメ映像によるミュージックビデオshort ver.",
+    "author": "アニメ「黒子のバスケ」公式YouTubeチャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "8gNSQm_USp0",
+    "duration": "2:17",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（アニメ「黒子のバスケ」公式YouTubeチャンネル）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_0FD5DGmeZaU",
     "title": "【MAD】あの花×青い栞",
     "author": "【Zero.otk】",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Dr.STONE",
     "reading": "Dr.STONE"
-  },
-  {
-    "id": "auto_0oJZdDlkQ7A",
-    "title": "[MAD/AMV]怪獣8号×怪物",
-    "author": "はっすー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "0oJZdDlkQ7A",
-    "duration": "1:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（はっすー）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ];
 
