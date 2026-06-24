@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_PZ-mQYXFScA",
+    "title": "MAD【SPY×FAMILY】ヨルさんメインで「戦場の華」",
+    "author": "平和島臨也",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "PZ-mQYXFScA",
+    "duration": "3:10",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（平和島臨也）。",
+    "tags": [
+      "自動取得",
+      "SPY×FAMILY"
+    ],
+    "auto": true,
+    "anime": "SPY×FAMILY",
+    "reading": "SPY×FAMILY"
+  },
+  {
     "id": "auto_8gNSQm_USp0",
     "title": "『黒子のバスケ』 アニメ10周年記念アニバーサリーソング「ゼロステップ」新作アニメ映像によるミュージックビデオshort ver.",
     "author": "アニメ「黒子のバスケ」公式YouTubeチャンネル",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_RGiezQXHw4M",
-    "title": "【MAD】ドクターストーン × ともに  (1080p)",
-    "author": "ガチモチ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "RGiezQXHw4M",
-    "duration": "3:24",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ガチモチ）。",
-    "tags": [
-      "自動取得",
-      "Dr.STONE"
-    ],
-    "auto": true,
-    "anime": "Dr.STONE",
-    "reading": "Dr.STONE"
   }
 ];
 
