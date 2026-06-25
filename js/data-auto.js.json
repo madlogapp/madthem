@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_DwlqwqsR-3o",
+    "title": "黒子のバスケMAD　「覚醒ヒロイズム」",
+    "author": "kiki kodakoda",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "DwlqwqsR-3o",
+    "duration": "4:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（kiki kodakoda）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_OFB4kZ_E6E0",
     "title": "Psycho-pass | AMV | A sacrifice",
     "author": "S.A.D",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_p8Ph5VPBJcg",
-    "title": "【カラオケOn Vocal】井上ジョー「CLOSER」歌詞付きMAD『ナルト疾風伝』OP主題歌 “クローサー”｜Naruto Shippuden Opening 4【ニコカラ】",
-    "author": "ゆりぴょんChannel♪",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "p8Ph5VPBJcg",
-    "duration": "3:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ゆりぴょんChannel♪）。",
-    "tags": [
-      "自動取得",
-      "NARUTO -ナルト- 疾風伝"
-    ],
-    "auto": true,
-    "anime": "NARUTO -ナルト- 疾風伝",
-    "reading": "NARUTO -なると- はやてでん"
   }
 ]
