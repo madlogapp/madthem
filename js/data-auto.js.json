@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Rfu6I0V01IQ",
+    "title": "【MAD】ハイキュー！！×【決戦スピリット】",
+    "author": "ゆゆ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Rfu6I0V01IQ",
+    "duration": "4:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ゆゆ）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!!"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!!",
+    "reading": "はいきゅー!!"
+  },
+  {
     "id": "auto_DwlqwqsR-3o",
     "title": "黒子のバスケMAD　「覚醒ヒロイズム」",
     "author": "kiki kodakoda",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_yxRKs1y_s8w",
-    "title": "【モブサイコ100】ゴーゴー幽霊船【手描き】",
-    "author": "うるうる",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "yxRKs1y_s8w",
-    "duration": "3:49",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（うるうる）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ]
