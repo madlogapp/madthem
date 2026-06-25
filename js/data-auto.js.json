@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_OFB4kZ_E6E0",
+    "title": "Psycho-pass | AMV | A sacrifice",
+    "author": "S.A.D",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "OFB4kZ_E6E0",
+    "duration": "5:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（S.A.D）。",
+    "tags": [
+      "自動取得",
+      "PSYCHO-PASS サイコパス"
+    ],
+    "auto": true,
+    "anime": "PSYCHO-PASS サイコパス",
+    "reading": "PSYCHO-PASS さいこぱす"
+  },
+  {
     "id": "auto__hJBAmD_Ceg",
     "title": "《MAD》【ずっと真夜中でいいのに。】正しくなれない×約束のネバーランド（映画）",
     "author": "MaD ToPs",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "NARUTO -ナルト- 疾風伝",
     "reading": "NARUTO -なると- はやてでん"
-  },
-  {
-    "id": "auto_08mXubBYqSc",
-    "title": "MＡＤ ライブ音響【推しの子】１クール終了記念「アイドル」YOASOBI　４Ｋ高画質",
-    "author": "misasin",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "08mXubBYqSc",
-    "duration": "3:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（misasin）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ]
