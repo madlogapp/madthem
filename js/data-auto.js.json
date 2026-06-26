@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_6pGaZb0ki6I",
+    "title": "【MAD】一騎当千×ブルーロック/梅とら【あらき】",
+    "author": "セラ【MAD】",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "6pGaZb0ki6I",
+    "duration": "3:26",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（セラ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "一騎当千"
+    ],
+    "auto": true,
+    "anime": "一騎当千",
+    "reading": "いっきとうせん"
+  },
+  {
     "id": "auto_4kNt62PptEQ",
     "title": "『SPY×FAMILY』第2クールエンディング主題歌アニメ映像（ノンクレジット）／“SPY x FAMILY” part2 Ending theme song animation",
     "author": "TOHO animation チャンネル",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_sQFHdqwrokI",
-    "title": "【MAD】ブルーロック×怪物",
-    "author": "手っ",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "sQFHdqwrokI",
-    "duration": "3:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（手っ）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ]
