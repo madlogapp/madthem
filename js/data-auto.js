@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_AFFbyWVOO3U",
+    "title": "【MAD/AMV】STARS 【BLEACH 千年血戦篇】",
+    "author": "Re:No",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "AFFbyWVOO3U",
+    "duration": "3:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Re:No）。",
+    "tags": [
+      "自動取得",
+      "BLEACH 千年血戦篇"
+    ],
+    "auto": true,
+    "anime": "BLEACH 千年血戦篇",
+    "reading": "BLEACH せんねんけっせんへん"
+  },
+  {
     "id": "auto_Rfu6I0V01IQ",
     "title": "【MAD】ハイキュー！！×【決戦スピリット】",
     "author": "ゆゆ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_eJ48VJLUY2k",
-    "title": "【MAD】【推しの子】/ファタール -GEMN-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "eJ48VJLUY2k",
-    "duration": "3:44",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
