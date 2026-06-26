@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_4kNt62PptEQ",
+    "title": "『SPY×FAMILY』第2クールエンディング主題歌アニメ映像（ノンクレジット）／“SPY x FAMILY” part2 Ending theme song animation",
+    "author": "TOHO animation チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "4kNt62PptEQ",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
+    "tags": [
+      "自動取得",
+      "SPY×FAMILY"
+    ],
+    "auto": true,
+    "anime": "SPY×FAMILY",
+    "reading": "SPY×FAMILY"
+  },
+  {
     "id": "auto_AFFbyWVOO3U",
     "title": "【MAD/AMV】STARS 【BLEACH 千年血戦篇】",
     "author": "Re:No",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_V6Q81wH24oQ",
-    "title": "呪術廻戦×ONION!【静止画MAD】 #6",
-    "author": "狛磨。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "V6Q81wH24oQ",
-    "duration": "3:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（狛磨。）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ]
