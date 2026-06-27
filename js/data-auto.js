@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Ir06b0MLPuE",
+    "title": "date a live mad",
+    "author": "Minari_Chan",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Ir06b0MLPuE",
+    "duration": "1:28",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Minari_Chan）。",
+    "tags": [
+      "自動取得",
+      "デート・ア・ライブ"
+    ],
+    "auto": true,
+    "anime": "デート・ア・ライブ",
+    "reading": "でーと・あ・らいぶ"
+  },
+  {
     "id": "auto_sPbAkenR8zo",
     "title": "【MAD】約束のネバーランド×正しくなれない",
     "author": "y arisa",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "アニメ モンスターストライク",
     "reading": "あにめ もんすたーすとらいく"
-  },
-  {
-    "id": "auto_W4fND8qaTtE",
-    "title": "TVアニメ『薫る花は凛と咲く』ノンクレジットエンディングムービー｜汐れいら「ハレの日に」",
-    "author": "アニプレックス チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "W4fND8qaTtE",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（アニプレックス チャンネル）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 
