@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_hwEuZqp8NUY",
+    "title": "ハイキュー！！mad「Home」",
+    "author": "やきとり",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "hwEuZqp8NUY",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（やきとり）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!!"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!!",
+    "reading": "はいきゅー!!"
+  },
+  {
     "id": "auto_Ir06b0MLPuE",
     "title": "date a live mad",
     "author": "Minari_Chan",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_6v1EqgCHYNk",
-    "title": "【AMV/MAD】ONEPIECE × HERO 【ワンピース/エッグヘット編】【Mr.Children/HERO】【セリフ入り】【アニメ】",
-    "author": "Shinta",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "6v1EqgCHYNk",
-    "duration": "5:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Shinta）。",
-    "tags": [
-      "自動取得",
-      "アニメ モンスターストライク"
-    ],
-    "auto": true,
-    "anime": "アニメ モンスターストライク",
-    "reading": "あにめ もんすたーすとらいく"
   }
 ]
