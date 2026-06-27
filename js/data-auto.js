@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_sPbAkenR8zo",
+    "title": "【MAD】約束のネバーランド×正しくなれない",
+    "author": "y arisa",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "sPbAkenR8zo",
+    "duration": "1:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（y arisa）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_6pGaZb0ki6I",
     "title": "【MAD】一騎当千×ブルーロック/梅とら【あらき】",
     "author": "セラ【MAD】",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_7kgc20J0WGQ",
-    "title": "【MAD】薬屋のひとりごと/花 -藤井 風-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "7kgc20J0WGQ",
-    "duration": "1:50",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 
