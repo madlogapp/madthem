@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_FTJB1UH0vTs",
+    "title": "CODE GEASS(モザイクカケラ)【コードギアス反逆のルルーシュ】【MAD】",
+    "author": "ゆーまる",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "FTJB1UH0vTs",
+    "duration": "4:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ゆーまる）。",
+    "tags": [
+      "自動取得",
+      "コードギアス 反逆のルルーシュ"
+    ],
+    "auto": true,
+    "anime": "コードギアス 反逆のルルーシュ",
+    "reading": "こーどぎあす はんぎゃくのるるーしゅ"
+  },
+  {
     "id": "auto_JJLt1KFR6fA",
     "title": "【MAD】第六感 THE SIXTH SENSE 【呪術廻戦】",
     "author": "ごまめめめ",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_j_0aBLn-FUI",
-    "title": "『新世紀エヴァンゲリオン』多言語音声クリップ：アスカとシンジ、完璧なユニゾン",
-    "author": "Netflix Anime",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "j_0aBLn-FUI",
-    "duration": "3:02",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Netflix Anime）。",
-    "tags": [
-      "自動取得",
-      "新世紀エヴァンゲリオン"
-    ],
-    "auto": true,
-    "anime": "新世紀エヴァンゲリオン",
-    "reading": "しんせいきえゔぁんげりおん"
   }
 ]
