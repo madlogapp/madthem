@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_JJLt1KFR6fA",
+    "title": "【MAD】第六感 THE SIXTH SENSE 【呪術廻戦】",
+    "author": "ごまめめめ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "JJLt1KFR6fA",
+    "duration": "3:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ごまめめめ）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_i7IBjCMVJyk",
     "title": "❝5 centimeters per second❞ | Iris",
     "author": "xoxoKitten I Hiatus",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "新世紀エヴァンゲリオン",
     "reading": "しんせいきえゔぁんげりおん"
-  },
-  {
-    "id": "auto_w8_QD7DZlXY",
-    "title": "【ワンダーエッグ・プライオリティ】フォニィ【MAD】",
-    "author": "1d 365",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "w8_QD7DZlXY",
-    "duration": "3:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（1d 365）。",
-    "tags": [
-      "自動取得",
-      "ワンダーエッグ・プライオリティ"
-    ],
-    "auto": true,
-    "anime": "ワンダーエッグ・プライオリティ",
-    "reading": "わんだーえっぐ・ぷらいおりてぃ"
   }
 ];
 
