@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_i7IBjCMVJyk",
+    "title": "❝5 centimeters per second❞ | Iris",
+    "author": "xoxoKitten I Hiatus",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "i7IBjCMVJyk",
+    "duration": "2:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（xoxoKitten I Hiatus）。",
+    "tags": [
+      "自動取得",
+      "秒速５センチメートル"
+    ],
+    "auto": true,
+    "anime": "秒速５センチメートル",
+    "reading": "びょうそく５せんちめーとる"
+  },
+  {
     "id": "auto_hwEuZqp8NUY",
     "title": "ハイキュー！！mad「Home」",
     "author": "やきとり",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ワンダーエッグ・プライオリティ",
     "reading": "わんだーえっぐ・ぷらいおりてぃ"
-  },
-  {
-    "id": "auto_bEgJusHCH9U",
-    "title": "【MAD/AMV】僕のヒーローアカデミア×BUMP OF CHICKEN/I",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "bEgJusHCH9U",
-    "duration": "4:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
