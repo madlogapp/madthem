@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_bR4Dnc2hUXg",
+    "title": "【MAD/AMV】モブサイコ100【じぶんROCK】",
+    "author": "いちごサンショウウオ",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "bR4Dnc2hUXg",
+    "duration": "3:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（いちごサンショウウオ）。",
+    "tags": [
+      "自動取得",
+      "モブサイコ100"
+    ],
+    "auto": true,
+    "anime": "モブサイコ100",
+    "reading": "もぶさいこ100"
+  },
+  {
     "id": "auto_FTJB1UH0vTs",
     "title": "CODE GEASS(モザイクカケラ)【コードギアス反逆のルルーシュ】【MAD】",
     "author": "ゆーまる",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_Ya9_9yot2ek",
-    "title": "【MAD】葬送のフリーレン×もしも命が描けたら",
-    "author": "手っ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ya9_9yot2ek",
-    "duration": "3:21",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（手っ）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
