@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_HYZsQv9mGLM",
+    "title": "【MAD】モブサイコ100II × daze【爪編】",
+    "author": "ぴぴ丸",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "HYZsQv9mGLM",
+    "duration": "3:51",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ぴぴ丸）。",
+    "tags": [
+      "自動取得",
+      "モブサイコ100 II"
+    ],
+    "auto": true,
+    "anime": "モブサイコ100 II",
+    "reading": "もぶさいこ100 II"
+  },
+  {
     "id": "auto_bR4Dnc2hUXg",
     "title": "【MAD/AMV】モブサイコ100【じぶんROCK】",
     "author": "いちごサンショウウオ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_c7E-tgmFuzw",
-    "title": "【OSHI NO KO】 B-KOMACHI / POP IN 2 (MV short)",
-    "author": "TVアニメ【推しの子】公式チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "c7E-tgmFuzw",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TVアニメ【推しの子】公式チャンネル）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
