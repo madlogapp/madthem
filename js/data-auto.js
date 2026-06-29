@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Ji9nLIPFCLs",
+    "title": "【MAD/AMV】ダンダダン x GHOSTBUSTERS",
+    "author": "火星人の秘密基地",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Ji9nLIPFCLs",
+    "duration": "3:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（火星人の秘密基地）。",
+    "tags": [
+      "自動取得",
+      "ダンダダン"
+    ],
+    "auto": true,
+    "anime": "ダンダダン",
+    "reading": "だんだだん"
+  },
+  {
     "id": "auto_TI5Au6kZIxw",
     "title": "【MAD】サイバーパンクエッジランナーズ -Nothing to lose-【Cyberpunk: Edgerunners】",
     "author": "Ho Shiki",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_0aGLCZOgSk4",
-    "title": "【MAD】ヱヴァンゲリヲン新劇場版×Re:make",
-    "author": "からし",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "0aGLCZOgSk4",
-    "duration": "3:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（からし）。",
-    "tags": [
-      "自動取得",
-      "ヱヴァンゲリヲン新劇場版:破"
-    ],
-    "auto": true,
-    "anime": "ヱヴァンゲリヲン新劇場版:破",
-    "reading": "ゑゔぁんげりをんしんげきばはん:は"
   }
 ];
 
