@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_TI5Au6kZIxw",
+    "title": "【MAD】サイバーパンクエッジランナーズ -Nothing to lose-【Cyberpunk: Edgerunners】",
+    "author": "Ho Shiki",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "TI5Au6kZIxw",
+    "duration": "1:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Ho Shiki）。",
+    "tags": [
+      "自動取得",
+      "サイバーパンク エッジランナーズ"
+    ],
+    "auto": true,
+    "anime": "サイバーパンク エッジランナーズ",
+    "reading": "さいばーぱんく えっじらんなーず"
+  },
+  {
     "id": "auto_HYZsQv9mGLM",
     "title": "【MAD】モブサイコ100II × daze【爪編】",
     "author": "ぴぴ丸",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ヱヴァンゲリヲン新劇場版:破",
     "reading": "ゑゔぁんげりをんしんげきばはん:は"
-  },
-  {
-    "id": "auto_GDRkKVy1BxM",
-    "title": "【MAD/AMV】Hitorigoto『The Apothecary Diaries』karaoke sub（On Vocal）",
-    "author": "よるば",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "GDRkKVy1BxM",
-    "duration": "4:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（よるば）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 
