@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_JAPJiQu6zvg",
+    "title": "【MAD】炎炎ノ消防隊×HOME",
+    "author": ",ネギマヨ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "JAPJiQu6zvg",
+    "duration": "4:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（,ネギマヨ）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_Ji9nLIPFCLs",
     "title": "【MAD/AMV】ダンダダン x GHOSTBUSTERS",
     "author": "火星人の秘密基地",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto__0H2zgIDJsw",
-    "title": "【MAD】【推しの子】/Burning",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_0H2zgIDJsw",
-    "duration": "3:56",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
