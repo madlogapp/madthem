@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_8GGu3fILcGA",
+    "title": "メイドインアビス 烈日の黄金郷 第2期 [OP 完全版]『かたち』安月名莉子【歌詞】",
+    "author": "親親2o音樂LîvË【Anime Music 2】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "8GGu3fILcGA",
+    "duration": "4:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（親親2o音樂LîvË【Anime Music 2】）。",
+    "tags": [
+      "自動取得",
+      "アンパンマンとはじめよう! いろ・かず・かたち わかるかな いろ・かたち"
+    ],
+    "auto": true,
+    "anime": "アンパンマンとはじめよう! いろ・かず・かたち わかるかな いろ・かたち",
+    "reading": "あんぱんまんとはじめよう! いろ・かず・かたち わかるかな いろ・かたち"
+  },
+  {
     "id": "auto_JAPJiQu6zvg",
     "title": "【MAD】炎炎ノ消防隊×HOME",
     "author": ",ネギマヨ",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_XQDfsmFofz8",
-    "title": "アニメ『怪獣8号』OP | Vaundy「怪獣の花唄」　【OP風MAD】",
-    "author": "ちく",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "XQDfsmFofz8",
-    "duration": "2:02",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ちく）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ]
