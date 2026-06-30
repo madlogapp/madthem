@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_vhlhtALOtCE",
+    "title": "【MAD】四月は君の嘘 x 鏡花水月 Shigatsu wa Kimi no Uso",
+    "author": "楠梟鳥",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "vhlhtALOtCE",
+    "duration": "4:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（楠梟鳥）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_8GGu3fILcGA",
     "title": "メイドインアビス 烈日の黄金郷 第2期 [OP 完全版]『かたち』安月名莉子【歌詞】",
     "author": "親親2o音樂LîvË【Anime Music 2】",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "それいけ！アンパンマン よみがえれ バナナ島",
     "reading": "それいけ！あんぱんまん よみがえれ ばななしま"
-  },
-  {
-    "id": "auto_p9QlsV8JXDM",
-    "title": "【MAD】モブサイコ100×残響散歌",
-    "author": "KOCHAN/コーチャン",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "p9QlsV8JXDM",
-    "duration": "1:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（KOCHAN/コーチャン）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 
