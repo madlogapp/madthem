@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_4bki31NdXIo",
+    "title": "【MAD】呪術廻戦/ ):阿修羅:( -King Gnu-",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "4bki31NdXIo",
+    "duration": "2:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_vhlhtALOtCE",
     "title": "【MAD】四月は君の嘘 x 鏡花水月 Shigatsu wa Kimi no Uso",
     "author": "楠梟鳥",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_p0rkHppMccY",
-    "title": "【AMV/MAD】怪獣8号　kaijuno8『REVIVE』 保科宗四郎×亜白ミナ",
-    "author": "HAKU",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "p0rkHppMccY",
-    "duration": "1:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（HAKU）。",
-    "tags": [
-      "自動取得",
-      "それいけ！アンパンマン よみがえれ バナナ島"
-    ],
-    "auto": true,
-    "anime": "それいけ！アンパンマン よみがえれ バナナ島",
-    "reading": "それいけ！あんぱんまん よみがえれ ばななしま"
   }
 ];
 
