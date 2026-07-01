@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_SPwvKM5qXE4",
+    "title": "【MAD】リコネクト【リコリス・リコイル】",
+    "author": "Leynsta‪",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "SPwvKM5qXE4",
+    "duration": "2:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Leynsta‪）。",
+    "tags": [
+      "自動取得",
+      "リコリス・リコイル"
+    ],
+    "auto": true,
+    "anime": "リコリス・リコイル",
+    "reading": "りこりす・りこいる"
+  },
+  {
     "id": "auto_p1HanPbevz0",
     "title": "裏切りおにぎり a.k.a. Hanako ‐ 孤独cry (demo) 【 言の葉の庭 MAD】",
     "author": "裏切りおにぎりa.k.a.Hanako",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_m_gPTAI7gGU",
-    "title": "【MAD】チェンソーマン×狂乱Hey kids！!【chain saw man】",
-    "author": "かんかんきんきん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "m_gPTAI7gGU",
-    "duration": "4:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（かんかんきんきん）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 
