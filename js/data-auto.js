@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_p1HanPbevz0",
+    "title": "裏切りおにぎり a.k.a. Hanako ‐ 孤独cry (demo) 【 言の葉の庭 MAD】",
+    "author": "裏切りおにぎりa.k.a.Hanako",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "p1HanPbevz0",
+    "duration": "1:54",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（裏切りおにぎりa.k.a.Hanako）。",
+    "tags": [
+      "自動取得",
+      "Ultra Dino Makera"
+    ],
+    "auto": true,
+    "anime": "Ultra Dino Makera",
+    "reading": "Ultra Dino Makera"
+  },
+  {
     "id": "auto_4bki31NdXIo",
     "title": "【MAD】呪術廻戦/ ):阿修羅:( -King Gnu-",
     "author": "ねむねこ【MAD】",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_fvarf6ggHkQ",
-    "title": "【MAD】東京リベンジャーズ×ドラマツルギー【聖夜決戦】",
-    "author": "すみれ𓂃𓈒𓏸",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "fvarf6ggHkQ",
-    "duration": "3:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（すみれ𓂃𓈒𓏸）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 
