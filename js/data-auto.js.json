@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_PR-mO3IkdzQ",
+    "title": "「MAD/AMV」Spy x Family / 60FPS  -  That That",
+    "author": "Ludivikus Music",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "PR-mO3IkdzQ",
+    "duration": "2:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Ludivikus Music）。",
+    "tags": [
+      "自動取得",
+      "スパイ教室"
+    ],
+    "auto": true,
+    "anime": "スパイ教室",
+    "reading": "すぱいきょうしつ"
+  },
+  {
     "id": "auto_SPwvKM5qXE4",
     "title": "【MAD】リコネクト【リコリス・リコイル】",
     "author": "Leynsta‪",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_ToxSdMh7bU4",
-    "title": "【MAD】 Fate/Grand Order Cosmos in the Lostbelt Part 2 Finale Opening -「End of Days」by ReoNa",
-    "author": "MULTI/MILES X JAZZ-11",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ToxSdMh7bU4",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MULTI/MILES X JAZZ-11）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ]
