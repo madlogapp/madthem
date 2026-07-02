@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_NCJ3UGzA1b8",
+    "title": "聲の形×花が落ちたので MAD",
+    "author": "つきの*ちゃんねる",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "NCJ3UGzA1b8",
+    "duration": "4:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（つきの*ちゃんねる）。",
+    "tags": [
+      "自動取得",
+      "聲の形"
+    ],
+    "auto": true,
+    "anime": "聲の形",
+    "reading": "こえのかたち"
+  },
+  {
     "id": "auto_PR-mO3IkdzQ",
     "title": "「MAD/AMV」Spy x Family / 60FPS  -  That That",
     "author": "Ludivikus Music",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_erJ7NxDyFz4",
-    "title": "【MAD】ハイキュー!!×イマジネーション",
-    "author": "R",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "erJ7NxDyFz4",
-    "duration": "2:54",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（R）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
