@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_azxoaiRCWJ8",
+    "title": "【MAD】黒子のバスケ 『英雄』",
+    "author": "ATUOSアツオス",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "azxoaiRCWJ8",
+    "duration": "1:07",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ATUOSアツオス）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_NCJ3UGzA1b8",
     "title": "聲の形×花が落ちたので MAD",
     "author": "つきの*ちゃんねる",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Dr.STONE NEW WORLD",
     "reading": "Dr.STONE NEW WORLD"
-  },
-  {
-    "id": "auto_knqGbu37_aM",
-    "title": "【文字入りMAD/AWM】呪術廻戦（2期＆０）×とても素敵な六月でした（高画質）",
-    "author": "くさ0223",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "knqGbu37_aM",
-    "duration": "5:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（くさ0223）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
