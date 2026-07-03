@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_1VupobyVliI",
+    "title": "[MAD]サマーウォーズ×インフェルノ",
+    "author": "no mad",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "1VupobyVliI",
+    "duration": "3:32",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（no mad）。",
+    "tags": [
+      "自動取得",
+      "サマーウォーズ"
+    ],
+    "auto": true,
+    "anime": "サマーウォーズ",
+    "reading": "さまーうぉーず"
+  },
+  {
     "id": "auto_4371mSfpAxo",
     "title": "【静止画MAD】薫る花は凛と咲く【話がある】",
     "author": "みすず",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ポケットモンスター",
     "reading": "ぽけっともんすたー"
-  },
-  {
-    "id": "auto_PSwZDgaOtg8",
-    "title": "【サイヤの日記念MAD】ドラゴンボール×酔生夢死",
-    "author": "雫/しずく",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "PSwZDgaOtg8",
-    "duration": "3:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（雫/しずく）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボール"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボール",
-    "reading": "どらごんぼーる"
   }
 ];
 
