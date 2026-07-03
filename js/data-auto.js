@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_a_NB6QkfzAM",
+    "title": "TVアニメ『ウィッチウォッチ』オープニング映像｜YOASOBI「Watch me!」",
+    "author": "ウィッチウォッチ【TVアニメ公式】",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "a_NB6QkfzAM",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ウィッチウォッチ【TVアニメ公式】）。",
+    "tags": [
+      "自動取得",
+      "ウィッチウォッチ"
+    ],
+    "auto": true,
+    "anime": "ウィッチウォッチ",
+    "reading": "うぃっちうぉっち"
+  },
+  {
     "id": "auto_azxoaiRCWJ8",
     "title": "【MAD】黒子のバスケ 『英雄』",
     "author": "ATUOSアツオス",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_iVxKp_d62ow",
-    "title": "TVアニメ『Dr.STONE NEW WORLD』第1クールOP＜ワスレガタキ＞スペシャルアニメMV",
-    "author": "TOHO animation チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "iVxKp_d62ow",
-    "duration": "3:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
-    "tags": [
-      "自動取得",
-      "Dr.STONE NEW WORLD"
-    ],
-    "auto": true,
-    "anime": "Dr.STONE NEW WORLD",
-    "reading": "Dr.STONE NEW WORLD"
   }
 ];
 
