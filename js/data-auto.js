@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_4371mSfpAxo",
+    "title": "【静止画MAD】薫る花は凛と咲く【話がある】",
+    "author": "みすず",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "4371mSfpAxo",
+    "duration": "1:51",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（みすず）。",
+    "tags": [
+      "自動取得",
+      "薫る花は凛と咲く"
+    ],
+    "auto": true,
+    "anime": "薫る花は凛と咲く",
+    "reading": "かおるはなはりんとさく"
+  },
+  {
     "id": "auto_a_NB6QkfzAM",
     "title": "TVアニメ『ウィッチウォッチ』オープニング映像｜YOASOBI「Watch me!」",
     "author": "ウィッチウォッチ【TVアニメ公式】",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ドラゴンボール",
     "reading": "どらごんぼーる"
-  },
-  {
-    "id": "auto_pexpOWgNG1o",
-    "title": "【MAD/AMV】『薬屋のひとりごと』挿入歌 : 竹中だいち「蒼空の炎」 「BLAZE OF CLEAR SKY」",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "pexpOWgNG1o",
-    "duration": "1:54",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 
