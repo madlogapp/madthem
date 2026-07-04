@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_7Xc_dqG45cE",
+    "title": "【MAD】チェンソーマン『君の神様になりたい。』",
+    "author": "ムイキャ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "7Xc_dqG45cE",
+    "duration": "4:08",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ムイキャ）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン",
+    "reading": "ちぇんそーまん"
+  },
+  {
     "id": "auto_-Z2JV4AKYA8",
     "title": "【mad】四月は君の嘘×だから僕は音楽を辞めた",
     "author": "うおだいだい",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "ONE PIECE",
     "reading": "ONE PIECE"
-  },
-  {
-    "id": "auto_cJlCP519DsQ",
-    "title": "三宅りむ -「いのちの灯火」【Music Video】薬屋のひとりごと　挿入歌",
-    "author": "rikyuu sssen",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "cJlCP519DsQ",
-    "duration": "2:40",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（rikyuu sssen）。",
-    "tags": [
-      "自動取得",
-      "道"
-    ],
-    "auto": true,
-    "anime": "道",
-    "reading": "みち"
   }
 ]
