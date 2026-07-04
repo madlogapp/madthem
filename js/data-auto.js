@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_-Z2JV4AKYA8",
+    "title": "【mad】四月は君の嘘×だから僕は音楽を辞めた",
+    "author": "うおだいだい",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "-Z2JV4AKYA8",
+    "duration": "4:14",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（うおだいだい）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_Z0UMpk_qLbc",
     "title": "【MAD】リゼロ『ロキ』─死ぬんじゃねえぞ、お互いにな",
     "author": "えみな",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "道",
     "reading": "みち"
-  },
-  {
-    "id": "auto_mLC3yb5zaaQ",
-    "title": "【Vaundy】CHAINSAW BLOOD 【MAD】チェンソーマン ed 歌詞付き",
-    "author": "【ガクゾウ】音楽っていいよね",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "mLC3yb5zaaQ",
-    "duration": "3:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（【ガクゾウ】音楽っていいよね）。",
-    "tags": [
-      "自動取得",
-      "ティロリミックス (2024)"
-    ],
-    "auto": true,
-    "anime": "ティロリミックス (2024)",
-    "reading": "てぃろりみっくす (2024)"
   }
 ];
 
