@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Z0UMpk_qLbc",
+    "title": "【MAD】リゼロ『ロキ』─死ぬんじゃねえぞ、お互いにな",
+    "author": "えみな",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Z0UMpk_qLbc",
+    "duration": "4:02",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（えみな）。",
+    "tags": [
+      "自動取得",
+      "魔探偵ロキ RAGNAROK"
+    ],
+    "auto": true,
+    "anime": "魔探偵ロキ RAGNAROK",
+    "reading": "またんていろき RAGNAROK"
+  },
+  {
     "id": "auto_1VupobyVliI",
     "title": "[MAD]サマーウォーズ×インフェルノ",
     "author": "no mad",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ティロリミックス (2024)",
     "reading": "てぃろりみっくす (2024)"
-  },
-  {
-    "id": "auto_ku6nLO6TgtY",
-    "title": "【MAD】 ポケモン×夏めく坂道  BW2発売10周年記念 歌詞動画",
-    "author": "きのこつ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ku6nLO6TgtY",
-    "duration": "3:48",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（きのこつ）。",
-    "tags": [
-      "自動取得",
-      "ポケットモンスター"
-    ],
-    "auto": true,
-    "anime": "ポケットモンスター",
-    "reading": "ぽけっともんすたー"
   }
 ];
 
