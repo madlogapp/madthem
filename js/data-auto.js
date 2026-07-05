@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Mfc71uOCnag",
+    "title": "七つの大罪 ‪× 光あれ",
+    "author": "nnn",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Mfc71uOCnag",
+    "duration": "2:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（nnn）。",
+    "tags": [
+      "自動取得",
+      "七つの大罪"
+    ],
+    "auto": true,
+    "anime": "七つの大罪",
+    "reading": "ななつのたいざい"
+  },
+  {
     "id": "auto_h4Z7LC6QT-s",
     "title": "【セリフ入りMAD】ヴァイオレット・エヴァーガーデン-remember-(Uru)",
     "author": "kohime",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ONE PIECE",
     "reading": "ONE PIECE"
-  },
-  {
-    "id": "auto_ujlSwIsMRXk",
-    "title": "【AMV/MAD】ブルーロック 【ドラマツルギー】",
-    "author": "あるふぁさん",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "ujlSwIsMRXk",
-    "duration": "3:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（あるふぁさん）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 
