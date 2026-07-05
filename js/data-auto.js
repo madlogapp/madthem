@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_rL1w0C9O0tU",
+    "title": "聲の形 MAD【点描の唄】",
+    "author": "ฅ^•ω•^ฅ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "rL1w0C9O0tU",
+    "duration": "5:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
+    "tags": [
+      "自動取得",
+      "聲の形"
+    ],
+    "auto": true,
+    "anime": "聲の形",
+    "reading": "こえのかたち"
+  },
+  {
     "id": "auto_Mfc71uOCnag",
     "title": "七つの大罪 ‪× 光あれ",
     "author": "nnn",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ポケットモンスター",
     "reading": "ぽけっともんすたー"
-  },
-  {
-    "id": "auto_vBBeDdyvqOQ",
-    "title": "【MAD】ONE PIECE/ゼファー『unravel:正義の仕組み』#MAD #ワンピース",
-    "author": "k k",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vBBeDdyvqOQ",
-    "duration": "3:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（k k）。",
-    "tags": [
-      "自動取得",
-      "ONE PIECE"
-    ],
-    "auto": true,
-    "anime": "ONE PIECE",
-    "reading": "ONE PIECE"
   }
 ];
 
