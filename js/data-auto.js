@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_twdnTImPd4w",
+    "title": "（2期）ダンダダン×二度寝【MAD】",
+    "author": "だんご大崩壊だんご",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "twdnTImPd4w",
+    "duration": "3:36",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（だんご大崩壊だんご）。",
+    "tags": [
+      "自動取得",
+      "ダンダダン"
+    ],
+    "auto": true,
+    "anime": "ダンダダン",
+    "reading": "だんだだん"
+  },
+  {
     "id": "auto_rSihMgt-WvA",
     "title": "【AMV】Dr.STONE / 楽園",
     "author": "Klein fun",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "無職転生 ～異世界行ったら本気だす～",
     "reading": "むしょくてんしょう ～いせかいいったらほんきだす～"
-  },
-  {
-    "id": "auto_Wkt-Y_iaNgA",
-    "title": "〖MAD/AMV〗『ライラック』呪術廻戦 懐玉・玉折編／渋谷事変 セリフ入り 高画質／4K  Mrs. GREEN APPLE",
-    "author": "*。 ねぎとろ。*",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "Wkt-Y_iaNgA",
-    "duration": "4:50",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（*。 ねぎとろ。*）。",
-    "tags": [
-      "自動取得",
-      "ライラック"
-    ],
-    "auto": true,
-    "anime": "ライラック",
-    "reading": "らいらっく"
   }
 ];
 
