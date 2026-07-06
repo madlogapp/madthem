@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_rSihMgt-WvA",
+    "title": "【AMV】Dr.STONE / 楽園",
+    "author": "Klein fun",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "rSihMgt-WvA",
+    "duration": "3:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Klein fun）。",
+    "tags": [
+      "自動取得",
+      "Dr.STONE"
+    ],
+    "auto": true,
+    "anime": "Dr.STONE",
+    "reading": "Dr.STONE"
+  },
+  {
     "id": "auto_jRCSGXoDAs4",
     "title": "言の葉の庭 MAD【cambell】",
     "author": "ฅ^•ω•^ฅ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ライラック",
     "reading": "らいらっく"
-  },
-  {
-    "id": "auto_0vmDmP9D0-s",
-    "title": "【IMAGINARY LIKE THE JUSTICE】僕のヒーローアカデミア【MAD】",
-    "author": "しづか",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "0vmDmP9D0-s",
-    "duration": "4:35",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しづか）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
