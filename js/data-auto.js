@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_jRCSGXoDAs4",
+    "title": "言の葉の庭 MAD【cambell】",
+    "author": "ฅ^•ω•^ฅ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "jRCSGXoDAs4",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
+    "tags": [
+      "自動取得",
+      "Quote"
+    ],
+    "auto": true,
+    "anime": "Quote",
+    "reading": "Quote"
+  },
+  {
     "id": "auto_rL1w0C9O0tU",
     "title": "聲の形 MAD【点描の唄】",
     "author": "ฅ^•ω•^ฅ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_xf8VLLaedy4",
-    "title": "【MAD】ラナ【ポケットモンスター】",
-    "author": "ATM",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "xf8VLLaedy4",
-    "duration": "3:19",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ATM）。",
-    "tags": [
-      "自動取得",
-      "ポケットモンスター"
-    ],
-    "auto": true,
-    "anime": "ポケットモンスター",
-    "reading": "ぽけっともんすたー"
   }
 ];
 
