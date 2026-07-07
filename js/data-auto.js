@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_WrSqD9ArWjo",
+    "title": "TVアニメ『この素晴らしい世界に爆焔を！』 ノンクレジットED",
+    "author": "KADOKAWAanime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "WrSqD9ArWjo",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（KADOKAWAanime）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に爆焔を！"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に爆焔を！",
+    "reading": "このすばらしいせかいにばくほのおを！"
+  },
+  {
     "id": "auto_rcm6foZgboo",
     "title": "Anomy5 - Sick/Gurren Lagann【天元突破グレンラガン】MAD",
     "author": "moco music",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto__17AfXuA-0k",
-    "title": "【ガンダムMAD】Survivor【BLUE ENCOUNT】",
-    "author": "駒鳥宗男ch",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_17AfXuA-0k",
-    "duration": "3:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（駒鳥宗男ch）。",
-    "tags": [
-      "自動取得",
-      "Survivor"
-    ],
-    "auto": true,
-    "anime": "Survivor",
-    "reading": "Survivor"
   }
 ];
 
