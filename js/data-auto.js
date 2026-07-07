@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_oW9-bYJVRVI",
+    "title": "FGO×バッド・ダンス・ホール :Encore【MAD】",
+    "author": "醤油餅",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "oW9-bYJVRVI",
+    "duration": "4:48",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（醤油餅）。",
+    "tags": [
+      "自動取得",
+      "Fate/Grand Order -絶対魔獣戦線バビロニア-"
+    ],
+    "auto": true,
+    "anime": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+    "reading": "Fate/Grand Order -ぜったいまじゅうせんせんばびろにあ-"
+  },
+  {
     "id": "auto_twdnTImPd4w",
     "title": "（2期）ダンダダン×二度寝【MAD】",
     "author": "だんご大崩壊だんご",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_7JlR3tbyu9Y",
-    "title": "【感動MAD/AMV】無職転生×変わらないもの【セリフ付き】【高画質】【アニメMAD】",
-    "author": "クトリ【アニメMAD】",
-    "type": "single",
-    "genres": [
-      "バラード"
-    ],
-    "youtubeId": "7JlR3tbyu9Y",
-    "duration": "5:02",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（クトリ【アニメMAD】）。",
-    "tags": [
-      "自動取得",
-      "無職転生 ～異世界行ったら本気だす～"
-    ],
-    "auto": true,
-    "anime": "無職転生 ～異世界行ったら本気だす～",
-    "reading": "むしょくてんしょう ～いせかいいったらほんきだす～"
   }
 ];
 
