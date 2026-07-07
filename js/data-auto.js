@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_rcm6foZgboo",
+    "title": "Anomy5 - Sick/Gurren Lagann【天元突破グレンラガン】MAD",
+    "author": "moco music",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "rcm6foZgboo",
+    "duration": "2:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（moco music）。",
+    "tags": [
+      "自動取得",
+      "天元突破グレンラガン"
+    ],
+    "auto": true,
+    "anime": "天元突破グレンラガン",
+    "reading": "てんげんとっぱぐれんらがん"
+  },
+  {
     "id": "auto_oW9-bYJVRVI",
     "title": "FGO×バッド・ダンス・ホール :Encore【MAD】",
     "author": "醤油餅",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Survivor",
     "reading": "Survivor"
-  },
-  {
-    "id": "auto_l_GZA1hsDZA",
-    "title": "【MAD】 『推しの子』/アイドル 【YOASOBI】",
-    "author": "nana.【あにめちゅーばー】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "l_GZA1hsDZA",
-    "duration": "3:32",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（nana.【あにめちゅーばー】）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
