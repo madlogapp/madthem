@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Wf8KwsggqlE",
+    "title": "NARUTO × 呪術廻戦｜サスケ絶体絶命！雷影とキラービー参戦、呪術との最終決戦！#naruto  #呪術廻戦 #jujutsukaisen",
+    "author": "藤原悠馬",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Wf8KwsggqlE",
+    "duration": "3:35",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（藤原悠馬）。",
+    "tags": [
+      "自動取得",
+      "NARUTO -ナルト-"
+    ],
+    "auto": true,
+    "anime": "NARUTO -ナルト-",
+    "reading": "NARUTO -なると-"
+  },
+  {
     "id": "auto_qoneUk7KaHc",
     "title": "【MAD】 葬送のフリーレン/泥中に咲く",
     "author": "覇矢 MAD",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_pcJYRLm8HYc",
-    "title": "【MAD】鬼滅の刃/オルターエゴ -Misumi Cover超学生-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "pcJYRLm8HYc",
-    "duration": "2:53",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ];
 
