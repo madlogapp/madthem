@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_qoneUk7KaHc",
+    "title": "【MAD】 葬送のフリーレン/泥中に咲く",
+    "author": "覇矢 MAD",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "qoneUk7KaHc",
+    "duration": "4:43",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（覇矢 MAD）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_WrSqD9ArWjo",
     "title": "TVアニメ『この素晴らしい世界に爆焔を！』 ノンクレジットED",
     "author": "KADOKAWAanime",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_vx1_UAdZkKQ",
-    "title": "【AMV・MAD】推しの子/セレナーデ -なとり- 〈完全フルVer.〉",
-    "author": "ねむvoice channel",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "vx1_UAdZkKQ",
-    "duration": "3:51",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむvoice channel）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
