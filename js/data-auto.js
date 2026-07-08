@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_nBHAEpS3Wic",
+    "title": "【MAD】約束のネバーランド×DAYBREAK FRONTLINE",
+    "author": "みかんII",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "nBHAEpS3Wic",
+    "duration": "3:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（みかんII）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_Wf8KwsggqlE",
     "title": "NARUTO × 呪術廻戦｜サスケ絶体絶命！雷影とキラービー参戦、呪術との最終決戦！#naruto  #呪術廻戦 #jujutsukaisen",
     "author": "藤原悠馬",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "サクガン",
     "reading": "さくがん"
-  },
-  {
-    "id": "auto_tdtvEgrO-FE",
-    "title": "【MAD】ハイキュー!! × PHOENIX(BURNOUT SYNDROMES)【烏野高校】",
-    "author": "Yuna",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "tdtvEgrO-FE",
-    "duration": "4:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Yuna）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
