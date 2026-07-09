@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_3hsHNvDpMpI",
+    "title": "【鬼滅の刃MMD】GENTLEMAN【Demon Slayer / Kimetsu no Yaiba MMD】",
+    "author": "きめっちゃんねる",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "3hsHNvDpMpI",
+    "duration": "2:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（きめっちゃんねる）。",
+    "tags": [
+      "自動取得",
+      "夢幻紳士 冒険活劇編"
+    ],
+    "auto": true,
+    "anime": "夢幻紳士 冒険活劇編",
+    "reading": "むげんしんし ぼうけんかつげきへん"
+  },
+  {
     "id": "auto_nBHAEpS3Wic",
     "title": "【MAD】約束のネバーランド×DAYBREAK FRONTLINE",
     "author": "みかんII",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_9y-qmTw9JwY",
-    "title": "Sakuga (作画) MAD | FLCL フリクリ |",
-    "author": "Egg",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "9y-qmTw9JwY",
-    "duration": "1:46",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Egg）。",
-    "tags": [
-      "自動取得",
-      "サクガン"
-    ],
-    "auto": true,
-    "anime": "サクガン",
-    "reading": "さくがん"
   }
 ];
 
