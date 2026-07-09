@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_6cHj-p4Aaks",
+    "title": "【MAD】コードギアス -『Round ZERO~BLADE BRAVE~』(HD)",
+    "author": "ZeroAMVs",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "6cHj-p4Aaks",
+    "duration": "1:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ZeroAMVs）。",
+    "tags": [
+      "自動取得",
+      "コードギアス 奪還のロゼ"
+    ],
+    "auto": true,
+    "anime": "コードギアス 奪還のロゼ",
+    "reading": "こーどぎあす だっかんのろぜ"
+  },
+  {
     "id": "auto_3hsHNvDpMpI",
     "title": "【鬼滅の刃MMD】GENTLEMAN【Demon Slayer / Kimetsu no Yaiba MMD】",
     "author": "きめっちゃんねる",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_lnHyrRmmZGs",
-    "title": "【MAD】【AMV】呪術廻戦×聖者の行進",
-    "author": "じょると",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "lnHyrRmmZGs",
-    "duration": "3:00",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（じょると）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
