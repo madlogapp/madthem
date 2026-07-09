@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_cIkxTaExI6o",
+    "title": "【MAD】このすば×おどりゃんせ",
+    "author": "たなえつ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "cIkxTaExI6o",
+    "duration": "1:32",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（たなえつ）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！紅伝説"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！紅伝説",
+    "reading": "このすばらしいせかいにしゅくふくを！くれないでんせつ"
+  },
+  {
     "id": "auto_6cHj-p4Aaks",
     "title": "【MAD】コードギアス -『Round ZERO~BLADE BRAVE~』(HD)",
     "author": "ZeroAMVs",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_TsdgrxtGv8M",
-    "title": "ブルーロック×絶対零度【ブルーロックMAD】",
-    "author": "タオリ",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "TsdgrxtGv8M",
-    "duration": "3:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（タオリ）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 
