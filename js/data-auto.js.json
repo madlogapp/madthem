@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_mRzkFto60DQ",
+    "title": "【MAD】モブサイコ100 / アトラクトライト short ver.",
+    "author": "もうMAD作らない 記念に残しとくだけ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "mRzkFto60DQ",
+    "duration": "1:35",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（もうMAD作らない 記念に残しとくだけ）。",
+    "tags": [
+      "自動取得",
+      "モブサイコ100"
+    ],
+    "auto": true,
+    "anime": "モブサイコ100",
+    "reading": "もぶさいこ100"
+  },
+  {
     "id": "auto_pKEAEtGLALA",
     "title": "【MAD】天気の子×快晴",
     "author": "橋本season4",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_JiLMIysz4F0",
-    "title": "【葬送のフリーレン】勇者/YOASOBI　【MAD/AMV】【高画質】【4K】",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "JiLMIysz4F0",
-    "duration": "3:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ]
