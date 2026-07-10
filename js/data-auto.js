@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_pKEAEtGLALA",
+    "title": "【MAD】天気の子×快晴",
+    "author": "橋本season4",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "pKEAEtGLALA",
+    "duration": "4:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（橋本season4）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_7XFEDEx61-k",
     "title": "[MAD]　言の葉の庭　×　GRAPEVINE",
     "author": "00 pocchi",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_L3vgKREXfGM",
-    "title": "【MAD】ダンダダン ×  絶対零度 - なとり",
-    "author": "ヒッキ_15",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "L3vgKREXfGM",
-    "duration": "2:02",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ヒッキ_15）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
