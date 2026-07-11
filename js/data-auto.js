@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ydIQVE5cNqA",
+    "title": "【コードギアス】反逆者でも恋がしたい！【中二病OPパロ】",
+    "author": "ccry1212",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ydIQVE5cNqA",
+    "duration": "2:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ccry1212）。",
+    "tags": [
+      "自動取得",
+      "コードギアス 奪還のロゼ"
+    ],
+    "auto": true,
+    "anime": "コードギアス 奪還のロゼ",
+    "reading": "こーどぎあす だっかんのろぜ"
+  },
+  {
     "id": "auto_5-RX15AGmHs",
     "title": "NARUTO/アスノヨゾラ哨戒班【MAD】",
     "author": "MARCO",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_Prn4T2Wg0Rk",
-    "title": "【葬送のフリーレンMAD】葬送のフリーレン×DAN DAN 心惹かれてく",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Prn4T2Wg0Rk",
-    "duration": "3:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
