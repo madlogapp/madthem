@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_jUuUbkTOr2k",
+    "title": "【4K60FPS】とある科学の超電磁砲 × only my railgun【AMV】【MAD】【4K】",
+    "author": "Rin Channel / 川咲 リン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "jUuUbkTOr2k",
+    "duration": "4:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Rin Channel / 川咲 リン）。",
+    "tags": [
+      "自動取得",
+      "とある科学の超電磁砲"
+    ],
+    "auto": true,
+    "anime": "とある科学の超電磁砲",
+    "reading": "とあるかがくのちょうでんじほう"
+  },
+  {
     "id": "auto_ruKxysTxsi0",
     "title": "【MAD】 勇者~このすばver~ full",
     "author": "ショーヘイch",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_3cv3vlylpYM",
-    "title": "【AMV/MAD】　メダリスト　【Squall】",
-    "author": "Nanatsuki",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "3cv3vlylpYM",
-    "duration": "2:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Nanatsuki）。",
-    "tags": [
-      "自動取得",
-      "メダリスト"
-    ],
-    "auto": true,
-    "anime": "メダリスト",
-    "reading": "めだりすと"
   }
 ];
 
