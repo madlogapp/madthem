@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ruKxysTxsi0",
+    "title": "【MAD】 勇者~このすばver~ full",
+    "author": "ショーヘイch",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ruKxysTxsi0",
+    "duration": "3:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ショーヘイch）。",
+    "tags": [
+      "自動取得",
+      "勇者"
+    ],
+    "auto": true,
+    "anime": "勇者",
+    "reading": "ゆうしゃ"
+  },
+  {
     "id": "auto_wG2_VYH1Xeg",
     "title": "【MAD】 やはり俺の青春ラブコメはまちがっている。続 【千葉モノレール】",
     "author": "こーとり",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "メダリスト",
     "reading": "めだりすと"
-  },
-  {
-    "id": "auto_Oqfy0Plm9iQ",
-    "title": "怪獣8号 | AMV | Abyss",
-    "author": "MID",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Oqfy0Plm9iQ",
-    "duration": "2:04",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MID）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ];
 
