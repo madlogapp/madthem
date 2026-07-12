@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_wG2_VYH1Xeg",
+    "title": "【MAD】 やはり俺の青春ラブコメはまちがっている。続 【千葉モノレール】",
+    "author": "こーとり",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wG2_VYH1Xeg",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（こーとり）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。続"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。続",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。ぞく"
+  },
+  {
     "id": "auto_ydIQVE5cNqA",
     "title": "【コードギアス】反逆者でも恋がしたい！【中二病OPパロ】",
     "author": "ccry1212",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_F7rgizYLrwE",
-    "title": "【MAD/AMV】月と花束【Fate】【さユり】",
-    "author": "Re:No",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "F7rgizYLrwE",
-    "duration": "4:39",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Re:No）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ]
