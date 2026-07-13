@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_W-WUgxMNLaE",
+    "title": "【MAD】インフェルノ×炎炎の消防隊",
+    "author": "きょん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "W-WUgxMNLaE",
+    "duration": "3:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（きょん）。",
+    "tags": [
+      "自動取得",
+      "インフェルノコップ"
+    ],
+    "auto": true,
+    "anime": "インフェルノコップ",
+    "reading": "いんふぇるのこっぷ"
+  },
+  {
     "id": "auto_urd53nexiUo",
     "title": "【MAD】SPY×FAMILY/ケセラセラ -Mrs. GREEN APPLE-",
     "author": "ねむねこ【MAD】",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_uzCc3i8k5T8",
-    "title": "【MAD】鬼滅の刃×それを愛と呼ぶなら ／ uru",
-    "author": "麗",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "uzCc3i8k5T8",
-    "duration": "4:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（麗）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ]
