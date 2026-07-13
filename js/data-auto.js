@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_urd53nexiUo",
+    "title": "【MAD】SPY×FAMILY/ケセラセラ -Mrs. GREEN APPLE-",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "urd53nexiUo",
+    "duration": "3:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "スパイ教室"
+    ],
+    "auto": true,
+    "anime": "スパイ教室",
+    "reading": "すぱいきょうしつ"
+  },
+  {
     "id": "auto_jUuUbkTOr2k",
     "title": "【4K60FPS】とある科学の超電磁砲 × only my railgun【AMV】【MAD】【4K】",
     "author": "Rin Channel / 川咲 リン",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_vKvRHqVngOM",
-    "title": "【公式】『SAKAMOTO DAYS』大佛PV【4/9】",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vKvRHqVngOM",
-    "duration": "1:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 
