@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_NW0yHNTOTcQ",
+    "title": "【MAD】彼方のアストラ×ヒバナbyあらき",
+    "author": "ミカダヨーmad",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "NW0yHNTOTcQ",
+    "duration": "3:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ミカダヨーmad）。",
+    "tags": [
+      "自動取得",
+      "彼方のアストラ"
+    ],
+    "auto": true,
+    "anime": "彼方のアストラ",
+    "reading": "かなたのあすとら"
+  },
+  {
     "id": "auto_W-WUgxMNLaE",
     "title": "【MAD】インフェルノ×炎炎の消防隊",
     "author": "きょん",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "天元突破グレンラガン",
     "reading": "てんげんとっぱぐれんらがん"
-  },
-  {
-    "id": "auto_RXPtlgz6ncU",
-    "title": "【MAD】 聲の形 「夏影」",
-    "author": "kumakemi1715",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "RXPtlgz6ncU",
-    "duration": "5:53",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（kumakemi1715）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 
