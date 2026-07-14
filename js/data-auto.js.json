@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_R5uJ4K1uvZc",
+    "title": "[AMV] Dominator: Sibyl's eyes (Psycho-Pass)",
+    "author": "SBUDNOV",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "R5uJ4K1uvZc",
+    "duration": "2:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（SBUDNOV）。",
+    "tags": [
+      "自動取得",
+      "PSYCHO-PASS サイコパス"
+    ],
+    "auto": true,
+    "anime": "PSYCHO-PASS サイコパス",
+    "reading": "PSYCHO-PASS さいこぱす"
+  },
+  {
     "id": "auto_NW0yHNTOTcQ",
     "title": "【MAD】彼方のアストラ×ヒバナbyあらき",
     "author": "ミカダヨーmad",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "ショコラカタブラ",
     "reading": "しょこらかたぶら"
-  },
-  {
-    "id": "auto_vps0fPvSUx8",
-    "title": "【MAD】『飛び立て、声を翳して』天元突破グレンラガン×TESTAMENT #AniPAFE2025",
-    "author": "かとパン",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vps0fPvSUx8",
-    "duration": "3:59",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（かとパン）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ]
