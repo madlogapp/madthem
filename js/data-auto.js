@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_hf8r74IjaHU",
+    "title": "【MAD】サマーウォーズ【Shelter】",
+    "author": "HiRoShi",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "hf8r74IjaHU",
+    "duration": "3:49",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（HiRoShi）。",
+    "tags": [
+      "自動取得",
+      "SHELTER"
+    ],
+    "auto": true,
+    "anime": "SHELTER",
+    "reading": "SHELTER"
+  },
+  {
     "id": "auto_jh-JujcyIgI",
     "title": "『言の葉の庭』予告編",
     "author": "観ずシネ！",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_AcfkenYV_sA",
-    "title": "【MAD】聲の形 × 心做し",
-    "author": "はちのす。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "AcfkenYV_sA",
-    "duration": "4:40",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（はちのす。）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 
