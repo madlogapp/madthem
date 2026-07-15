@@ -1602,5 +1602,9 @@
   "Shelter": {
     "n": "SHELTER",
     "s": 3
+  },
+  "Dr.stone": {
+    "n": "Dr.STONE",
+    "s": 3
   }
 }

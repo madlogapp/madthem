@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_x-q0L3QTfak",
+    "title": "【MAD/AMV】Dr.stone×GoodMorningWorld！【セリフ入りなし】",
+    "author": "凪【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "x-q0L3QTfak",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（凪【MAD】）。",
+    "tags": [
+      "自動取得",
+      "Dr.STONE"
+    ],
+    "auto": true,
+    "anime": "Dr.STONE",
+    "reading": "Dr.STONE"
+  },
+  {
     "id": "auto_vZynV2CVlqQ",
     "title": "✎(俺ガイル)春擬き MAD //  OreGairu Season 2  (AMV)by Nagi Yanagi-----Harumodoki",
     "author": "Heroes VS GAME TV anime",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_XxFS0sT5Jt0",
-    "title": "[FGO MAD] Camelot (Paladin; Agateram) [Dokuhaku / Maaya Sakamoto] [Fate / Grand Order] AMV",
-    "author": "FANK",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "XxFS0sT5Jt0",
-    "duration": "4:44",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（FANK）。",
-    "tags": [
-      "自動取得",
-      "Fate/Grand Order -First Order-"
-    ],
-    "auto": true,
-    "anime": "Fate/Grand Order -First Order-",
-    "reading": "Fate/Grand Order -First Order-"
   }
 ]
