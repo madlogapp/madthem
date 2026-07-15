@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_vZynV2CVlqQ",
+    "title": "✎(俺ガイル)春擬き MAD //  OreGairu Season 2  (AMV)by Nagi Yanagi-----Harumodoki",
+    "author": "Heroes VS GAME TV anime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "vZynV2CVlqQ",
+    "duration": "4:28",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Heroes VS GAME TV anime）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
+  },
+  {
     "id": "auto_GbisgtzMAZQ",
     "title": "【天気の子】グランドエスケープ(Full)/feat. 三浦透子/RADWIMPS 【高音質】【歌詞付き】",
     "author": "Tommy K",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Fate/Grand Order -First Order-",
     "reading": "Fate/Grand Order -First Order-"
-  },
-  {
-    "id": "auto_RpDR95pA_TY",
-    "title": "【セリフ入りMAD】ONE PIECE×逆光(Ado)",
-    "author": "kana【かな】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "RpDR95pA_TY",
-    "duration": "4:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（kana【かな】）。",
-    "tags": [
-      "自動取得",
-      "ONE PIECE"
-    ],
-    "auto": true,
-    "anime": "ONE PIECE",
-    "reading": "ONE PIECE"
   }
 ];
 
