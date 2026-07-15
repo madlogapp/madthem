@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_GbisgtzMAZQ",
+    "title": "【天気の子】グランドエスケープ(Full)/feat. 三浦透子/RADWIMPS 【高音質】【歌詞付き】",
+    "author": "Tommy K",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "GbisgtzMAZQ",
+    "duration": "5:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Tommy K）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_hf8r74IjaHU",
     "title": "【MAD】サマーウォーズ【Shelter】",
     "author": "HiRoShi",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ONE PIECE",
     "reading": "ONE PIECE"
-  },
-  {
-    "id": "auto_2Ey3FEAth0s",
-    "title": "鬼滅の刃MAD『夜に駆ける』",
-    "author": "小松菜",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "2Ey3FEAth0s",
-    "duration": "4:21",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（小松菜）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ];
 
