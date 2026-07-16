@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_7O9oIm6LiQA",
+    "title": "【MAD】鬼滅の刃 × HYDRA 【オーバーロード ED】",
+    "author": "シェル【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "7O9oIm6LiQA",
+    "duration": "1:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（シェル【MAD】）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_xSV9GA3i5qs",
     "title": "【AMV/MAD】ブルーロック×傍若のカリスマ【セリフ･歌詞入り】",
     "author": "haruneco",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Biri-Biri",
     "reading": "Biri-Biri"
-  },
-  {
-    "id": "auto_uFt0wwBx784",
-    "title": "【MAD/AMV】命に嫌われている×北信介【ハイキュー!! TO THE TOP】",
-    "author": "T K",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "uFt0wwBx784",
-    "duration": "2:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（T K）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!! TO THE TOP"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!! TO THE TOP",
-    "reading": "はいきゅー!! TO THE TOP"
   }
 ];
 
