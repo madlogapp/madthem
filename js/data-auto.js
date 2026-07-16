@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_xSV9GA3i5qs",
+    "title": "【AMV/MAD】ブルーロック×傍若のカリスマ【セリフ･歌詞入り】",
+    "author": "haruneco",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "xSV9GA3i5qs",
+    "duration": "4:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（haruneco）。",
+    "tags": [
+      "自動取得",
+      "ブルーロック"
+    ],
+    "auto": true,
+    "anime": "ブルーロック",
+    "reading": "ぶるーろっく"
+  },
+  {
     "id": "auto_0vFHQkY42ps",
     "title": "ブルーロック× Make It Out Alive",
     "author": "狛磨。",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!! TO THE TOP",
     "reading": "はいきゅー!! TO THE TOP"
-  },
-  {
-    "id": "auto_Bw-wGB8a0lA",
-    "title": "ドラゴンボール超MOVIE’s  MAD 【怪物】",
-    "author": "シナモレン-ReHino",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Bw-wGB8a0lA",
-    "duration": "3:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（シナモレン-ReHino）。",
-    "tags": [
-      "自動取得",
-      "怪物王女"
-    ],
-    "auto": true,
-    "anime": "怪物王女",
-    "reading": "かいぶつおうじょ"
   }
 ];
 
