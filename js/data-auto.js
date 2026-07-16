@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_0vFHQkY42ps",
+    "title": "ブルーロック× Make It Out Alive",
+    "author": "狛磨。",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "0vFHQkY42ps",
+    "duration": "3:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（狛磨。）。",
+    "tags": [
+      "自動取得",
+      "ブルーロック"
+    ],
+    "auto": true,
+    "anime": "ブルーロック",
+    "reading": "ぶるーろっく"
+  },
+  {
     "id": "auto_x-q0L3QTfak",
     "title": "【MAD/AMV】Dr.stone×GoodMorningWorld！【セリフ入りなし】",
     "author": "凪【MAD】",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪物王女",
     "reading": "かいぶつおうじょ"
-  },
-  {
-    "id": "auto_dd8Abq-E9bo",
-    "title": "【MAD】鬼滅の刃×点描の唄【おばみつ】",
-    "author": "きゅうべえのMAD動画",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "dd8Abq-E9bo",
-    "duration": "5:08",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（きゅうべえのMAD動画）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ];
 
