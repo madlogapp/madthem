@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_NhJBbE_Jo78",
+    "title": "【MAD/AMV】進撃の巨人 × 紅蓮の弓矢/Linked Horizon【アニメ完結記念】",
+    "author": "M Y",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "NhJBbE_Jo78",
+    "duration": "5:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（M Y）。",
+    "tags": [
+      "自動取得",
+      "進撃の巨人"
+    ],
+    "auto": true,
+    "anime": "進撃の巨人",
+    "reading": "しんげきのきょじん"
+  },
+  {
     "id": "auto_BzxrbwHjUYw",
     "title": "コードギアスMAD　【YUO】",
     "author": "HARUO2500",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_tWDdQx4c_2E",
-    "title": "【MAD】SAKAMOTO DAYS × Kroi-「Method」",
-    "author": "B&G",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "tWDdQx4c_2E",
-    "duration": "3:08",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（B&G）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ]
