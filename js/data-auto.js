@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_8sbnDm6Fo4Y",
+    "title": "MAD【天気の子】大丈夫 高音質 高画質",
+    "author": "Tsukasa K (きぶんやさん)",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "8sbnDm6Fo4Y",
+    "duration": "4:19",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Tsukasa K (きぶんやさん)）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_NhJBbE_Jo78",
     "title": "【MAD/AMV】進撃の巨人 × 紅蓮の弓矢/Linked Horizon【アニメ完結記念】",
     "author": "M Y",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_Y_4hcSLJk6s",
-    "title": "【MAD】進撃の巨人×炎　LiSA　Attack on Titan",
-    "author": "ゼロル/zeroru",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Y_4hcSLJk6s",
-    "duration": "4:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ゼロル/zeroru）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 
