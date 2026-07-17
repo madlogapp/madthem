@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_BzxrbwHjUYw",
+    "title": "コードギアスMAD　【YUO】",
+    "author": "HARUO2500",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "BzxrbwHjUYw",
+    "duration": "4:43",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（HARUO2500）。",
+    "tags": [
+      "自動取得",
+      "コードギアス 奪還のロゼ"
+    ],
+    "auto": true,
+    "anime": "コードギアス 奪還のロゼ",
+    "reading": "こーどぎあす だっかんのろぜ"
+  },
+  {
     "id": "auto_7O9oIm6LiQA",
     "title": "【MAD】鬼滅の刃 × HYDRA 【オーバーロード ED】",
     "author": "シェル【MAD】",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_xmWW4f-msjc",
-    "title": "【MAD/AMV】呪術廻戦17話×怪物【YOASOBI】【釘崎野薔薇/禪院真希】",
-    "author": "T K",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "xmWW4f-msjc",
-    "duration": "3:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（T K）。",
-    "tags": [
-      "自動取得",
-      "Biri-Biri"
-    ],
-    "auto": true,
-    "anime": "Biri-Biri",
-    "reading": "Biri-Biri"
   }
 ];
 
