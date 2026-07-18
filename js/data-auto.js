@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_1TMpvEzu8lE",
+    "title": "5 Centimeters Per Second amv",
+    "author": "til tomorrow",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "1TMpvEzu8lE",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（til tomorrow）。",
+    "tags": [
+      "自動取得",
+      "秒速５センチメートル"
+    ],
+    "auto": true,
+    "anime": "秒速５センチメートル",
+    "reading": "びょうそく５せんちめーとる"
+  },
+  {
     "id": "auto__6NchHGjnOI",
     "title": "君の名は×天気の子【MAD】：君と羊と青",
     "author": "片目くん",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_mLEdseZSUf8",
-    "title": "【MAD】ｰかくれんぼｰ 【炎炎ノ消防隊】",
-    "author": "MAD垢 Shaula",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "mLEdseZSUf8",
-    "duration": "5:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MAD垢 Shaula）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ];
 
