@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto__6NchHGjnOI",
+    "title": "君の名は×天気の子【MAD】：君と羊と青",
+    "author": "片目くん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "_6NchHGjnOI",
+    "duration": "2:45",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（片目くん）。",
+    "tags": [
+      "自動取得",
+      "君の名は。"
+    ],
+    "auto": true,
+    "anime": "君の名は。",
+    "reading": "くんのめいは。"
+  },
+  {
     "id": "auto_DTGzJQGTqPM",
     "title": "【MAD/AMV】轟焦凍×荼毘×インフェルノ【僕のヒーローアカデミア】",
     "author": "AMO",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_Ubm6c6RTx9A",
-    "title": "リコリス×MAD「私の居場所」花の塔【4K】リコリス・リコイル MAD AMV",
-    "author": "hino_Mad's",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ubm6c6RTx9A",
-    "duration": "3:42",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（hino_Mad's）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル"
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル",
-    "reading": "りこりす・りこいる"
   }
 ];
 
