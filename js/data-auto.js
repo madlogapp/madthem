@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_DTGzJQGTqPM",
+    "title": "【MAD/AMV】轟焦凍×荼毘×インフェルノ【僕のヒーローアカデミア】",
+    "author": "AMO",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "DTGzJQGTqPM",
+    "duration": "3:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（AMO）。",
+    "tags": [
+      "自動取得",
+      "僕のヒーローアカデミア"
+    ],
+    "auto": true,
+    "anime": "僕のヒーローアカデミア",
+    "reading": "ぼくのひーろーあかでみあ"
+  },
+  {
     "id": "auto_8sbnDm6Fo4Y",
     "title": "MAD【天気の子】大丈夫 高音質 高画質",
     "author": "Tsukasa K (きぶんやさん)",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "リコリス・リコイル",
     "reading": "りこりす・りこいる"
-  },
-  {
-    "id": "auto_tAiP4JzKXxs",
-    "title": "【MAD/AMV】Serenade『Oshi no Ko』Japanese sub",
-    "author": "よるば",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "tAiP4JzKXxs",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（よるば）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
