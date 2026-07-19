@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_m80XseI3v70",
+    "title": "[MAD/AMV] Horimiya [ロクデナシ - ただ声一つ]",
+    "author": "Akira Miyu",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "m80XseI3v70",
+    "duration": "2:39",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Akira Miyu）。",
+    "tags": [
+      "自動取得",
+      "ホリミヤ"
+    ],
+    "auto": true,
+    "anime": "ホリミヤ",
+    "reading": "ほりみや"
+  },
+  {
     "id": "auto_1TMpvEzu8lE",
     "title": "5 Centimeters Per Second amv",
     "author": "til tomorrow",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ONE PIECE",
     "reading": "ONE PIECE"
-  },
-  {
-    "id": "auto_PSv9jIlLkCY",
-    "title": "【MAD動画】【聲の形】天ノ弱【セリフあり】",
-    "author": "君預六宝物MAD動画",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "PSv9jIlLkCY",
-    "duration": "4:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（君預六宝物MAD動画）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 
