@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_yKIWKlVbNyQ",
+    "title": "ＭＡＤ『カードキャプターさくら』さくらカード編　ＯＰ「プラチナ/坂本真綾」４K高画質　ハイレゾ高音質",
+    "author": "misasin",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "yKIWKlVbNyQ",
+    "duration": "4:12",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（misasin）。",
+    "tags": [
+      "自動取得",
+      "カードキャプターさくら"
+    ],
+    "auto": true,
+    "anime": "カードキャプターさくら",
+    "reading": "かーどきゃぷたーさくら"
+  },
+  {
     "id": "auto_SVT01VjLcno",
     "title": "【MAD】鬼滅の刃×かくれんぼ",
     "author": "りぴの日常",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_30mcpQ4zlDc",
-    "title": "【MAD】モブサイコ100/アスノヨゾラ哨戒班",
-    "author": "ZEAL≫≪RIOT",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "30mcpQ4zlDc",
-    "duration": "2:54",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ZEAL≫≪RIOT）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 
