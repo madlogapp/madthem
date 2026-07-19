@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_SVT01VjLcno",
+    "title": "【MAD】鬼滅の刃×かくれんぼ",
+    "author": "りぴの日常",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "SVT01VjLcno",
+    "duration": "5:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（りぴの日常）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_m80XseI3v70",
     "title": "[MAD/AMV] Horimiya [ロクデナシ - ただ声一つ]",
     "author": "Akira Miyu",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_nXsmHYg7Bsc",
-    "title": "【セリフ入りMAD】ONE PIECE × 新時代 / Ado【FILM RED 公開記念】",
-    "author": "そると-Salt-",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "nXsmHYg7Bsc",
-    "duration": "3:45",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（そると-Salt-）。",
-    "tags": [
-      "自動取得",
-      "ONE PIECE"
-    ],
-    "auto": true,
-    "anime": "ONE PIECE",
-    "reading": "ONE PIECE"
   }
 ];
 
