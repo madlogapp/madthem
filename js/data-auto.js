@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_vWXThLeWmLg",
+    "title": "【MAD】シュタインズゲート  PV",
+    "author": "Maruko K",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "vWXThLeWmLg",
+    "duration": "5:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Maruko K）。",
+    "tags": [
+      "自動取得",
+      "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+    ],
+    "auto": true,
+    "anime": "劇場版 シュタインズゲート 負荷領域のデジャヴ",
+    "reading": "げきじょうばん しゅたいんずげーと ふかりょういきのでじゃゔ"
+  },
+  {
     "id": "auto_E93m0KdZWzY",
     "title": "【四月は君の嘘】AMV・MAD  |「キラメキ ー 公生とかをりの演奏ver.」- 中日歌詞",
     "author": "Ccmj identityV",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "スパイ教室",
     "reading": "すぱいきょうしつ"
-  },
-  {
-    "id": "auto_2HQ1DoYzx14",
-    "title": "【感動系MAD】 進撃の巨人 × いかないで  (リヴァイ・アッカーマン)",
-    "author": "半熟のミートソーススパゲッティ",
-    "type": "single",
-    "genres": [
-      "バラード"
-    ],
-    "youtubeId": "2HQ1DoYzx14",
-    "duration": "3:39",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（半熟のミートソーススパゲッティ）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 
