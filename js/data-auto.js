@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_lomWl8cZDPQ",
+    "title": "【MAD】薬屋のひとりごと MV(05/17)",
+    "author": "大魔法士アズラエル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "lomWl8cZDPQ",
+    "duration": "2:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（大魔法士アズラエル）。",
+    "tags": [
+      "自動取得",
+      "薬屋のひとりごと"
+    ],
+    "auto": true,
+    "anime": "薬屋のひとりごと",
+    "reading": "くすりやのひとりごと"
+  },
+  {
     "id": "auto_vWXThLeWmLg",
     "title": "【MAD】シュタインズゲート  PV",
     "author": "Maruko K",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_IN5gzjKQWgg",
-    "title": "SPY X Family - MAD Opening (Hadaka no Yuusha)",
-    "author": "MFAASSIS",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "IN5gzjKQWgg",
-    "duration": "1:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MFAASSIS）。",
-    "tags": [
-      "自動取得",
-      "スパイ教室"
-    ],
-    "auto": true,
-    "anime": "スパイ教室",
-    "reading": "すぱいきょうしつ"
   }
 ];
 
