@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_E93m0KdZWzY",
+    "title": "【四月は君の嘘】AMV・MAD  |「キラメキ ー 公生とかをりの演奏ver.」- 中日歌詞",
+    "author": "Ccmj identityV",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "E93m0KdZWzY",
+    "duration": "4:45",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Ccmj identityV）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_yKIWKlVbNyQ",
     "title": "ＭＡＤ『カードキャプターさくら』さくらカード編　ＯＰ「プラチナ/坂本真綾」４K高画質　ハイレゾ高音質",
     "author": "misasin",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_QbzlbCcyCr8",
-    "title": "東京リベンジャーズmad×本能",
-    "author": "うううさ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "QbzlbCcyCr8",
-    "duration": "4:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（うううさ）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ]
