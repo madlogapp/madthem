@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_w9AZXzKwJMQ",
+    "title": "SUPERNOVA (TV Size) by KANA-BOON - Dr. Stone SCIENCE FUTURE (Cour 2) OP",
+    "author": "aninerd",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "w9AZXzKwJMQ",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（aninerd）。",
+    "tags": [
+      "自動取得",
+      "オリエント 淡路島激闘編"
+    ],
+    "auto": true,
+    "anime": "オリエント 淡路島激闘編",
+    "reading": "おりえんと あわじしまげきとうへん"
+  },
+  {
     "id": "auto_Kaf4_A3osqk",
     "title": "【ＭＡＤ】自転車のためなら死ねる【弱虫ペダル】",
     "author": "mupa6019",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_XiX5Mgu2igM",
-    "title": "ブルーロック×Cry out (後編)【静止画MAD】",
-    "author": "狛磨。",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "XiX5Mgu2igM",
-    "duration": "3:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（狛磨。）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ]
