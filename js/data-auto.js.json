@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Aon16OdNJIE",
+    "title": "【感動MAD/AMV】 呪術廻戦 懐玉・玉折 × Lemon(五条×夏油)",
+    "author": "進撃トータ",
+    "type": "single",
+    "genres": [
+      "バラード"
+    ],
+    "youtubeId": "Aon16OdNJIE",
+    "duration": "3:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（進撃トータ）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦 懐玉・玉折"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦 懐玉・玉折",
+    "reading": "じゅじゅつかいせん かいぎょく・たまおり"
+  },
+  {
     "id": "auto_w9AZXzKwJMQ",
     "title": "SUPERNOVA (TV Size) by KANA-BOON - Dr. Stone SCIENCE FUTURE (Cour 2) OP",
     "author": "aninerd",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_HkZWIzc-_z4",
-    "title": "【薬屋のひとりごと】楼蘭妃のセリフで曲作ったら虫夢の名曲が生まれた！【叶わぬ願い】",
-    "author": "SingSongAI",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "HkZWIzc-_z4",
-    "duration": "3:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（SingSongAI）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ]
