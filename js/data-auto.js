@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Kaf4_A3osqk",
+    "title": "【ＭＡＤ】自転車のためなら死ねる【弱虫ペダル】",
+    "author": "mupa6019",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Kaf4_A3osqk",
+    "duration": "4:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（mupa6019）。",
+    "tags": [
+      "自動取得",
+      "弱虫ペダル"
+    ],
+    "auto": true,
+    "anime": "弱虫ペダル",
+    "reading": "よわむしぺだる"
+  },
+  {
     "id": "auto_lomWl8cZDPQ",
     "title": "【MAD】薬屋のひとりごと MV(05/17)",
     "author": "大魔法士アズラエル",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_9lWoZKs0J9A",
-    "title": "【静止画MAD】『113号室』【チェンソーマン】",
-    "author": "もだん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "9lWoZKs0J9A",
-    "duration": "3:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（もだん）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 
