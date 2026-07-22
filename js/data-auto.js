@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_YeQyC4MZxJ4",
+    "title": "【英雄】NARUTO【MAD】",
+    "author": "MARCO",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "YeQyC4MZxJ4",
+    "duration": "3:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（MARCO）。",
+    "tags": [
+      "自動取得",
+      "NARUTO -ナルト-"
+    ],
+    "auto": true,
+    "anime": "NARUTO -ナルト-",
+    "reading": "NARUTO -なると-"
+  },
+  {
     "id": "auto_Aon16OdNJIE",
     "title": "【感動MAD/AMV】 呪術廻戦 懐玉・玉折 × Lemon(五条×夏油)",
     "author": "進撃トータ",
@@ -21975,28 +21997,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（マロン）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_FW1b9IDeRsc",
-    "title": "【静止画MAD】薫る花は凛と咲く/依田絢斗【転がる岩、君に朝が降る】",
-    "author": "みすず",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "FW1b9IDeRsc",
-    "duration": "1:37",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（みすず）。",
     "tags": [
       "自動取得",
       "薫る花は凛と咲く"
