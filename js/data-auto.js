@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_jHUjBeZmoY8",
+    "title": "【MAD】ギラティナ × 逆夢 【劇場版ポケットモンスター】",
+    "author": "Jibby",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "jHUjBeZmoY8",
+    "duration": "5:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Jibby）。",
+    "tags": [
+      "自動取得",
+      "劇場版ポケットモンスター みんなの物語"
+    ],
+    "auto": true,
+    "anime": "劇場版ポケットモンスター みんなの物語",
+    "reading": "げきじょうばんぽけっともんすたー みんなのものがたり"
+  },
+  {
     "id": "auto_2Sx775jeA5I",
     "title": "【AMV/MAD】約束のネバーランド x Nevereverland/ナノ",
     "author": "PenRai",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "白日梦",
     "reading": "はくじつゆめ"
-  },
-  {
-    "id": "auto_n7FuyPjtJLc",
-    "title": "[AMV/MAD ]聲の形【Eve-お気に召すまま】",
-    "author": "やっきー",
-    "type": "single",
-    "genres": [
-      "ボカロ"
-    ],
-    "youtubeId": "n7FuyPjtJLc",
-    "duration": "4:12",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（やっきー）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 
