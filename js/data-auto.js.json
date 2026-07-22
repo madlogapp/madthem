@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_2Sx775jeA5I",
+    "title": "【AMV/MAD】約束のネバーランド x Nevereverland/ナノ",
+    "author": "PenRai",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "2Sx775jeA5I",
+    "duration": "1:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（PenRai）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_YeQyC4MZxJ4",
     "title": "【英雄】NARUTO【MAD】",
     "author": "MARCO",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_2ZyuZIRSCm0",
-    "title": "【MAD】薫る花は凛と咲く×「僕は…」",
-    "author": "マロン",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "2ZyuZIRSCm0",
-    "duration": "1:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（マロン）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ]
