@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_XeG3Tqua0LI",
+    "title": "【MAD】言の葉の庭×とても素敵な六月でした",
+    "author": "橋本season4",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "XeG3Tqua0LI",
+    "duration": "4:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（橋本season4）。",
+    "tags": [
+      "自動取得",
+      "言の葉の庭"
+    ],
+    "auto": true,
+    "anime": "言の葉の庭",
+    "reading": "ことのはのにわ"
+  },
+  {
     "id": "auto_L2R3nSREbRo",
     "title": "【  MAD  】　ブルーロック / 全力バタンキュー",
     "author": "ㄜぇ",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_z9JZB08qy44",
-    "title": "『薬屋のひとりごと』ノンクレジットOP：緑黄色社会『花になって』【毎週土曜24：55～ 日本テレビ系にて全国放送中！ 】",
-    "author": "TOHO animation チャンネル",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "z9JZB08qy44",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ]
