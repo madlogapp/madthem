@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Of36Qh7WLSQ",
+    "title": "【10周年記念】「あの日見た花の名前を僕達はまだ知らない。」ED映像「secret base ～君がくれたもの～」B ver.",
+    "author": "アニプレックス チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Of36Qh7WLSQ",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（アニプレックス チャンネル）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ「ゼロステップ」"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ「ゼロステップ」",
+    "reading": "くろこのばすけ「ぜろすてっぷ」"
+  },
+  {
     "id": "auto_jHUjBeZmoY8",
     "title": "【MAD】ギラティナ × 逆夢 【劇場版ポケットモンスター】",
     "author": "Jibby",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "リコリス・リコイル",
     "reading": "りこりす・りこいる"
-  },
-  {
-    "id": "auto_b-62gT5_Uvw",
-    "title": "【MAD】白日 × エヴァンゲリオン【AMV】",
-    "author": "S",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "b-62gT5_Uvw",
-    "duration": "5:14",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（S）。",
-    "tags": [
-      "自動取得",
-      "白日梦"
-    ],
-    "auto": true,
-    "anime": "白日梦",
-    "reading": "はくじつゆめ"
   }
 ]
