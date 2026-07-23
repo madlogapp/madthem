@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_L2R3nSREbRo",
+    "title": "【  MAD  】　ブルーロック / 全力バタンキュー",
+    "author": "ㄜぇ",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "L2R3nSREbRo",
+    "duration": "4:07",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ㄜぇ）。",
+    "tags": [
+      "自動取得",
+      "ブルーロック"
+    ],
+    "auto": true,
+    "anime": "ブルーロック",
+    "reading": "ぶるーろっく"
+  },
+  {
     "id": "auto_Of36Qh7WLSQ",
     "title": "【10周年記念】「あの日見た花の名前を僕達はまだ知らない。」ED映像「secret base ～君がくれたもの～」B ver.",
     "author": "アニプレックス チャンネル",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_BBHwMh7eE9I",
-    "title": "【MAD】 Lycoris Recoil ⋆DAWN DANCE【リコリス・リコイル 】",
-    "author": "粋 sui",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "BBHwMh7eE9I",
-    "duration": "4:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（粋 sui）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル"
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル",
-    "reading": "りこりす・りこいる"
   }
 ]
