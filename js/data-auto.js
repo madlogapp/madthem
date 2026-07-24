@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_aj5UsVO2Sjw",
+    "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「Torch of Liberty」",
+    "author": "コジコジ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "aj5UsVO2Sjw",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（コジコジ）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_XeG3Tqua0LI",
     "title": "【MAD】言の葉の庭×とても素敵な六月でした",
     "author": "橋本season4",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_Hor33ejfXxU",
-    "title": "【MAD】Fate/Apocrypha✕ IMAGINARY LIKE THE JUSTICE",
-    "author": "たーげん【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Hor33ejfXxU",
-    "duration": "4:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（たーげん【MAD】）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ];
 
