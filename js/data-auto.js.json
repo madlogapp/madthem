@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_R5_0ZNzPfB0",
+    "title": "【MAD】約束のネバーランド",
+    "author": "ターンハッピー",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "R5_0ZNzPfB0",
+    "duration": "1:47",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ターンハッピー）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_omKNqF_AcX8",
     "title": "【MAD】チェンソーマン/狂乱 Hey Kids!!",
     "author": "Generous MAD",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "IRIS OUT",
     "reading": "IRIS OUT"
-  },
-  {
-    "id": "auto_6VLpOfilZF0",
-    "title": "呪術廻戦×REVIVER 【静止画MAD】※ネタバレ注意",
-    "author": "狛磨。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "6VLpOfilZF0",
-    "duration": "4:50",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（狛磨。）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ]
