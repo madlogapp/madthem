@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_a7riwmpdYIA",
+    "title": "【MAD】お前のドリルで天を衝け【天元突破グレンラガン】【REVIVER】",
+    "author": "しゃけぱん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "a7riwmpdYIA",
+    "duration": "3:36",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（しゃけぱん）。",
+    "tags": [
+      "自動取得",
+      "天元突破グレンラガン"
+    ],
+    "auto": true,
+    "anime": "天元突破グレンラガン",
+    "reading": "てんげんとっぱぐれんらがん"
+  },
+  {
     "id": "auto_R5_0ZNzPfB0",
     "title": "【MAD】約束のネバーランド",
     "author": "ターンハッピー",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ぼっち・ざ・ろっく！",
     "reading": "ぼっち・ざ・ろっく！"
-  },
-  {
-    "id": "auto_RVlnqOqExqU",
-    "title": "【ダンダダンMAD】IRIS OUT×ダンダダン",
-    "author": "H.T",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "RVlnqOqExqU",
-    "duration": "2:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（H.T）。",
-    "tags": [
-      "自動取得",
-      "IRIS OUT"
-    ],
-    "auto": true,
-    "anime": "IRIS OUT",
-    "reading": "IRIS OUT"
   }
 ];
 
