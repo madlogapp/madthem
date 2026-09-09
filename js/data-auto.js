@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_m0ZLGlqs9Zo",
+    "title": "【MAD】ハイキュー!!×グッバイ宣言「及川徹と影山飛雄」",
+    "author": "るう",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "m0ZLGlqs9Zo",
+    "duration": "2:53",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（るう）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!!"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!!",
+    "reading": "はいきゅー!!"
+  },
+  {
     "id": "auto_a7riwmpdYIA",
     "title": "【MAD】お前のドリルで天を衝け【天元突破グレンラガン】【REVIVER】",
     "author": "しゃけぱん",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_B4mm3HYZYog",
-    "title": "【MAD】ぼっち・ざ・ろっく！「転がる岩、君に朝が降る」",
-    "author": "ジャック",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "B4mm3HYZYog",
-    "duration": "4:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャック）。",
-    "tags": [
-      "自動取得",
-      "ぼっち・ざ・ろっく！"
-    ],
-    "auto": true,
-    "anime": "ぼっち・ざ・ろっく！",
-    "reading": "ぼっち・ざ・ろっく！"
   }
 ];
 
