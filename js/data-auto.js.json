@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_zVRvyaUS6dc",
+    "title": "【ユーリ!!! on ICE】 星に願いを   AMV/MAD【Yuri!!! on ICE】",
+    "author": "Yun45Yun",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "zVRvyaUS6dc",
+    "duration": "4:36",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Yun45Yun）。",
+    "tags": [
+      "自動取得",
+      "ユーリ!!! on ICE"
+    ],
+    "auto": true,
+    "anime": "ユーリ!!! on ICE",
+    "reading": "ゆーり!!! on ICE"
+  },
+  {
     "id": "auto_aMFOAxc2aRs",
     "title": "【MAD】怪獣8号/大行侵 -Chevon-",
     "author": "ねむねこ【MAD】",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_FHGJPfZLOmM",
-    "title": "【MAD】推しの子×  UNDEAD/YOASOBI",
-    "author": "セラ【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "FHGJPfZLOmM",
-    "duration": "3:04",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（セラ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ]
