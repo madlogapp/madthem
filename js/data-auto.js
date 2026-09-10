@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_rVcGG5wNn6g",
+    "title": "【MAD】Re:ゼロから始める異世界生活×夢灯籠",
+    "author": "skydao",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "rVcGG5wNn6g",
+    "duration": "2:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（skydao）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ"
+  },
+  {
     "id": "auto_zVRvyaUS6dc",
     "title": "【ユーリ!!! on ICE】 星に願いを   AMV/MAD【Yuri!!! on ICE】",
     "author": "Yun45Yun",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_uKnDrC1S2gU",
-    "title": "[MMV] Mob Psycho 100 x Shiggy Jr.",
-    "author": "NinjaristicNinja",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "uKnDrC1S2gU",
-    "duration": "2:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（NinjaristicNinja）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 
