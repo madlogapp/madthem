@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_aMFOAxc2aRs",
+    "title": "【MAD】怪獣8号/大行侵 -Chevon-",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "aMFOAxc2aRs",
+    "duration": "3:02",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "怪獣8号 保科の休日"
+    ],
+    "auto": true,
+    "anime": "怪獣8号 保科の休日",
+    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
+  },
+  {
     "id": "auto_m0ZLGlqs9Zo",
     "title": "【MAD】ハイキュー!!×グッバイ宣言「及川徹と影山飛雄」",
     "author": "るう",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_22uFs2Yj2wM",
-    "title": "【MAD/AMV】ダンダダン×SPECIALZ/King Gnu【セリフ入り/高画質】",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "22uFs2Yj2wM",
-    "duration": "4:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
