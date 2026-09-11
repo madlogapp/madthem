@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_SokqazxxR_U",
+    "title": "アニメ『弱虫ペダル（1期）』第3クールノンクレジットOP／♪：「Be As One」チーム総北",
+    "author": "TOHO animation チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "SokqazxxR_U",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
+    "tags": [
+      "自動取得",
+      "天地無用! 魎皇鬼 第1期"
+    ],
+    "auto": true,
+    "anime": "天地無用! 魎皇鬼 第1期",
+    "reading": "てんちむよう! りょうおうき だい1き"
+  },
+  {
     "id": "auto_gb4ozvQgKnI",
     "title": "ブルーロック×アンヘル【セリフ入りMAD】",
     "author": "ェラ。",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_n9ytVsFWyJk",
-    "title": "天元突破グレンラガン MAD[BLAZING]",
-    "author": "ダイアーさん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "n9ytVsFWyJk",
-    "duration": "3:54",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ダイアーさん）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ];
 
