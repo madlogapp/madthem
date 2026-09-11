@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_gb4ozvQgKnI",
+    "title": "ブルーロック×アンヘル【セリフ入りMAD】",
+    "author": "ェラ。",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "gb4ozvQgKnI",
+    "duration": "3:35",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ェラ。）。",
+    "tags": [
+      "自動取得",
+      "ブルーロック"
+    ],
+    "auto": true,
+    "anime": "ブルーロック",
+    "reading": "ぶるーろっく"
+  },
+  {
     "id": "auto_O8DEg-Ntta8",
     "title": "推しの子×正しくなれない┊︎フルversion【MAD】",
     "author": "さき.*@MAD",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "天元突破グレンラガン",
     "reading": "てんげんとっぱぐれんらがん"
-  },
-  {
-    "id": "auto_rSv9lPwLSYM",
-    "title": "【MAD】チェンソーマン×SPECIALZ(KingGnu)",
-    "author": "Byakuya",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "rSv9lPwLSYM",
-    "duration": "1:45",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Byakuya）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ]
