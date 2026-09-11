@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_O8DEg-Ntta8",
+    "title": "推しの子×正しくなれない┊︎フルversion【MAD】",
+    "author": "さき.*@MAD",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "O8DEg-Ntta8",
+    "duration": "3:57",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（さき.*@MAD）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_rVcGG5wNn6g",
     "title": "【MAD】Re:ゼロから始める異世界生活×夢灯籠",
     "author": "skydao",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_8I11U7CGCGA",
-    "title": "【SAKAMOTO DAYS】 「世紀の殺し屋展」開幕 PV 【最新17巻発売記念】",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "8I11U7CGCGA",
-    "duration": "1:36",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 
