@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_9MHnso4wAo4",
+    "title": "【MAD】ぼっち・ざ・ろっく！/なんでもしたいからッ!!。",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "9MHnso4wAo4",
+    "duration": "2:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "ぼっち・ざ・ろっく！"
+    ],
+    "auto": true,
+    "anime": "ぼっち・ざ・ろっく！",
+    "reading": "ぼっち・ざ・ろっく！"
+  },
+  {
     "id": "auto_CBIhqcmBS4U",
     "title": "シュタインズ・ゲート Xbox360 OP スカイクラッドの観測者 AI 4K 中日字幕 (MAD·AMV) (回憶系列)",
     "author": "沙理戰-MAD·AMV",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_qnipbnAdH7w",
-    "title": "【MAD】チェンソーマン×唱(Ado)",
-    "author": "Byakuya",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "qnipbnAdH7w",
-    "duration": "3:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Byakuya）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 
