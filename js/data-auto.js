@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_D_Eu26Mhjxk",
+    "title": "[MAD] 黒子のバスケ×敗北の少年",
+    "author": "黒犬の成り上がり",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "D_Eu26Mhjxk",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（黒犬の成り上がり）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_aRvHKd2luIw",
     "title": "【傷物語】命に嫌われている【MAD】",
     "author": "しづか",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_5ilJ8Z4ye7E",
-    "title": "【鋼之鍊金術師FA MAD】 『鋼の錬金術師』×『Again』︳『Fullmetal Alchemist』 × 『Again』︳繁體中文翻譯【歌詞付き】",
-    "author": "SiuMan MAD",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "5ilJ8Z4ye7E",
-    "duration": "4:23",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（SiuMan MAD）。",
-    "tags": [
-      "自動取得",
-      "鋼の錬金術師"
-    ],
-    "auto": true,
-    "anime": "鋼の錬金術師",
-    "reading": "こうのれんきんじゅつし"
   }
 ];
 
