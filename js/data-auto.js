@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_U5NB4WZTzlA",
+    "title": "【MAD】Fate /grand order /impulse 【AliA】",
+    "author": "チュパカブラEX",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "U5NB4WZTzlA",
+    "duration": "3:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（チュパカブラEX）。",
+    "tags": [
+      "自動取得",
+      "運命"
+    ],
+    "auto": true,
+    "anime": "運命",
+    "reading": "うんめい"
+  },
+  {
     "id": "auto_D_Eu26Mhjxk",
     "title": "[MAD] 黒子のバスケ×敗北の少年",
     "author": "黒犬の成り上がり",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_NwVBbepoOiw",
-    "title": "Fate/Strange Fake -「MAD/AMV」Enkidu vs Gilgamesh -Love Runs Out",
-    "author": "NerHayano_",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "NwVBbepoOiw",
-    "duration": "3:46",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（NerHayano_）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ];
 
