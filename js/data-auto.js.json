@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_aRvHKd2luIw",
+    "title": "【傷物語】命に嫌われている【MAD】",
+    "author": "しづか",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "aRvHKd2luIw",
+    "duration": "4:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（しづか）。",
+    "tags": [
+      "自動取得",
+      "傷物語 -こよみヴァンプ-"
+    ],
+    "auto": true,
+    "anime": "傷物語 -こよみヴァンプ-",
+    "reading": "きずものご -こよみゔぁんぷ-"
+  },
+  {
     "id": "auto_9MHnso4wAo4",
     "title": "【MAD】ぼっち・ざ・ろっく！/なんでもしたいからッ!!。",
     "author": "ねむねこ【MAD】",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "鋼の錬金術師",
     "reading": "こうのれんきんじゅつし"
-  },
-  {
-    "id": "auto_TP_7obCSxEE",
-    "title": "【MAD/AMV】聲の形 × BUMP OF CHICKEN ー流星群ー",
-    "author": "aitsu _03",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "TP_7obCSxEE",
-    "duration": "6:14",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（aitsu _03）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ]
