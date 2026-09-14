@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_BJl6KE0U2bA",
+    "title": "【MV】TVアニメ「暗殺教室」× 帰りの会「スピカ｣ Collaboration Music Video ｜Assassination Classroom × Kaerinokai",
+    "author": "ジャンプチャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "BJl6KE0U2bA",
+    "duration": "3:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
+    "tags": [
+      "自動取得",
+      "TVアニメ｢ちび☆ローリング☆ガールズ｣コロコロ劇場"
+    ],
+    "auto": true,
+    "anime": "TVアニメ｢ちび☆ローリング☆ガールズ｣コロコロ劇場",
+    "reading": "TVあにめあにめちび☆ろーりんぐ☆がーるずがーるずころころげきじょう"
+  },
+  {
     "id": "auto_U5NB4WZTzlA",
     "title": "【MAD】Fate /grand order /impulse 【AliA】",
     "author": "チュパカブラEX",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_gBMrDLWa_eM",
-    "title": "【卒業MAD】僕のヒーローアカデミア×Mrs. GREEN APPLE/ダーリン　セリフあり",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "gBMrDLWa_eM",
-    "duration": "4:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ]
