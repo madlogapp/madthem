@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_5JC6C19_X7I",
+    "title": "【MAD】四月は君の嘘【道】",
+    "author": "ひっかるch",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "5JC6C19_X7I",
+    "duration": "2:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ひっかるch）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_BJl6KE0U2bA",
     "title": "【MV】TVアニメ「暗殺教室」× 帰りの会「スピカ｣ Collaboration Music Video ｜Assassination Classroom × Kaerinokai",
     "author": "ジャンプチャンネル",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "劇場版 Fate/stay night UNLIMITED BLADE WORKS",
     "reading": "げきじょうばん Fate/stay night UNLIMITED BLADE WORKS"
-  },
-  {
-    "id": "auto_qRCaOQyL2zc",
-    "title": "【MAD】東京リベンジャーズ×灰色と青",
-    "author": "26ぴょん。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "qRCaOQyL2zc",
-    "duration": "5:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（26ぴょん。）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ]
