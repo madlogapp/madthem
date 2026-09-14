@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_MbzTykKIIkU",
+    "title": "【MAD】約束のネバーランド ×  I'm a mess / MY FIRST STORY",
+    "author": "??",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "MbzTykKIIkU",
+    "duration": "4:10",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（??）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_5JC6C19_X7I",
     "title": "【MAD】四月は君の嘘【道】",
     "author": "ひっかるch",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_je2ssW-qNYg",
-    "title": "【MAD】Missing You【Fate stay night UBW】",
-    "author": "co co",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "je2ssW-qNYg",
-    "duration": "5:03",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（co co）。",
-    "tags": [
-      "自動取得",
-      "劇場版 Fate/stay night UNLIMITED BLADE WORKS"
-    ],
-    "auto": true,
-    "anime": "劇場版 Fate/stay night UNLIMITED BLADE WORKS",
-    "reading": "げきじょうばん Fate/stay night UNLIMITED BLADE WORKS"
   }
 ]
