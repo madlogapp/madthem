@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_5hTAf3yNXsg",
+    "title": "[MAD]ブルーロック音ハメMAD※ネタバレ注意(前編)＃mad#ブルーロック",
+    "author": "Lucky!!",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "5hTAf3yNXsg",
+    "duration": "4:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Lucky!!）。",
+    "tags": [
+      "自動取得",
+      "スクライド オルタレイション 前編 ＴＡＯ"
+    ],
+    "auto": true,
+    "anime": "スクライド オルタレイション 前編 ＴＡＯ",
+    "reading": "すくらいど おるたれいしょん ぜんぺん ＴＡＯ"
+  },
+  {
     "id": "auto_MbzTykKIIkU",
     "title": "【MAD】約束のネバーランド ×  I'm a mess / MY FIRST STORY",
     "author": "??",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_QJ8UdzEErk8",
-    "title": "【MAD】薫る花は凛と咲く/パズル‐幾田りら",
-    "author": "Kulto ch.クルトｰMAD",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "QJ8UdzEErk8",
-    "duration": "3:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Kulto ch.クルトｰMAD）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 
