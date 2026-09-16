@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_4ougl_ZAsMQ",
+    "title": "【AMV/MAD】Arknights × Lycolis-Recoil  [花の塔  -さユり]",
+    "author": "Euleka",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "4ougl_ZAsMQ",
+    "duration": "1:54",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Euleka）。",
+    "tags": [
+      "自動取得",
+      "アークナイツ 焔燼曙明"
+    ],
+    "auto": true,
+    "anime": "アークナイツ 焔燼曙明",
+    "reading": "あーくないつ ほのおじんあけぼのめい"
+  },
+  {
     "id": "auto_nIZT9KTiqlE",
     "title": "【MAD/AMV】ワンピース/ONE PIECE(ゾロ×ワノ国)×『おどりゃんせ』",
     "author": "ゆう",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_IlHenzw0w00",
-    "title": "【MAD/AMV】薬屋のひとりごと×花になって/緑黄色社会【セリフ入り】",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "IlHenzw0w00",
-    "duration": "3:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 
