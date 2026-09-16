@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_5v1nxWCHGTc",
+    "title": "【MAD】やはり俺の青春ラブコメはまちがっている。【俺ガイル】",
+    "author": "とっきー",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "5v1nxWCHGTc",
+    "duration": "4:46",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（とっきー）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
+  },
+  {
     "id": "auto_4ougl_ZAsMQ",
     "title": "【AMV/MAD】Arknights × Lycolis-Recoil  [花の塔  -さユり]",
     "author": "Euleka",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_jXempM7O-dA",
-    "title": "『MAD』モブサイコ100×立ち入り禁止",
-    "author": "こうせい",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "jXempM7O-dA",
-    "duration": "3:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（こうせい）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ]
