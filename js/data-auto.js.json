@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_nIZT9KTiqlE",
+    "title": "【MAD/AMV】ワンピース/ONE PIECE(ゾロ×ワノ国)×『おどりゃんせ』",
+    "author": "ゆう",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "nIZT9KTiqlE",
+    "duration": "3:19",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ゆう）。",
+    "tags": [
+      "自動取得",
+      "ONE PIECE"
+    ],
+    "auto": true,
+    "anime": "ONE PIECE",
+    "reading": "ONE PIECE"
+  },
+  {
     "id": "auto_VJv2wXXc3uI",
     "title": "【MAD/AMV】機動戦士ガンダム 鉄血のオルフェンズ | クーデリア・藍那・バーンスタイン「月光 - 96猫」(日本語CC字幕歌詞)",
     "author": "A.T. TAKEMURA",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_8XOxE57j8c0",
-    "title": "[MAD] My Hero Academia / You Say Run [with dialogue]",
-    "author": "たじゅくんch",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "8XOxE57j8c0",
-    "duration": "4:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（たじゅくんch）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ]
