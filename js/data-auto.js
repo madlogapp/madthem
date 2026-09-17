@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_fOQT45WXoL4",
+    "title": "Mrs. GREEN APPLE「クスシキ」実写化MV│TVアニメ『薬屋のひとりごと』第2期 第2クールOPテーマ",
+    "author": "理想の実写化AI",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "fOQT45WXoL4",
+    "duration": "1:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（理想の実写化AI）。",
+    "tags": [
+      "自動取得",
+      "薬屋のひとりごと"
+    ],
+    "auto": true,
+    "anime": "薬屋のひとりごと",
+    "reading": "くすりやのひとりごと"
+  },
+  {
     "id": "auto_5v1nxWCHGTc",
     "title": "【MAD】やはり俺の青春ラブコメはまちがっている。【俺ガイル】",
     "author": "とっきー",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "絶対零度",
     "reading": "ぜったいれいど"
-  },
-  {
-    "id": "auto_E1luPD9tw5I",
-    "title": "金太歌う シャアが来る『ダンダダン』",
-    "author": "なんかやる",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "E1luPD9tw5I",
-    "duration": "1:45",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（なんかやる）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
