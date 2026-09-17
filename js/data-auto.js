@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_xG2eFaT4SI8",
+    "title": "[MMV] Frieren: Beyond Journey's End x Vaundy",
+    "author": "NinjaristicNinja",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "xG2eFaT4SI8",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（NinjaristicNinja）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン ～●●の魔法～"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン ～●●の魔法～",
+    "reading": "そうそうのふりーれん ～●●のまほう～"
+  },
+  {
     "id": "auto_fOQT45WXoL4",
     "title": "Mrs. GREEN APPLE「クスシキ」実写化MV│TVアニメ『薬屋のひとりごと』第2期 第2クールOPテーマ",
     "author": "理想の実写化AI",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_X0oNY4THkAA",
-    "title": "【 MAD / AMV 】 怪獣8号 妄想OP × 『 絶対零度 』 なとり from TVアニメ「WIND BREAKER」オープニング / Kaiju No.8 クレジットOP",
-    "author": "メカ好き",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "X0oNY4THkAA",
-    "duration": "1:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（メカ好き）。",
-    "tags": [
-      "自動取得",
-      "絶対零度"
-    ],
-    "auto": true,
-    "anime": "絶対零度",
-    "reading": "ぜったいれいど"
   }
 ];
 
