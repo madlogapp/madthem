@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_BzQ-oQHmjwM",
+    "title": "【MAD/AMV】 『 フリーレン - Eden - 』【葬送のフリーレン】",
+    "author": "tunamayo",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "BzQ-oQHmjwM",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（tunamayo）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_xG2eFaT4SI8",
     "title": "[MMV] Frieren: Beyond Journey's End x Vaundy",
     "author": "NinjaristicNinja",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_yHNlEDELSio",
-    "title": "【アニメMAD】ダンダダン/TAIDADA",
-    "author": "趣味人",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "yHNlEDELSio",
-    "duration": "4:07",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（趣味人）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
