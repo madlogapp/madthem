@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_AtdGSuFFt7g",
+    "title": "四月は君の嘘 - 【MAD】",
+    "author": "馬鈴薯",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "AtdGSuFFt7g",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（馬鈴薯）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_BzQ-oQHmjwM",
     "title": "【MAD/AMV】 『 フリーレン - Eden - 』【葬送のフリーレン】",
     "author": "tunamayo",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_cKiWFhLiDb4",
-    "title": "【MAD】東京リベンジャーズ×誰かの心臓になれたなら",
-    "author": "kooro",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "cKiWFhLiDb4",
-    "duration": "3:50",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（kooro）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 
