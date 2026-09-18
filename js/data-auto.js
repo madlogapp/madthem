@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_fC4euqtW0-8",
+    "title": "[MAD]コードギアス 進撃のルルーシュ・attack on Lelouch （紅蓮の弓矢）修正版",
+    "author": "撥麗浅永",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "fC4euqtW0-8",
+    "duration": "1:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（撥麗浅永）。",
+    "tags": [
+      "自動取得",
+      "劇場版「進撃の巨人」前編～紅蓮の弓矢～"
+    ],
+    "auto": true,
+    "anime": "劇場版「進撃の巨人」前編～紅蓮の弓矢～",
+    "reading": "げきじょうばん「しんげきのきょじん」ぜんぺん～ぐれんのゆみや～"
+  },
+  {
     "id": "auto_ngtiJTKs_Gg",
     "title": "メイドインアビス/Lemon",
     "author": "ti na",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_qR5BFndT38A",
-    "title": "（ＭＡＤ／ＡＭＶ）葬送のフリーレン　×　勇者　-YOASOBI-　【高画質・4Ｋ】　frieren beyond journeys end",
-    "author": "山星の推して参る!!",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "qR5BFndT38A",
-    "duration": "3:19",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（山星の推して参る!!）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
