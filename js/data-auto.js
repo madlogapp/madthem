@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ngtiJTKs_Gg",
+    "title": "メイドインアビス/Lemon",
+    "author": "ti na",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ngtiJTKs_Gg",
+    "duration": "4:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ti na）。",
+    "tags": [
+      "自動取得",
+      "メイドインアビス"
+    ],
+    "auto": true,
+    "anime": "メイドインアビス",
+    "reading": "めいどいんあびす"
+  },
+  {
     "id": "auto_AtdGSuFFt7g",
     "title": "四月は君の嘘 - 【MAD】",
     "author": "馬鈴薯",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_Eneba6puto4",
-    "title": "【推しの子】『アイドル』YOASOBI【MAD/AMV】【4K】",
-    "author": "アタス、誠磨でございます。",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "Eneba6puto4",
-    "duration": "3:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（アタス、誠磨でございます。）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
