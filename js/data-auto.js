@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Z-OxYK-WeJY",
+    "title": "【ポケモンSV】スカーレット ×『アカシア』【MAD】",
+    "author": "noano",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Z-OxYK-WeJY",
+    "duration": "4:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（noano）。",
+    "tags": [
+      "自動取得",
+      "ドンナモンジャTV"
+    ],
+    "auto": true,
+    "anime": "ドンナモンジャTV",
+    "reading": "どんなもんじゃTV"
+  },
+  {
     "id": "auto_dvEBq5SDGdw",
     "title": "【サイヤの日】ドラゴンボール×daze【MAD】",
     "author": "谷村も経ら",
@@ -21976,28 +21998,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（ベクター）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto__9aZfsJ-snc",
-    "title": "【MAD】チェンソーマン/IRIS OUT【ver.2】",
-    "author": "じぇべりー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_9aZfsJ-snc",
-    "duration": "2:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（じぇべりー）。",
     "tags": [
       "自動取得",
       "チェンソーマン"
