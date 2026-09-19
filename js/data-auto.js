@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_dvEBq5SDGdw",
+    "title": "【サイヤの日】ドラゴンボール×daze【MAD】",
+    "author": "谷村も経ら",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "dvEBq5SDGdw",
+    "duration": "3:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（谷村も経ら）。",
+    "tags": [
+      "自動取得",
+      "ドラゴンボール"
+    ],
+    "auto": true,
+    "anime": "ドラゴンボール",
+    "reading": "どらごんぼーる"
+  },
+  {
     "id": "auto_fC4euqtW0-8",
     "title": "[MAD]コードギアス 進撃のルルーシュ・attack on Lelouch （紅蓮の弓矢）修正版",
     "author": "撥麗浅永",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_DGYxvEfrDbc",
-    "title": "【MAD】炎炎ノ消防隊×ピースサイン(米津玄師)",
-    "author": "Byakuya",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "DGYxvEfrDbc",
-    "duration": "3:56",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Byakuya）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ];
 
