@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Xr032EhUDPw",
+    "title": "TVアニメ『呪術廻戦』第3期「死滅回游 前編」ノンクレジットOPムービー／OPテーマ：King Gnu「AIZO」｜毎週木曜深夜0時26分（24時26分）～MBS/TBS系28局にて放送中!!",
+    "author": "TOHO animation チャンネル and King Gnu official YouTube channel  ",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "Xr032EhUDPw",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル and King Gnu official YouTube channel  ）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_Z-OxYK-WeJY",
     "title": "【ポケモンSV】スカーレット ×『アカシア』【MAD】",
     "author": "noano",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_qXt42n6y-0c",
-    "title": "【MAD】チェンソーマン × しとど晴天大迷惑",
-    "author": "ベクター",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "qXt42n6y-0c",
-    "duration": "3:47",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ベクター）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ]
