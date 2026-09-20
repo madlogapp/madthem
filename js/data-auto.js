@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_j9DOZ6uXcfg",
+    "title": "【MAD】Attack on titan × yuuri\"kagome\" in most Episodes 【Japanese made】with Eng subtitles",
+    "author": "iLavらう",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "j9DOZ6uXcfg",
+    "duration": "5:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（iLavらう）。",
+    "tags": [
+      "自動取得",
+      "進撃の巨人"
+    ],
+    "auto": true,
+    "anime": "進撃の巨人",
+    "reading": "しんげきのきょじん"
+  },
+  {
     "id": "auto_Xr032EhUDPw",
     "title": "TVアニメ『呪術廻戦』第3期「死滅回游 前編」ノンクレジットOPムービー／OPテーマ：King Gnu「AIZO」｜毎週木曜深夜0時26分（24時26分）～MBS/TBS系28局にて放送中!!",
     "author": "TOHO animation チャンネル and King Gnu official YouTube channel  ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_5eiMmcqHkyM",
-    "title": "【MAD】稲荷崎戦✕シルエット【ハイキュー!!】【1080p60】",
-    "author": "Sieral",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "5eiMmcqHkyM",
-    "duration": "3:58",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Sieral）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
