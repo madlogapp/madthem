@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_4YE1FSC5KH0",
+    "title": "【リゼロ】4th season第17話(第83話)「グッドルーザー」WEB予告│TVアニメ『Re:ゼロから始める異世界生活』4th season《奪還編》好評放送中",
+    "author": "「Re:ゼロから始める異世界生活」チャンネル【公式】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "4YE1FSC5KH0",
+    "duration": "1:21",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（「Re:ゼロから始める異世界生活」チャンネル【公式】）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ"
+  },
+  {
     "id": "auto_j9DOZ6uXcfg",
     "title": "【MAD】Attack on titan × yuuri\"kagome\" in most Episodes 【Japanese made】with Eng subtitles",
     "author": "iLavらう",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_x0naGqxlWhk",
-    "title": "【MAD】薫る花は凛と咲く/ハルカ",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "x0naGqxlWhk",
-    "duration": "1:36",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 
