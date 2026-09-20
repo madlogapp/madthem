@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_7ZDobfhdVtI",
+    "title": "【MAD】葬送のフリーレン×人間ごっこ",
+    "author": "手っ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "7ZDobfhdVtI",
+    "duration": "1:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（手っ）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_4YE1FSC5KH0",
     "title": "【リゼロ】4th season第17話(第83話)「グッドルーザー」WEB予告│TVアニメ『Re:ゼロから始める異世界生活』4th season《奪還編》好評放送中",
     "author": "「Re:ゼロから始める異世界生活」チャンネル【公式】",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "BLEACH",
     "reading": "BLEACH"
-  },
-  {
-    "id": "auto_DqBYDb22qfU",
-    "title": "【ＭＡＤ】超能力カーニバル!!【モブサイコ100】",
-    "author": "ムパ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "DqBYDb22qfU",
-    "duration": "3:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ムパ）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 
