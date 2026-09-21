@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_DzeRO4ftvGo",
+    "title": "【MAD】ワンピース【空島 】青春のとびら ／ONE PIECE× SKYPIEA",
+    "author": "カイパパのONE PIECE MOVIE",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "DzeRO4ftvGo",
+    "duration": "2:55",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（カイパパのONE PIECE MOVIE）。",
+    "tags": [
+      "自動取得",
+      "ONE PIECE エピソードオブ空島"
+    ],
+    "auto": true,
+    "anime": "ONE PIECE エピソードオブ空島",
+    "reading": "ONE PIECE えぴそーどおぶそらしま"
+  },
+  {
     "id": "auto_7ZDobfhdVtI",
     "title": "【MAD】葬送のフリーレン×人間ごっこ",
     "author": "手っ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_MjHvecP_zUQ",
-    "title": "[MAD] Bleach x JoJo's Bizarre Adventure Part 5 Opening -『Traitor's Requiem』 by Daisuke Hasegawa",
-    "author": "yinny",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "MjHvecP_zUQ",
-    "duration": "2:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（yinny）。",
-    "tags": [
-      "自動取得",
-      "BLEACH"
-    ],
-    "auto": true,
-    "anime": "BLEACH",
-    "reading": "BLEACH"
   }
 ]
