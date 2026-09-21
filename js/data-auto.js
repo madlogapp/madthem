@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_CSfRA8UvjLA",
+    "title": "TVアニメ『SPY×FAMILY』第2クールED主題歌yama「色彩」アニメMV",
+    "author": "TOHO animation チャンネル",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "CSfRA8UvjLA",
+    "duration": "3:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
+    "tags": [
+      "自動取得",
+      "SPY×FAMILY"
+    ],
+    "auto": true,
+    "anime": "SPY×FAMILY",
+    "reading": "SPY×FAMILY"
+  },
+  {
     "id": "auto_DzeRO4ftvGo",
     "title": "【MAD】ワンピース【空島 】青春のとびら ／ONE PIECE× SKYPIEA",
     "author": "カイパパのONE PIECE MOVIE",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_pIcwWjel-Ro",
-    "title": "【MAD】ブルーロック×偽物人間40号(めいちゃん＆花村想太)",
-    "author": "手っ",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "pIcwWjel-Ro",
-    "duration": "3:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（手っ）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 
