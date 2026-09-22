@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_I8XE85KhjhM",
+    "title": "走り(Running) 作画 sakuga MAD",
+    "author": "みやしたかいと Miyashita Kaito",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "I8XE85KhjhM",
+    "duration": "4:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（みやしたかいと Miyashita Kaito）。",
+    "tags": [
+      "自動取得",
+      "Running In The Dark"
+    ],
+    "auto": true,
+    "anime": "Running In The Dark",
+    "reading": "Running In The Dark"
+  },
+  {
     "id": "auto_bYNlZ0KkPuo",
     "title": "『薬屋のひとりごと』第2クールノンクレジットED：wacci『愛は薬』【毎週土曜24：55～ 日本テレビ系にて全国放送中！ 】",
     "author": "TOHO animation チャンネル",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_N5gFsxD5MD8",
-    "title": "【MAD】暗殺教室「贖罪」",
-    "author": "見たんならチャンネル登録しろ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "N5gFsxD5MD8",
-    "duration": "4:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（見たんならチャンネル登録しろ）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ]
