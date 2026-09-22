@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_bYNlZ0KkPuo",
+    "title": "『薬屋のひとりごと』第2クールノンクレジットED：wacci『愛は薬』【毎週土曜24：55～ 日本テレビ系にて全国放送中！ 】",
+    "author": "TOHO animation チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "bYNlZ0KkPuo",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
+    "tags": [
+      "自動取得",
+      "薬屋のひとりごと"
+    ],
+    "auto": true,
+    "anime": "薬屋のひとりごと",
+    "reading": "くすりやのひとりごと"
+  },
+  {
     "id": "auto_CSfRA8UvjLA",
     "title": "TVアニメ『SPY×FAMILY』第2クールED主題歌yama「色彩」アニメMV",
     "author": "TOHO animation チャンネル",
@@ -21976,28 +21998,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（見たんならチャンネル登録しろ）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_0Gw6btjuW9M",
-    "title": "【MAD】暗殺教室×最前線を駆け抜けろ",
-    "author": "栗ちゃんネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "0Gw6btjuW9M",
-    "duration": "3:35",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（栗ちゃんネル）。",
     "tags": [
       "自動取得",
       "暗殺教室"
