@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_eKHvO8TMA1o",
+    "title": "【MAD】魔法科高校の劣等生 来訪者編  × このふざけた素晴らしき世界は、僕の為にある",
+    "author": "BUHIBUHI_ GG",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "eKHvO8TMA1o",
+    "duration": "4:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（BUHIBUHI_ GG）。",
+    "tags": [
+      "自動取得",
+      "魔法科高校の劣等生 来訪者編"
+    ],
+    "auto": true,
+    "anime": "魔法科高校の劣等生 来訪者編",
+    "reading": "まほうかこうこうのれっとうせい らいほうしゃへん"
+  },
+  {
     "id": "auto_I8XE85KhjhM",
     "title": "走り(Running) 作画 sakuga MAD",
     "author": "みやしたかいと Miyashita Kaito",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_sPy22FcltKk",
-    "title": "【MAD】炎炎ノ消防隊 × インフェルノ",
-    "author": "蒼さば",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "sPy22FcltKk",
-    "duration": "3:32",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（蒼さば）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ]
