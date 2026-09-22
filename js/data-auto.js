@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Cc-Ecr6Yh2Y",
+    "title": "MYTH & ROID 『HYDRA』 Music Clip フル ver.",
+    "author": "KADOKAWAanime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Cc-Ecr6Yh2Y",
+    "duration": "4:54",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（KADOKAWAanime）。",
+    "tags": [
+      "自動取得",
+      "京都アニメーションCM「あじさい編」"
+    ],
+    "auto": true,
+    "anime": "京都アニメーションCM「あじさい編」",
+    "reading": "きょうとあにめーしょんCM「あじさいへん」"
+  },
+  {
     "id": "auto_eKHvO8TMA1o",
     "title": "【MAD】魔法科高校の劣等生 来訪者編  × このふざけた素晴らしき世界は、僕の為にある",
     "author": "BUHIBUHI_ GG",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_kiPnOKi8G2w",
-    "title": "【静止画MAD】Droshky!【チェンソーマン】",
-    "author": "ALINCO",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kiPnOKi8G2w",
-    "duration": "2:11",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ALINCO）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 
