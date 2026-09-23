@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_eYRikGtaQos",
+    "title": "【MAD】The Way of Light and Darkness 【とある魔術の禁書目録】",
+    "author": "kikugikaoskino",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "eYRikGtaQos",
+    "duration": "4:16",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（kikugikaoskino）。",
+    "tags": [
+      "自動取得",
+      "とある魔術の禁書目録"
+    ],
+    "auto": true,
+    "anime": "とある魔術の禁書目録",
+    "reading": "とあるまじゅつのきんしょもくろく"
+  },
+  {
     "id": "auto_yt3SBRb43zw",
     "title": "Spy X Family Out Of Context English Dub | Ep 1",
     "author": "Mrs-Hurricane-ja",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ドラゴンボール超",
     "reading": "どらごんぼーるちょう"
-  },
-  {
-    "id": "auto_9HBP_hXkC48",
-    "title": "【MAD】第六感【炎炎ノ消防隊】",
-    "author": "tto",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "9HBP_hXkC48",
-    "duration": "3:14",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（tto）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ]
