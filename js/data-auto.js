@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_YwSra1ZMohk",
+    "title": "【Music Video】REBEL ERA / 佐野万次郎＆龍宮寺 堅（CV：林 勇＆福西勝也）",
+    "author": "TVアニメ『東京リベンジャーズ』チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "YwSra1ZMohk",
+    "duration": "3:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TVアニメ『東京リベンジャーズ』チャンネル）。",
+    "tags": [
+      "自動取得",
+      "道"
+    ],
+    "auto": true,
+    "anime": "道",
+    "reading": "みち"
+  },
+  {
     "id": "auto_eYRikGtaQos",
     "title": "【MAD】The Way of Light and Darkness 【とある魔術の禁書目録】",
     "author": "kikugikaoskino",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_WeVysD6-foQ",
-    "title": "【MAD】ドラゴンボール超(ブロリー&スーパーヒーロー)×GONG+守護神the guardian",
-    "author": "みならい",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "WeVysD6-foQ",
-    "duration": "9:14",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（みならい）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボール超"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボール超",
-    "reading": "どらごんぼーるちょう"
   }
 ];
 
