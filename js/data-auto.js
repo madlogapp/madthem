@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_yt3SBRb43zw",
+    "title": "Spy X Family Out Of Context English Dub | Ep 1",
+    "author": "Mrs-Hurricane-ja",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "yt3SBRb43zw",
+    "duration": "1:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Mrs-Hurricane-ja）。",
+    "tags": [
+      "自動取得",
+      "スパイ教室"
+    ],
+    "auto": true,
+    "anime": "スパイ教室",
+    "reading": "すぱいきょうしつ"
+  },
+  {
     "id": "auto_Cc-Ecr6Yh2Y",
     "title": "MYTH & ROID 『HYDRA』 Music Clip フル ver.",
     "author": "KADOKAWAanime",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_j23INj40yOQ",
-    "title": "『1』- Mob Psycho 100 AMV",
-    "author": "thekagepro24",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "j23INj40yOQ",
-    "duration": "3:50",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（thekagepro24）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 
