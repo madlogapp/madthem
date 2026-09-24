@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Nl9DCEaA5oo",
+    "title": "CoD mobile 2周年記念MAD【CALL of DUTY】【グレンラガン】【CoDモバイル】",
+    "author": "TANIさん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Nl9DCEaA5oo",
+    "duration": "1:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TANIさん）。",
+    "tags": [
+      "自動取得",
+      "グレンラガン パラレルワークス"
+    ],
+    "auto": true,
+    "anime": "グレンラガン パラレルワークス",
+    "reading": "ぐれんらがん ぱられるわーくす"
+  },
+  {
     "id": "auto_wMw6968KgZ4",
     "title": "【AMV/MAD】葬送的芙莉蓮 / 離開我的依賴 『Leaving』王艷薇 Evangeline",
     "author": "緣的輪迴",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_2xkaEcoGM6w",
-    "title": "【MAD】ハイキュー×ピーターパン【稲荷崎戦】",
-    "author": "ライアンになった男",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "2xkaEcoGM6w",
-    "duration": "3:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ライアンになった男）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ]
