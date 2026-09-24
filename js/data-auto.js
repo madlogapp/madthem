@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_cMg56wrsFLA",
+    "title": "【MAD】　【推しの子】/共鳴-SixTONES -",
+    "author": "からす彡",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "cMg56wrsFLA",
+    "duration": "3:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（からす彡）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_Nl9DCEaA5oo",
     "title": "CoD mobile 2周年記念MAD【CALL of DUTY】【グレンラガン】【CoDモバイル】",
     "author": "TANIさん",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦 死滅回游 前編",
     "reading": "じゅじゅつかいせん しめつかいゆう ぜんぺん"
-  },
-  {
-    "id": "auto_Aqdr6dLJyVo",
-    "title": "【⚠イヤホン推奨⚠】【MAD】暗殺教室×だれかの心臓になれたなら",
-    "author": "みりん君",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Aqdr6dLJyVo",
-    "duration": "3:24",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（みりん君）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ];
 
