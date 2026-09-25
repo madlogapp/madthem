@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Q9Q11d0iRow",
+    "title": "【MAD】約束のネバーランド×夜に駆ける",
+    "author": "ちょこビター",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Q9Q11d0iRow",
+    "duration": "4:55",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ちょこビター）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_cMg56wrsFLA",
     "title": "【MAD】　【推しの子】/共鳴-SixTONES -",
     "author": "からす彡",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_VZzWr4kwkv0",
-    "title": "【呪術廻戦　死滅回游 前編】×【AIZO】【MAD】【2160p】",
-    "author": "猫餅",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "VZzWr4kwkv0",
-    "duration": "3:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（猫餅）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦 死滅回游 前編"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦 死滅回游 前編",
-    "reading": "じゅじゅつかいせん しめつかいゆう ぜんぺん"
   }
 ];
 
