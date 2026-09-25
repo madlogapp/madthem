@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_1FBOptRm5I4",
+    "title": "【MAD】ハイキュー‼︎×オレンジ(セリフ入り)",
+    "author": "ブレンド",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "1FBOptRm5I4",
+    "duration": "4:04",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ブレンド）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!!"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!!",
+    "reading": "はいきゅー!!"
+  },
+  {
     "id": "auto_Q9Q11d0iRow",
     "title": "【MAD】約束のネバーランド×夜に駆ける",
     "author": "ちょこビター",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_Gg6uu48gL0Y",
-    "title": "【MAD】鬼滅の刃×ひゅるりらぱっぱ",
-    "author": "かいかい",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Gg6uu48gL0Y",
-    "duration": "3:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（かいかい）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ]
