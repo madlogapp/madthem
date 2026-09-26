@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_owj4Kf0da4s",
+    "title": "薫る花は凛と咲く",
+    "author": "EightHandedMaya",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "owj4Kf0da4s",
+    "duration": "2:04",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（EightHandedMaya）。",
+    "tags": [
+      "自動取得",
+      "薫る花は凛と咲く"
+    ],
+    "auto": true,
+    "anime": "薫る花は凛と咲く",
+    "reading": "かおるはなはりんとさく"
+  },
+  {
     "id": "auto_NX7qRb6M_dk",
     "title": "ROOKiEZ is PUNK’D「リアライズ」MUSIC VIDEO（『弱虫ペダル GRANDE ROAD』エンディング・テーマ）",
     "author": "TOHO animation チャンネル",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_B66yHbtXg78",
-    "title": "【MAD】ハイキュー×プライド革命 『セリフ入り』",
-    "author": "スズラン",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "B66yHbtXg78",
-    "duration": "3:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（スズラン）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
