@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_NX7qRb6M_dk",
+    "title": "ROOKiEZ is PUNK’D「リアライズ」MUSIC VIDEO（『弱虫ペダル GRANDE ROAD』エンディング・テーマ）",
+    "author": "TOHO animation チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "NX7qRb6M_dk",
+    "duration": "4:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
+    "tags": [
+      "自動取得",
+      "弱虫ペダルGRANDE ROAD"
+    ],
+    "auto": true,
+    "anime": "弱虫ペダルGRANDE ROAD",
+    "reading": "よわむしぺだるGRANDE ROAD"
+  },
+  {
     "id": "auto_gFQZgwMC1As",
     "title": "TVアニメ『BLEACH 千年血戦篇-相剋譚-』ノンクレジットオープニングムービー",
     "author": "アニプレックス チャンネル",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_zi7Tmx3T4n8",
-    "title": "コードギアスMAD「Break a cage」",
-    "author": "xxwhipxx",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "zi7Tmx3T4n8",
-    "duration": "1:40",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（xxwhipxx）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 奪還のロゼ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 奪還のロゼ",
-    "reading": "こーどぎあす だっかんのろぜ"
   }
 ];
 
