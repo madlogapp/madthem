@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_gFQZgwMC1As",
+    "title": "TVアニメ『BLEACH 千年血戦篇-相剋譚-』ノンクレジットオープニングムービー",
+    "author": "アニプレックス チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gFQZgwMC1As",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（アニプレックス チャンネル）。",
+    "tags": [
+      "自動取得",
+      "BLEACH 千年血戦篇-相剋譚-"
+    ],
+    "auto": true,
+    "anime": "BLEACH 千年血戦篇-相剋譚-",
+    "reading": "BLEACH せんねんけっせんへん-そうこくたん-"
+  },
+  {
     "id": "auto_1FBOptRm5I4",
     "title": "【MAD】ハイキュー‼︎×オレンジ(セリフ入り)",
     "author": "ブレンド",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "コードギアス 奪還のロゼ",
     "reading": "こーどぎあす だっかんのろぜ"
-  },
-  {
-    "id": "auto_wkI-mjD1ckw",
-    "title": "Fate/Strange Fake | Sakuga 作画 [MAD/AMV]",
-    "author": "PitStop MAD 作画",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "wkI-mjD1ckw",
-    "duration": "2:13",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（PitStop MAD 作画）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ];
 
