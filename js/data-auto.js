@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_pcgNmmFvtmk",
+    "title": "【静止画MAD】1,000,000 TIMES【とある魔術の禁書目録】",
+    "author": "World希望",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "pcgNmmFvtmk",
+    "duration": "6:56",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（World希望）。",
+    "tags": [
+      "自動取得",
+      "とある魔術の禁書目録"
+    ],
+    "auto": true,
+    "anime": "とある魔術の禁書目録",
+    "reading": "とあるまじゅつのきんしょもくろく"
+  },
+  {
     "id": "auto_owj4Kf0da4s",
     "title": "薫る花は凛と咲く",
     "author": "EightHandedMaya",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_BuC7EU1WZk0",
-    "title": "【MAD】きっと誰もが誰かのヒーロー/you say run 【僕のヒーローアカデミア】",
-    "author": "予告くん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "BuC7EU1WZk0",
-    "duration": "6:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（予告くん）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
