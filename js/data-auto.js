@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_0TCUTA3AjyA",
+    "title": "【20XX年発売】『薬屋のひとりごと』School♡Diariesプロモーション映像　|　エイプリルフール",
+    "author": "TOHO animation チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "0TCUTA3AjyA",
+    "duration": "1:57",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
+    "tags": [
+      "自動取得",
+      "薬屋のひとりごと"
+    ],
+    "auto": true,
+    "anime": "薬屋のひとりごと",
+    "reading": "くすりやのひとりごと"
+  },
+  {
     "id": "auto_SEnU1pIYY40",
     "title": "【MAD】サマーウォーズ【セツナトリップ】",
     "author": "めだまん",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_B-NXzlOSfvQ",
-    "title": "【MAD/AMV】呪術廻戦×King Gnu/AIZO　歌詞付き",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "B-NXzlOSfvQ",
-    "duration": "3:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
