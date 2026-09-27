@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_SEnU1pIYY40",
+    "title": "【MAD】サマーウォーズ【セツナトリップ】",
+    "author": "めだまん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "SEnU1pIYY40",
+    "duration": "4:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（めだまん）。",
+    "tags": [
+      "自動取得",
+      "サマーウォーズ"
+    ],
+    "auto": true,
+    "anime": "サマーウォーズ",
+    "reading": "さまーうぉーず"
+  },
+  {
     "id": "auto_pcgNmmFvtmk",
     "title": "【静止画MAD】1,000,000 TIMES【とある魔術の禁書目録】",
     "author": "World希望",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_OzwIfPAUis8",
-    "title": "Mob Psycho 100【モブサイコ100】Sakuga MAD",
-    "author": "Relux",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "OzwIfPAUis8",
-    "duration": "4:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Relux）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 
