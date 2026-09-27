@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_AyptABAqvEc",
+    "title": "[MAD] Lemon x 鬼滅の刃 時透無一郎",
+    "author": "Yui . 結衣",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "AyptABAqvEc",
+    "duration": "4:12",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Yui . 結衣）。",
+    "tags": [
+      "自動取得",
+      "くりいむレモン レモンエンジェル"
+    ],
+    "auto": true,
+    "anime": "くりいむレモン レモンエンジェル",
+    "reading": "くりいむれもん れもんえんじぇる"
+  },
+  {
     "id": "auto_0TCUTA3AjyA",
     "title": "【20XX年発売】『薬屋のひとりごと』School♡Diariesプロモーション映像　|　エイプリルフール",
     "author": "TOHO animation チャンネル",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto__Qo5vbmmvT8",
-    "title": "Fate/strange Fake Opening Full - \"PROVANT\" by SawanoHiroyuki[nZk]:Jean-Ken Johnny & TAKUMA【MAD/AMV】",
-    "author": "MelodyFX",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_Qo5vbmmvT8",
-    "duration": "2:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MelodyFX）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ]
