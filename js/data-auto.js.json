@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_vEQYRvPXGq0",
+    "title": "リメイク【静止画MAD】in the neme of God【幼女戦記】",
+    "author": "anima",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "vEQYRvPXGq0",
+    "duration": "3:57",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（anima）。",
+    "tags": [
+      "自動取得",
+      "幼女戦記"
+    ],
+    "auto": true,
+    "anime": "幼女戦記",
+    "reading": "ようじょせんき"
+  },
+  {
     "id": "auto_Cy5Wp31uTsw",
     "title": "5 centimeters per second AMV [Inside my heart]",
     "author": "D.R. AMV",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_1sS-Vi48YU4",
-    "title": "【MAD/AMV】コードギアス ~Reason（ガンダムSEED DESTINY ED）~",
-    "author": "Matella Channel",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "1sS-Vi48YU4",
-    "duration": "4:47",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Matella Channel）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 奪還のロゼ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 奪還のロゼ",
-    "reading": "こーどぎあす だっかんのろぜ"
   }
 ]
