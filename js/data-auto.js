@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Cy5Wp31uTsw",
+    "title": "5 centimeters per second AMV [Inside my heart]",
+    "author": "D.R. AMV",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Cy5Wp31uTsw",
+    "duration": "4:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（D.R. AMV）。",
+    "tags": [
+      "自動取得",
+      "秒速５センチメートル"
+    ],
+    "auto": true,
+    "anime": "秒速５センチメートル",
+    "reading": "びょうそく５せんちめーとる"
+  },
+  {
     "id": "auto_AyptABAqvEc",
     "title": "[MAD] Lemon x 鬼滅の刃 時透無一郎",
     "author": "Yui . 結衣",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "コードギアス 奪還のロゼ",
     "reading": "こーどぎあす だっかんのろぜ"
-  },
-  {
-    "id": "auto_qPeuH1MlAEM",
-    "title": "【MAD/AMV】鬼滅の刃×ひゅりらぱっぱ/tuki.【セリフ入り】",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "qPeuH1MlAEM",
-    "duration": "3:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ];
 
