@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_mFdV09ieqSs",
+    "title": "【MAD】薬屋のひとりごと/百花繚乱",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "mFdV09ieqSs",
+    "duration": "3:04",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "薬屋のひとりごと"
+    ],
+    "auto": true,
+    "anime": "薬屋のひとりごと",
+    "reading": "くすりやのひとりごと"
+  },
+  {
     "id": "auto_9xeG_H1tRZk",
     "title": "MADブルーロック×メランコリーキッチン",
     "author": "うぇい",
@@ -21976,28 +21998,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（ふるくんのYouTube）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_qJWP_LByUGk",
-    "title": "【MAD】薫る花は凛と咲く×「ひとひら」",
-    "author": "青りんご【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "qJWP_LByUGk",
-    "duration": "2:58",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（青りんご【MAD】）。",
     "tags": [
       "自動取得",
       "薫る花は凛と咲く"
