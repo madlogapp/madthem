@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_9xeG_H1tRZk",
+    "title": "MADブルーロック×メランコリーキッチン",
+    "author": "うぇい",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "9xeG_H1tRZk",
+    "duration": "3:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（うぇい）。",
+    "tags": [
+      "自動取得",
+      "ブルーロック"
+    ],
+    "auto": true,
+    "anime": "ブルーロック",
+    "reading": "ぶるーろっく"
+  },
+  {
     "id": "auto_vEQYRvPXGq0",
     "title": "リメイク【静止画MAD】in the neme of God【幼女戦記】",
     "author": "anima",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_9mQcRHad9ts",
-    "title": "【MAD】Fate/Stay Night AMV「~Guilty Sky~」",
-    "author": "Yugus",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "9mQcRHad9ts",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Yugus）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ];
 
