@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_-Qmot7FtjmM",
+    "title": "【MAD】ドラえもん×スケッチ",
+    "author": "プログラミング[ゆっくり]",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "-Qmot7FtjmM",
+    "duration": "4:19",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（プログラミング[ゆっくり]）。",
+    "tags": [
+      "自動取得",
+      "ドラえもん"
+    ],
+    "auto": true,
+    "anime": "ドラえもん",
+    "reading": "どらえもん"
+  },
+  {
     "id": "auto_mFdV09ieqSs",
     "title": "【MAD】薬屋のひとりごと/百花繚乱",
     "author": "ねむねこ【MAD】",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_IMZwWq7CTqo",
-    "title": "薫る花は凛と咲く×クスシキ【MAD】#薫る花は凛と咲く #クスシキ #mad",
-    "author": "ふるくんのYouTube",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "IMZwWq7CTqo",
-    "duration": "1:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ふるくんのYouTube）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 
