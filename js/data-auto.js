@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_DA-rzUx3j-Q",
+    "title": "【MAD】とある魔術の禁書目録 × とある科学の超電磁砲【テオ】",
+    "author": "Guild",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "DA-rzUx3j-Q",
+    "duration": "3:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Guild）。",
+    "tags": [
+      "自動取得",
+      "とある魔術の禁書目録"
+    ],
+    "auto": true,
+    "anime": "とある魔術の禁書目録",
+    "reading": "とあるまじゅつのきんしょもくろく"
+  },
+  {
     "id": "auto_1OsQeAkIQX0",
     "title": "ヱヴァンゲリヲン新劇場版:破MAD【命に嫌われている】",
     "author": "ฅ^•ω•^ฅ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_i_jetSWJ0zY",
-    "title": "【MAD】東京リベンジャーズ×イエスタデイ ［Official髭男dism］",
-    "author": "はるかいおり",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "i_jetSWJ0zY",
-    "duration": "4:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（はるかいおり）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 
