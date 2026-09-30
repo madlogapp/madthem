@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ntLWRrc0ViM",
+    "title": "(low quality低画質)【MAD】 Je vous salue Marie (by s.A)",
+    "author": "maplexman7",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ntLWRrc0ViM",
+    "duration": "2:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（maplexman7）。",
+    "tags": [
+      "自動取得",
+      "スペシャル・エー"
+    ],
+    "auto": true,
+    "anime": "スペシャル・エー",
+    "reading": "すぺしゃる・えー"
+  },
+  {
     "id": "auto_-Qmot7FtjmM",
     "title": "【MAD】ドラえもん×スケッチ",
     "author": "プログラミング[ゆっくり]",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "コードギアス 奪還のロゼ",
     "reading": "こーどぎあす だっかんのろぜ"
-  },
-  {
-    "id": "auto_t2cXyZD_Ogk",
-    "title": "【MAD】進撃の巨人×IMAGINARY LIKE THE JUSTICE ｰリヴァイ･アッカーマンの悔いなき選択ｰ",
-    "author": "橋本season4",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "t2cXyZD_Ogk",
-    "duration": "4:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（橋本season4）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 
