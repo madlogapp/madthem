@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_1OsQeAkIQX0",
+    "title": "ヱヴァンゲリヲン新劇場版:破MAD【命に嫌われている】",
+    "author": "ฅ^•ω•^ฅ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "1OsQeAkIQX0",
+    "duration": "4:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
+    "tags": [
+      "自動取得",
+      "ヱヴァンゲリヲン新劇場版:破"
+    ],
+    "auto": true,
+    "anime": "ヱヴァンゲリヲン新劇場版:破",
+    "reading": "ゑゔぁんげりをんしんげきばはん:は"
+  },
+  {
     "id": "auto_ntLWRrc0ViM",
     "title": "(low quality低画質)【MAD】 Je vous salue Marie (by s.A)",
     "author": "maplexman7",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_wjnPHruJNt0",
-    "title": "【MAD】コードギアス×アウトサイダー",
-    "author": "【MAD】林檎いちご",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "wjnPHruJNt0",
-    "duration": "3:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（【MAD】林檎いちご）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 奪還のロゼ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 奪還のロゼ",
-    "reading": "こーどぎあす だっかんのろぜ"
   }
 ]
