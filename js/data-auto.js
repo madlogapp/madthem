@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_oOG06Hi0m-Y",
+    "title": "【MAD/AMV】チェンソーマン× ハイパーベンチレイション",
+    "author": "M Y",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "oOG06Hi0m-Y",
+    "duration": "3:53",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（M Y）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン",
+    "reading": "ちぇんそーまん"
+  },
+  {
     "id": "auto_mHP9o0642xI",
     "title": "俺ガイルMAD（セリフ多）",
     "author": "スカタン",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_1n_F4NH7AaI",
-    "title": "【MAD】天元突破グレンラガン×炎",
-    "author": "0505 Seimon",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "1n_F4NH7AaI",
-    "duration": "4:32",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（0505 Seimon）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ];
 
