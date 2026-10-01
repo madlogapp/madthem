@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_mHP9o0642xI",
+    "title": "俺ガイルMAD（セリフ多）",
+    "author": "スカタン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "mHP9o0642xI",
+    "duration": "4:10",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（スカタン）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
+  },
+  {
     "id": "auto_VuPZWnggzgk",
     "title": "GQuuuuuuX OP Plazma 中日字幕 (MAD·AMV) (回憶系列359)",
     "author": "沙理戰-MAD·AMV G",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "天元突破グレンラガン",
     "reading": "てんげんとっぱぐれんらがん"
-  },
-  {
-    "id": "auto_fvrFrw_ulAQ",
-    "title": "【MAD】「アスノヨゾラ哨戒班」怪獣8号",
-    "author": "ズシ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "fvrFrw_ulAQ",
-    "duration": "3:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ズシ）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ];
 
