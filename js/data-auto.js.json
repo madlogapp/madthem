@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_VuPZWnggzgk",
+    "title": "GQuuuuuuX OP Plazma 中日字幕 (MAD·AMV) (回憶系列359)",
+    "author": "沙理戰-MAD·AMV G",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "VuPZWnggzgk",
+    "duration": "3:03",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（沙理戰-MAD·AMV G）。",
+    "tags": [
+      "自動取得",
+      "機動戦士Gundam GQuuuuuuX"
+    ],
+    "auto": true,
+    "anime": "機動戦士Gundam GQuuuuuuX",
+    "reading": "きどうせんしGundam GQuuuuuuX"
+  },
+  {
     "id": "auto_DA-rzUx3j-Q",
     "title": "【MAD】とある魔術の禁書目録 × とある科学の超電磁砲【テオ】",
     "author": "Guild",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_DF2M0AlVA9Y",
-    "title": "[MAD]モブサイコ100×SUPER BEAVER(ひたむき)(セリフ付き)",
-    "author": "伊藤誠復活委員会メンバー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "DF2M0AlVA9Y",
-    "duration": "4:03",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（伊藤誠復活委員会メンバー）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ]
