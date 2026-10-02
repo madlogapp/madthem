@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_wavbaNLEB-c",
+    "title": "このすばMAD(RAGE OF DUST)",
+    "author": "チャンネルくろまめ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wavbaNLEB-c",
+    "duration": "2:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（チャンネルくろまめ）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！紅伝説"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！紅伝説",
+    "reading": "このすばらしいせかいにしゅくふくを！くれないでんせつ"
+  },
+  {
     "id": "auto_U2g21IwChOo",
     "title": "【MAD】モノノ怪×名前のない怪物",
     "author": "葉月将門",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "道",
     "reading": "みち"
-  },
-  {
-    "id": "auto_-kpHrSd2wOc",
-    "title": "Mrs. GREEN APPLE「lulu.」×『葬送のフリーレン』第2期 SPECIAL MUSIC VIDEO (MV)",
-    "author": "TOHO animation チャンネル",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "-kpHrSd2wOc",
-    "duration": "4:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ]
