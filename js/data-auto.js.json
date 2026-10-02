@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Y1Bp-2ZFwWM",
+    "title": "【MAD】86 / 境界線",
+    "author": "や矢兵衛（やべえ）",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Y1Bp-2ZFwWM",
+    "duration": "4:56",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（や矢兵衛（やべえ））。",
+    "tags": [
+      "自動取得",
+      "86－エイティシックス－"
+    ],
+    "auto": true,
+    "anime": "86－エイティシックス－",
+    "reading": "86－えいてぃしっくす－"
+  },
+  {
     "id": "auto_oOG06Hi0m-Y",
     "title": "【MAD/AMV】チェンソーマン× ハイパーベンチレイション",
     "author": "M Y",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "コードギアス 奪還のロゼ",
     "reading": "こーどぎあす だっかんのろぜ"
-  },
-  {
-    "id": "auto_hZrMMSOximo",
-    "title": "【一級魔法使い試験編】葬送のフリーレン×プライド革命/CHiCO with HoneyWorks【MAD/AMV】",
-    "author": "しもつかれMADとか",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "hZrMMSOximo",
-    "duration": "3:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しもつかれMADとか）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ]
