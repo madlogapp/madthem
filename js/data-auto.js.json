@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_U2g21IwChOo",
+    "title": "【MAD】モノノ怪×名前のない怪物",
+    "author": "葉月将門",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "U2g21IwChOo",
+    "duration": "5:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（葉月将門）。",
+    "tags": [
+      "自動取得",
+      "モノノ怪"
+    ],
+    "auto": true,
+    "anime": "モノノ怪",
+    "reading": "もののかい"
+  },
+  {
     "id": "auto_Y1Bp-2ZFwWM",
     "title": "【MAD】86 / 境界線",
     "author": "や矢兵衛（やべえ）",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_iNvP4YQ90EY",
-    "title": "コードギアス×たった１つの想い[MAD]",
-    "author": "kaui857",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "iNvP4YQ90EY",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（kaui857）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 奪還のロゼ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 奪還のロゼ",
-    "reading": "こーどぎあす だっかんのろぜ"
   }
 ]
