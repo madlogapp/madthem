@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_UsJ7g988dSo",
+    "title": "[HD] Hana ni Natte Lyrics 花になって Be a Flower - Apothecary Diaries 薬屋のひとりごと OP | 緑黄色社会",
+    "author": "Yaku ",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "UsJ7g988dSo",
+    "duration": "3:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Yaku ）。",
+    "tags": [
+      "自動取得",
+      "ピクミン　ショートムービー"
+    ],
+    "auto": true,
+    "anime": "ピクミン　ショートムービー",
+    "reading": "ぴくみん　しょーとむーびー"
+  },
+  {
     "id": "auto_8kLIJ3rWsx0",
     "title": "【MAD】この素晴らしい世界に祝福を！【MONSTER WORLD　(FULL)】",
     "author": "やつらさんちゃん",
@@ -21982,29 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ドリル",
     "reading": "どりる"
-  },
-  {
-    "id": "auto_lCqCrYcw8Wc",
-    "title": "【MAD】ブルーロック/リベリオン -Ado-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP",
-      "ロック"
-    ],
-    "youtubeId": "lCqCrYcw8Wc",
-    "duration": "2:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 
