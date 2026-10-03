@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_D5Dfb2Qx7Do",
+    "title": "【ヒロアカMAD】ヒーロー×Vaundy/怪獣の花唄　一期～7期の振り返り、そしてヴィジランテへ　歌詞/セリフ付き",
+    "author": "のある【MAD】",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "D5Dfb2Qx7Do",
+    "duration": "3:59",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
+    "tags": [
+      "自動取得",
+      "ヒーロー"
+    ],
+    "auto": true,
+    "anime": "ヒーロー",
+    "reading": "ひーろー"
+  },
+  {
     "id": "auto_wavbaNLEB-c",
     "title": "このすばMAD(RAGE OF DUST)",
     "author": "チャンネルくろまめ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "絶対零度",
     "reading": "ぜったいれいど"
-  },
-  {
-    "id": "auto_QfPQaVWNWcE",
-    "title": "Omoinotake - 「ひとりごと」【Music Video】「薬屋のひとりごと」エンディングテーマ　字幕入り",
-    "author": "rikyuu sssen",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "QfPQaVWNWcE",
-    "duration": "4:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（rikyuu sssen）。",
-    "tags": [
-      "自動取得",
-      "道"
-    ],
-    "auto": true,
-    "anime": "道",
-    "reading": "みち"
   }
 ];
 
