@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_LOYbmVPlNKU",
+    "title": "【MAD】 葉桜 【四月は君の嘘】",
+    "author": "AmouR Uta",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "LOYbmVPlNKU",
+    "duration": "3:02",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（AmouR Uta）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_D5Dfb2Qx7Do",
     "title": "【ヒロアカMAD】ヒーロー×Vaundy/怪獣の花唄　一期～7期の振り返り、そしてヴィジランテへ　歌詞/セリフ付き",
     "author": "のある【MAD】",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "アニメ モンスターストライク",
     "reading": "あにめ もんすたーすとらいく"
-  },
-  {
-    "id": "auto_sJn_FFA_jog",
-    "title": "[Pokemon LEGENDS ZA/MAD]絶対零度",
-    "author": "吉田マリアンヌ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "sJn_FFA_jog",
-    "duration": "3:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（吉田マリアンヌ）。",
-    "tags": [
-      "自動取得",
-      "絶対零度"
-    ],
-    "auto": true,
-    "anime": "絶対零度",
-    "reading": "ぜったいれいど"
   }
 ];
 
