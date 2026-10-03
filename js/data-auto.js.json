@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_8kLIJ3rWsx0",
+    "title": "【MAD】この素晴らしい世界に祝福を！【MONSTER WORLD　(FULL)】",
+    "author": "やつらさんちゃん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "8kLIJ3rWsx0",
+    "duration": "4:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（やつらさんちゃん）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！",
+    "reading": "このすばらしいせかいにしゅくふくを！"
+  },
+  {
     "id": "auto_LOYbmVPlNKU",
     "title": "【MAD】 葉桜 【四月は君の嘘】",
     "author": "AmouR Uta",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_0bi0U4NJSYs",
-    "title": "【MAD】アニメ「ポケットモンスター」×シャルル／バルーン【アニポケ】",
-    "author": "おいうえお",
-    "type": "single",
-    "genres": [
-      "ボカロ"
-    ],
-    "youtubeId": "0bi0U4NJSYs",
-    "duration": "3:53",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（おいうえお）。",
-    "tags": [
-      "自動取得",
-      "アニメ モンスターストライク"
-    ],
-    "auto": true,
-    "anime": "アニメ モンスターストライク",
-    "reading": "あにめ もんすたーすとらいく"
   }
 ]
