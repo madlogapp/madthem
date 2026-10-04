@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_iU8Yf8S8Ycg",
+    "title": "【MAD】悪魔の子【コードギアス 反逆のルルーシュ】",
+    "author": "マッキー",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "iU8Yf8S8Ycg",
+    "duration": "3:39",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（マッキー）。",
+    "tags": [
+      "自動取得",
+      "コードギアス 反逆のルルーシュ"
+    ],
+    "auto": true,
+    "anime": "コードギアス 反逆のルルーシュ",
+    "reading": "こーどぎあす はんぎゃくのるるーしゅ"
+  },
+  {
     "id": "auto_UsJ7g988dSo",
     "title": "[HD] Hana ni Natte Lyrics 花になって Be a Flower - Apothecary Diaries 薬屋のひとりごと OP | 緑黄色社会",
     "author": "Yaku ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
     "reading": "げきじょうばん そーどあーと・おんらいん ぷろぐれっしぶ ほしなきよるのありあ"
-  },
-  {
-    "id": "auto_4qut5qjvjG0",
-    "title": "グレンラガン VS ホワイトランタン DEATH BATTLE MAD (Will Of The Drill)[Gurren Lagann White Lantern Simon Kyle SRW]",
-    "author": "D180223",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "4qut5qjvjG0",
-    "duration": "4:36",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（D180223）。",
-    "tags": [
-      "自動取得",
-      "ドリル"
-    ],
-    "auto": true,
-    "anime": "ドリル",
-    "reading": "どりる"
   }
 ];
 
