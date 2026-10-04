@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_uLBxfWWzIZs",
+    "title": "【MAD】とある魔術の禁書目録 ～ホシノキセキ～【劇場版】",
+    "author": "Msk666ableKai",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "uLBxfWWzIZs",
+    "duration": "3:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Msk666ableKai）。",
+    "tags": [
+      "自動取得",
+      "プロジェクトセカイ 壊れたセカイと歌えないミク"
+    ],
+    "auto": true,
+    "anime": "プロジェクトセカイ 壊れたセカイと歌えないミク",
+    "reading": "ぷろじぇくとせかい こわれたせかいとうたえないみく"
+  },
+  {
     "id": "auto_iU8Yf8S8Ycg",
     "title": "【MAD】悪魔の子【コードギアス 反逆のルルーシュ】",
     "author": "マッキー",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "道",
     "reading": "みち"
-  },
-  {
-    "id": "auto_-J2TkTSS5L8",
-    "title": "【MAD/AMV】鬼滅の刃 柱稽古編 冨岡義勇「未熟でごめん」×浜崎あゆみ『progress』(セリフ付き)",
-    "author": "めんくりのアニメ名言集",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "-J2TkTSS5L8",
-    "duration": "3:04",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（めんくりのアニメ名言集）。",
-    "tags": [
-      "自動取得",
-      "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア"
-    ],
-    "auto": true,
-    "anime": "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア",
-    "reading": "げきじょうばん そーどあーと・おんらいん ぷろぐれっしぶ ほしなきよるのありあ"
   }
 ];
 
