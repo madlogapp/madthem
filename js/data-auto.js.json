@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Vw9ohJcUIc0",
+    "title": "【ガンダムMAD】残響賛歌　【Aimer】",
+    "author": "駒鳥宗男ch",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "Vw9ohJcUIc0",
+    "duration": "3:03",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（駒鳥宗男ch）。",
+    "tags": [
+      "自動取得",
+      "きみが死ぬまで恋をしたい"
+    ],
+    "auto": true,
+    "anime": "きみが死ぬまで恋をしたい",
+    "reading": "きみがしぬまでこいをしたい"
+  },
+  {
     "id": "auto_IgvUGn32nYM",
     "title": "99",
     "author": "noangel",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "天元突破グレンラガン",
     "reading": "てんげんとっぱぐれんらがん"
-  },
-  {
-    "id": "auto_VN6Iyph1LWM",
-    "title": "【MAD/AMV】薫る花は凛と咲く | 薰香花朵凛然綻放 tuki. - 晚餐歌【中文歌詞】",
-    "author": "RW0420 - Anime",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "VN6Iyph1LWM",
-    "duration": "3:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（RW0420 - Anime）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ]
