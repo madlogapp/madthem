@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_IgvUGn32nYM",
+    "title": "99",
+    "author": "noangel",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "IgvUGn32nYM",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（noangel）。",
+    "tags": [
+      "自動取得",
+      "サブマリン スーパー９９"
+    ],
+    "auto": true,
+    "anime": "サブマリン スーパー９９",
+    "reading": "さぶまりん すーぱー９９"
+  },
+  {
     "id": "auto_uLBxfWWzIZs",
     "title": "【MAD】とある魔術の禁書目録 ～ホシノキセキ～【劇場版】",
     "author": "Msk666ableKai",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_o6wtDPVkKqI",
-    "title": "「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”",
-    "author": "KING RECORDS",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "o6wtDPVkKqI",
-    "duration": "4:04",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（KING RECORDS）。",
-    "tags": [
-      "自動取得",
-      "道"
-    ],
-    "auto": true,
-    "anime": "道",
-    "reading": "みち"
   }
 ];
 
