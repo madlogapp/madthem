@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_GTNO70Iu684",
+    "title": "【MAD】絆ノ奇跡/MAN WITH A MISSION × milet 【鬼滅の刃 刀鍛冶の里編】【2160p 50/高画質】",
+    "author": "ゆきだるま",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "GTNO70Iu684",
+    "duration": "3:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ゆきだるま）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃 刀鍛冶の里編"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃 刀鍛冶の里編",
+    "reading": "おにほろのは かたなかじのさとへん"
+  },
+  {
     "id": "auto_Vw9ohJcUIc0",
     "title": "【ガンダムMAD】残響賛歌　【Aimer】",
     "author": "駒鳥宗男ch",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "リコリス・リコイル",
     "reading": "りこりす・りこいる"
-  },
-  {
-    "id": "auto_9Y57k1gy3OQ",
-    "title": "天元突破グレンラガン「VENUS & BROTHERS」",
-    "author": "yamahaMovie",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "9Y57k1gy3OQ",
-    "duration": "3:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（yamahaMovie）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ];
 
