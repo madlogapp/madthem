@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_wmF1yme9PoU",
+    "title": "幼女戦記  MAD  ㉑",
+    "author": "情二チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wmF1yme9PoU",
+    "duration": "4:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（情二チャンネル）。",
+    "tags": [
+      "自動取得",
+      "幼女戦記"
+    ],
+    "auto": true,
+    "anime": "幼女戦記",
+    "reading": "ようじょせんき"
+  },
+  {
     "id": "auto_GTNO70Iu684",
     "title": "【MAD】絆ノ奇跡/MAN WITH A MISSION × milet 【鬼滅の刃 刀鍛冶の里編】【2160p 50/高画質】",
     "author": "ゆきだるま",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "それを世界と言うんだね",
     "reading": "それをせかいというんだね"
-  },
-  {
-    "id": "auto_hSAnwToW5Bs",
-    "title": "【MAD】リコリス・リコイル × SAVIOR OF SONG",
-    "author": "ヲタカタ!",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "hSAnwToW5Bs",
-    "duration": "1:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ヲタカタ!）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル"
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル",
-    "reading": "りこりす・りこいる"
   }
 ]
