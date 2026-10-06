@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_6eDxGzEeFbI",
+    "title": "【MAD】【推しの子】/フェイキング・オブ・コメディ",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "6eDxGzEeFbI",
+    "duration": "2:39",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_wmF1yme9PoU",
     "title": "幼女戦記  MAD  ㉑",
     "author": "情二チャンネル",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "王様ランキング",
     "reading": "おうさまらんきんぐ"
-  },
-  {
-    "id": "auto_jVzdBgiiyhA",
-    "title": "【MAD】フロントメモリー(花譜)×聲の形",
-    "author": "selen",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "jVzdBgiiyhA",
-    "duration": "4:00",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（selen）。",
-    "tags": [
-      "自動取得",
-      "それを世界と言うんだね"
-    ],
-    "auto": true,
-    "anime": "それを世界と言うんだね",
-    "reading": "それをせかいというんだね"
   }
 ];
 
