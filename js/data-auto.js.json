@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_hrUiI8q3fzg",
+    "title": "【MAD/AMV】葬送のフリーレン×The Story of Us/milet【高画質/歌詞付き】",
+    "author": "Lemw4",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "hrUiI8q3fzg",
+    "duration": "4:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_6eDxGzEeFbI",
     "title": "【MAD】【推しの子】/フェイキング・オブ・コメディ",
     "author": "ねむねこ【MAD】",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_igBCVKY5EoA",
-    "title": "【コナンMAD/AMV】KING【ジン/赤井】",
-    "author": "セプテンBAR",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "igBCVKY5EoA",
-    "duration": "2:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（セプテンBAR）。",
-    "tags": [
-      "自動取得",
-      "王様ランキング"
-    ],
-    "auto": true,
-    "anime": "王様ランキング",
-    "reading": "おうさまらんきんぐ"
   }
 ]
