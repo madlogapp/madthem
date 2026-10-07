@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ocYm-kEbFps",
+    "title": "ワンパンマンMAD",
+    "author": "リーゼントノウゼン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ocYm-kEbFps",
+    "duration": "3:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（リーゼントノウゼン）。",
+    "tags": [
+      "自動取得",
+      "ワンパンマン"
+    ],
+    "auto": true,
+    "anime": "ワンパンマン",
+    "reading": "わんぱんまん"
+  },
+  {
     "id": "auto_hrUiI8q3fzg",
     "title": "【MAD/AMV】葬送のフリーレン×The Story of Us/milet【高画質/歌詞付き】",
     "author": "Lemw4",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "キン肉マン",
     "reading": "きんにくまん"
-  },
-  {
-    "id": "auto_iSE0t3whpO8",
-    "title": "【AMV MAD】　怪獣8号　【怪獣の花唄】",
-    "author": "Zehel Tokibito Zetsubou",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "iSE0t3whpO8",
-    "duration": "2:51",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Zehel Tokibito Zetsubou）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ];
 
