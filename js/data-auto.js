@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_VeTlB_67g9M",
+    "title": "言の葉の庭×あったかいんだからぁ♪（m）",
+    "author": "荒川雄史",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "VeTlB_67g9M",
+    "duration": "4:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（荒川雄史）。",
+    "tags": [
+      "自動取得",
+      "言の葉の庭"
+    ],
+    "auto": true,
+    "anime": "言の葉の庭",
+    "reading": "ことのはのにわ"
+  },
+  {
     "id": "auto_ocYm-kEbFps",
     "title": "ワンパンマンMAD",
     "author": "リーゼントノウゼン",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣８号",
     "reading": "かいじゅう８ごう"
-  },
-  {
-    "id": "auto_EM7zOKQ2A58",
-    "title": "【MAD/AMV】キン肉マン x 戦士よ、立ち上がれ！",
-    "author": "火星人の秘密基地",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "EM7zOKQ2A58",
-    "duration": "4:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（火星人の秘密基地）。",
-    "tags": [
-      "自動取得",
-      "キン肉マン"
-    ],
-    "auto": true,
-    "anime": "キン肉マン",
-    "reading": "きんにくまん"
   }
 ];
 
