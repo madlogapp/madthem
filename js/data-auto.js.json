@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_SewBWjO7c7s",
+    "title": "夏代孝明「ケイデンス」ミュージックビデオ（Short Ver.）／TVアニメ『弱虫ペダル NEW GENERATION』OPテーマ",
+    "author": "TOHO animation チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "SewBWjO7c7s",
+    "duration": "2:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
+    "tags": [
+      "自動取得",
+      "弱虫ペダルNEW GENERATION"
+    ],
+    "auto": true,
+    "anime": "弱虫ペダルNEW GENERATION",
+    "reading": "よわむしぺだるNEW GENERATION"
+  },
+  {
     "id": "auto_3ygrDrUTbWY",
     "title": "【MAD】七つの大罪×キミシダイ列車（ONE OK ROCK）",
     "author": "naga【mad】",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_Ck1eWx22Un8",
-    "title": "【MAD】ピンクレモネード【薫る花は凛と咲く】",
-    "author": "たけつき",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ck1eWx22Un8",
-    "duration": "3:12",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（たけつき）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ]
