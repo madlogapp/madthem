@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_3ygrDrUTbWY",
+    "title": "【MAD】七つの大罪×キミシダイ列車（ONE OK ROCK）",
+    "author": "naga【mad】",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "3ygrDrUTbWY",
+    "duration": "2:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（naga【mad】）。",
+    "tags": [
+      "自動取得",
+      "七つの大罪"
+    ],
+    "auto": true,
+    "anime": "七つの大罪",
+    "reading": "ななつのたいざい"
+  },
+  {
     "id": "auto_VeTlB_67g9M",
     "title": "言の葉の庭×あったかいんだからぁ♪（m）",
     "author": "荒川雄史",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_hpH5JVLMQbQ",
-    "title": "【MAD/AMV】Abyss『Kaiju No. 8』Eng sub",
-    "author": "よるば",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "hpH5JVLMQbQ",
-    "duration": "2:04",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（よるば）。",
-    "tags": [
-      "自動取得",
-      "怪獣８号"
-    ],
-    "auto": true,
-    "anime": "怪獣８号",
-    "reading": "かいじゅう８ごう"
   }
 ];
 
