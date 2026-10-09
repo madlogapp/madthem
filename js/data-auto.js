@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_HTvPswFTLiw",
+    "title": "【MAD】鬼滅の刃×アスノヨゾラ哨戒班",
+    "author": "ひろむ / hiromu",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "HTvPswFTLiw",
+    "duration": "2:39",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ひろむ / hiromu）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_Jp7RLgbPDvA",
     "title": "【MAD/AMV】BEYOND THE TIME / TM NETWORK【GQuuuuuuX（ジークアクス）】",
     "author": "8",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "リコリス・リコイル",
     "reading": "りこりす・りこいる"
-  },
-  {
-    "id": "auto_z3jiVWotIqA",
-    "title": "【MAD】Fate/Series - Brave Shine by Aimer",
-    "author": "Iris Mind",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "z3jiVWotIqA",
-    "duration": "3:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Iris Mind）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ];
 
