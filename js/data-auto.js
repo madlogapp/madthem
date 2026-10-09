@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Jp7RLgbPDvA",
+    "title": "【MAD/AMV】BEYOND THE TIME / TM NETWORK【GQuuuuuuX（ジークアクス）】",
+    "author": "8",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Jp7RLgbPDvA",
+    "duration": "5:54",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（8）。",
+    "tags": [
+      "自動取得",
+      "光阴之外"
+    ],
+    "auto": true,
+    "anime": "光阴之外",
+    "reading": "ひかりそと"
+  },
+  {
     "id": "auto_u5qMbOY73l8",
     "title": "【MAD】サマーウォーズ「カミサマネジマキ」",
     "author": "KENN",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_4OcoQFmrkjg",
-    "title": "【薬屋のひとりごと】百花繚乱に合わせてMAD作ってみた（ロングVer）【幾田りら】",
-    "author": "すみれ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "4OcoQFmrkjg",
-    "duration": "1:08",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（すみれ）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 
