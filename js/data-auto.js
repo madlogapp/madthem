@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_fvlrJUY_zGA",
+    "title": "【MAD】ダンダダン×大不正解／backnumber【セリフ入りMAD】",
+    "author": "72-ﾅﾂ-",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "fvlrJUY_zGA",
+    "duration": "2:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（72-ﾅﾂ-）。",
+    "tags": [
+      "自動取得",
+      "ダンダダン"
+    ],
+    "auto": true,
+    "anime": "ダンダダン",
+    "reading": "だんだだん"
+  },
+  {
     "id": "auto_HTvPswFTLiw",
     "title": "【MAD】鬼滅の刃×アスノヨゾラ哨戒班",
     "author": "ひろむ / hiromu",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_JntuiCgsxRQ",
-    "title": "【MAD】リコリス・リコイル × カラフル",
-    "author": "yula",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JntuiCgsxRQ",
-    "duration": "1:46",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（yula）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル"
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル",
-    "reading": "りこりす・りこいる"
   }
 ];
 
