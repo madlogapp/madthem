@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_3XaAIUCotO0",
+    "title": "【MAD】NARUTO「Sign」",
+    "author": "ばニラ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "3XaAIUCotO0",
+    "duration": "3:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ばニラ）。",
+    "tags": [
+      "自動取得",
+      "NARUTO -ナルト-"
+    ],
+    "auto": true,
+    "anime": "NARUTO -ナルト-",
+    "reading": "NARUTO -なると-"
+  },
+  {
     "id": "auto_fvlrJUY_zGA",
     "title": "【MAD】ダンダダン×大不正解／backnumber【セリフ入りMAD】",
     "author": "72-ﾅﾂ-",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_CpO8_R0n5LY",
-    "title": "【MAD】東京リベンジャーズ×アイネクライネ",
-    "author": "26ぴょん。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "CpO8_R0n5LY",
-    "duration": "4:46",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（26ぴょん。）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 
