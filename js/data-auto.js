@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_RIJdfhzGz3U",
+    "title": "TVアニメ『幼女戦記』ノンクレジットオープニング｜《第2期　2026年7月放送開始！》",
+    "author": "KADOKAWAanime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "RIJdfhzGz3U",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（KADOKAWAanime）。",
+    "tags": [
+      "自動取得",
+      "幼女戦記"
+    ],
+    "auto": true,
+    "anime": "幼女戦記",
+    "reading": "ようじょせんき"
+  },
+  {
     "id": "auto_3XaAIUCotO0",
     "title": "【MAD】NARUTO「Sign」",
     "author": "ばニラ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_x7zFOWxqcYY",
-    "title": "【MAD】聲の形『生きる』",
-    "author": "シャナ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "x7zFOWxqcYY",
-    "duration": "2:13",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（シャナ）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 
