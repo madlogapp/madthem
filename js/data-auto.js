@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_CRBcOhvMpx8",
+    "title": "錦木千束、面接に挑戦する【リコリコ】",
+    "author": "ミスミ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "CRBcOhvMpx8",
+    "duration": "2:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ミスミ）。",
+    "tags": [
+      "自動取得",
+      "リコリス・リコイル Friends are thieves of time."
+    ],
+    "auto": true,
+    "anime": "リコリス・リコイル Friends are thieves of time.",
+    "reading": "りこりす・りこいる Friends are thieves of time."
+  },
+  {
     "id": "auto_RIJdfhzGz3U",
     "title": "TVアニメ『幼女戦記』ノンクレジットオープニング｜《第2期　2026年7月放送開始！》",
     "author": "KADOKAWAanime",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ぼっち・ざ・ろっく！",
     "reading": "ぼっち・ざ・ろっく！"
-  },
-  {
-    "id": "auto_yvqGujurVGI",
-    "title": "【静止画MAD】透明な殺意に徹せよ【SAKAMOTO DAYS】",
-    "author": "P",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "yvqGujurVGI",
-    "duration": "1:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（P）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 
