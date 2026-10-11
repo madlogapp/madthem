@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_jQEdKsIqeu4",
+    "title": "【セリフ入りMAD】呪術廻戦渋谷事変×廻廻奇譚【4K /2160p60】【AMV】【jujutsu kaisen】",
+    "author": "まけと。",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "jQEdKsIqeu4",
+    "duration": "3:39",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（まけと。）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_BrX0eWajaaw",
     "title": "【MAD】コードギアス -『Hanabira』Ikeda Ayako - Trailer 1",
     "author": "ZeroLeIouch",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "NARUTO -ナルト-",
     "reading": "NARUTO -なると-"
-  },
-  {
-    "id": "auto_7C1Jx2eJWWo",
-    "title": "【SAKAMOTO DAYS】「最強の三人」14巻発売記念PV【週刊少年ジャンプ】",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "7C1Jx2eJWWo",
-    "duration": "1:35",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 
