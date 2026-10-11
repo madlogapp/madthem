@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_BrX0eWajaaw",
+    "title": "【MAD】コードギアス -『Hanabira』Ikeda Ayako - Trailer 1",
+    "author": "ZeroLeIouch",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "BrX0eWajaaw",
+    "duration": "1:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ZeroLeIouch）。",
+    "tags": [
+      "自動取得",
+      "花弁"
+    ],
+    "auto": true,
+    "anime": "花弁",
+    "reading": "かべん"
+  },
+  {
     "id": "auto_F02zwGd7MLI",
     "title": "あの日見た花の名前を僕達はまだ知らないMAD/alia/かくれんぼ",
     "author": "ぶらっくえる",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_it6rGChPGf4",
-    "title": "『MAD』ぼっち・ざ・ろっく！ × ギターと孤独と蒼い惑星",
-    "author": "PEN ASU【 ペなす 】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "it6rGChPGf4",
-    "duration": "3:49",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（PEN ASU【 ペなす 】）。",
-    "tags": [
-      "自動取得",
-      "ぼっち・ざ・ろっく！"
-    ],
-    "auto": true,
-    "anime": "ぼっち・ざ・ろっく！",
-    "reading": "ぼっち・ざ・ろっく！"
   }
 ];
 
