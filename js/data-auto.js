@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_TP2cub41T_4",
+    "title": "『MAD』ワンパンマン×キミシダイ列車",
+    "author": "こうせい",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "TP2cub41T_4",
+    "duration": "4:12",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（こうせい）。",
+    "tags": [
+      "自動取得",
+      "ワンパンマン"
+    ],
+    "auto": true,
+    "anime": "ワンパンマン",
+    "reading": "わんぱんまん"
+  },
+  {
     "id": "auto_jQEdKsIqeu4",
     "title": "【セリフ入りMAD】呪術廻戦渋谷事変×廻廻奇譚【4K /2160p60】【AMV】【jujutsu kaisen】",
     "author": "まけと。",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_M25dY4NFy-g",
-    "title": "【MAD/AMV】NARUTO/BORUTO【シグナル】",
-    "author": "MARCO",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "M25dY4NFy-g",
-    "duration": "3:37",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MARCO）。",
-    "tags": [
-      "自動取得",
-      "NARUTO -ナルト-"
-    ],
-    "auto": true,
-    "anime": "NARUTO -ナルト-",
-    "reading": "NARUTO -なると-"
   }
 ];
 
