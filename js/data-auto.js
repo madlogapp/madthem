@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_vlf4BoBKr-Y",
+    "title": "(MAD)鉄血のオルフェンズ×名前のない怪物",
+    "author": "イオンプラズマ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "vlf4BoBKr-Y",
+    "duration": "5:12",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（イオンプラズマ）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_uFhXpOjP9dY",
     "title": "【MAD】アニメ「ポケットモンスター ライジングアゲイン」オープニングテーマ『アイオライト』【アニポケ】",
     "author": "おいうえお",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_ZdTMr_JusH0",
-    "title": "【MAD/AMV】転生林檎×エヴァンゲリオン",
-    "author": "しょま",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ZdTMr_JusH0",
-    "duration": "3:40",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しょま）。",
-    "tags": [
-      "自動取得",
-      "転生林檎"
-    ],
-    "auto": true,
-    "anime": "転生林檎",
-    "reading": "てんしょうりんご"
   }
 ];
 
