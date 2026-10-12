@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_uFhXpOjP9dY",
+    "title": "【MAD】アニメ「ポケットモンスター ライジングアゲイン」オープニングテーマ『アイオライト』【アニポケ】",
+    "author": "おいうえお",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "uFhXpOjP9dY",
+    "duration": "3:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（おいうえお）。",
+    "tags": [
+      "自動取得",
+      "アイオライト"
+    ],
+    "auto": true,
+    "anime": "アイオライト",
+    "reading": "あいおらいと"
+  },
+  {
     "id": "auto_TP2cub41T_4",
     "title": "『MAD』ワンパンマン×キミシダイ列車",
     "author": "こうせい",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "転生林檎",
     "reading": "てんしょうりんご"
-  },
-  {
-    "id": "auto_DQvgE1ZeAho",
-    "title": "【MAD】薫る花は凛と咲く×プロポーズ【アニメ MAD】",
-    "author": "MASSA【複合・アニメMADチャンネル】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "DQvgE1ZeAho",
-    "duration": "2:59",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MASSA【複合・アニメMADチャンネル】）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 
