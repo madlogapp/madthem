@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_T-n6G594z1A",
+    "title": "❮MAD❯ワンパンマン×紅蓮の弓矢",
+    "author": "漫大",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "T-n6G594z1A",
+    "duration": "1:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（漫大）。",
+    "tags": [
+      "自動取得",
+      "ワンパンマン"
+    ],
+    "auto": true,
+    "anime": "ワンパンマン",
+    "reading": "わんぱんまん"
+  },
+  {
     "id": "auto_XiRk7oDCdqQ",
     "title": "【チェンソーマンMAD】チェンソーマン×革命道中",
     "author": "タオリ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_L29NTGTfB-U",
-    "title": "【MAD】ハイキュー × DAYBREAK FRONTLINE （最前線を駆け抜けろ）",
-    "author": "ガチモチ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "L29NTGTfB-U",
-    "duration": "3:36",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ガチモチ）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
