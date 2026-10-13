@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_XiRk7oDCdqQ",
+    "title": "【チェンソーマンMAD】チェンソーマン×革命道中",
+    "author": "タオリ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "XiRk7oDCdqQ",
+    "duration": "3:17",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（タオリ）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン",
+    "reading": "ちぇんそーまん"
+  },
+  {
     "id": "auto_vlf4BoBKr-Y",
     "title": "(MAD)鉄血のオルフェンズ×名前のない怪物",
     "author": "イオンプラズマ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_d_Wm7B_ApTk",
-    "title": "【MAD/AMV】推しの子×ファタール/GEMN【セリフ入り】",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "d_Wm7B_ApTk",
-    "duration": "3:39",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
