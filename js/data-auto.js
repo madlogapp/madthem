@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_gUmDKkP8bt4",
+    "title": "Jujutsu Kaisen | HandClap [AMV]",
+    "author": "Moonshadow - Closed",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gUmDKkP8bt4",
+    "duration": "1:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Moonshadow - Closed）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_s-0tmZd-dfg",
     "title": "【MAD】【推しの子】海色",
     "author": "脳が焼かれた子",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン レゼ篇",
     "reading": "ちぇんそーまん れぜへん"
-  },
-  {
-    "id": "auto_JO1QWJfnO3M",
-    "title": "「MAD」呪術廻戦/インフェルノ「Jujutsu Kaisen」「セリフ付き」",
-    "author": "Reki",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JO1QWJfnO3M",
-    "duration": "3:46",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Reki）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
