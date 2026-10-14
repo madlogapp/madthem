@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_GT2cNAcl5p0",
+    "title": "DANDADAN/ダンダダン - AMV/MAD - BIBBIDIBA/ビビデバ",
+    "author": "SunnyLime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "GT2cNAcl5p0",
+    "duration": "2:46",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（SunnyLime）。",
+    "tags": [
+      "自動取得",
+      "ダンダダン"
+    ],
+    "auto": true,
+    "anime": "ダンダダン",
+    "reading": "だんだだん"
+  },
+  {
     "id": "auto_04EcyExolQw",
     "title": "【AMV / MAD】ユーリ!!! on ice / Go!!!　naruto op",
     "author": "Yurionicein2025 notofficial",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_cXYQEa39sME",
-    "title": "暗殺教室｜「とても素敵な六月でした」MAD",
-    "author": "low",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "cXYQEa39sME",
-    "duration": "4:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（low）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ];
 
