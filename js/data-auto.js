@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_H8MM74Q6VA4",
+    "title": "【静止画MAD】叛逆の物語【魔法少女まどか☆マギカ】",
+    "author": "垢メイン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "H8MM74Q6VA4",
+    "duration": "2:03",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（垢メイン）。",
+    "tags": [
+      "自動取得",
+      "魔法少女まどか☆マギカ"
+    ],
+    "auto": true,
+    "anime": "魔法少女まどか☆マギカ",
+    "reading": "まほうしょうじょまどか☆まぎか"
+  },
+  {
     "id": "auto_GT2cNAcl5p0",
     "title": "DANDADAN/ダンダダン - AMV/MAD - BIBBIDIBA/ビビデバ",
     "author": "SunnyLime",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "リコリス・リコイル Friends are thieves of time.",
     "reading": "りこりす・りこいる Friends are thieves of time."
-  },
-  {
-    "id": "auto_QxyrJqzYKLY",
-    "title": "【MAD】葬送のフリーレン / 小さな恋のうた -WANIMA-",
-    "author": "TAKA-ロウ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "QxyrJqzYKLY",
-    "duration": "3:07",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TAKA-ロウ）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
