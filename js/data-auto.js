@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_04EcyExolQw",
+    "title": "【AMV / MAD】ユーリ!!! on ice / Go!!!　naruto op",
+    "author": "Yurionicein2025 notofficial",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "04EcyExolQw",
+    "duration": "1:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Yurionicein2025 notofficial）。",
+    "tags": [
+      "自動取得",
+      "ユーリ!!! on ICE"
+    ],
+    "auto": true,
+    "anime": "ユーリ!!! on ICE",
+    "reading": "ゆーり!!! on ICE"
+  },
+  {
     "id": "auto_gUmDKkP8bt4",
     "title": "Jujutsu Kaisen | HandClap [AMV]",
     "author": "Moonshadow - Closed",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_NabGs5pXyc4",
-    "title": "劇場版『チェンソーマン レゼ篇』【MAD】【JANE DOE】",
-    "author": "猫餅",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "NabGs5pXyc4",
-    "duration": "3:56",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（猫餅）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン レゼ篇"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン レゼ篇",
-    "reading": "ちぇんそーまん れぜへん"
   }
 ];
 
