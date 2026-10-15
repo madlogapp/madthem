@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_NyulaltqzVA",
+    "title": "【MAD】BLEACH「D tecnolife」",
+    "author": "Butterball Herself Too!",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "NyulaltqzVA",
+    "duration": "3:56",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Butterball Herself Too!）。",
+    "tags": [
+      "自動取得",
+      "BLEACH"
+    ],
+    "auto": true,
+    "anime": "BLEACH",
+    "reading": "BLEACH"
+  },
+  {
     "id": "auto_qwQdWwADRY8",
     "title": "【MAD】この素晴らしい世界に祝福を!紅伝説× DAYBREAK FRONTLINE",
     "author": "かーず",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_-8EX4jHRuZE",
-    "title": "【MAD/AMV】 コードギアス復活のルルーシュ × 不可逆リプレイス Code Geass Lelouch of the Resurrection",
-    "author": "電球A",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "-8EX4jHRuZE",
-    "duration": "4:00",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（電球A）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 復活のルルーシュ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 復活のルルーシュ",
-    "reading": "こーどぎあす ふっかつのるるーしゅ"
   }
 ];
 
