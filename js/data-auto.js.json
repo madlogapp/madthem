@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_TyvIp22sMKo",
+    "title": "ワンパンマンMAD",
+    "author": "零団長",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "TyvIp22sMKo",
+    "duration": "1:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（零団長）。",
+    "tags": [
+      "自動取得",
+      "ワンパンマン"
+    ],
+    "auto": true,
+    "anime": "ワンパンマン",
+    "reading": "わんぱんまん"
+  },
+  {
     "id": "auto_NyulaltqzVA",
     "title": "【MAD】BLEACH「D tecnolife」",
     "author": "Butterball Herself Too!",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_OZx-i8Mkfbg",
-    "title": "【MAD】僕のヒーローアカデミア×No title 緑谷出久×爆豪勝己",
-    "author": "Mahiro",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "OZx-i8Mkfbg",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Mahiro）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ]
