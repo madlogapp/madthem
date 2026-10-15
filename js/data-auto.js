@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_qwQdWwADRY8",
+    "title": "【MAD】この素晴らしい世界に祝福を!紅伝説× DAYBREAK FRONTLINE",
+    "author": "かーず",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "qwQdWwADRY8",
+    "duration": "3:22",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（かーず）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！紅伝説"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！紅伝説",
+    "reading": "このすばらしいせかいにしゅくふくを！くれないでんせつ"
+  },
+  {
     "id": "auto_H8MM74Q6VA4",
     "title": "【静止画MAD】叛逆の物語【魔法少女まどか☆マギカ】",
     "author": "垢メイン",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "コードギアス 復活のルルーシュ",
     "reading": "こーどぎあす ふっかつのるるーしゅ"
-  },
-  {
-    "id": "auto_kal-KjsPStU",
-    "title": "ショートムービー「リコリス・リコイル Friends are thieves of time.」PV ｜2025年4月16日より毎週水曜21:00～各種配信プラットフォームにて全6話配信！",
-    "author": "アニプレックス チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kal-KjsPStU",
-    "duration": "1:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（アニプレックス チャンネル）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル Friends are thieves of time."
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル Friends are thieves of time.",
-    "reading": "りこりす・りこいる Friends are thieves of time."
   }
 ];
 
