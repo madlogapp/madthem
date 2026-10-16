@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_8UHVpnq_6z4",
+    "title": "【このすば】この素晴らしい世界にレーザービームを！【MAD】",
+    "author": "ぐれー",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "8UHVpnq_6z4",
+    "duration": "2:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ぐれー）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！紅伝説"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！紅伝説",
+    "reading": "このすばらしいせかいにしゅくふくを！くれないでんせつ"
+  },
+  {
     "id": "auto_TyvIp22sMKo",
     "title": "ワンパンマンMAD",
     "author": "零団長",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "天元突破グレンラガン",
     "reading": "てんげんとっぱぐれんらがん"
-  },
-  {
-    "id": "auto_3JP_c1O-CMg",
-    "title": "【MAD】ダンダダン×シャアが来る",
-    "author": "どこリス",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "3JP_c1O-CMg",
-    "duration": "2:58",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（どこリス）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
