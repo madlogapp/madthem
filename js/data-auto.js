@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_PHvyB8ppxU4",
+    "title": "【MAD/AMV】 七つの大罪xMY FIRST STORY -Missing You",
+    "author": "sd a",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "PHvyB8ppxU4",
+    "duration": "4:22",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（sd a）。",
+    "tags": [
+      "自動取得",
+      "七つの大罪"
+    ],
+    "auto": true,
+    "anime": "七つの大罪",
+    "reading": "ななつのたいざい"
+  },
+  {
     "id": "auto_SR0icg4S9n0",
     "title": "幼女戦記  MAD  ⑳",
     "author": "情二チャンネル",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "コードギアス 奪還のロゼ",
     "reading": "こーどぎあす だっかんのろぜ"
-  },
-  {
-    "id": "auto_vZ-YkMSY818",
-    "title": "MAD『チェンソーマン』Chainsaw Man ED0.5 Creditless",
-    "author": "ChensoFan",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vZ-YkMSY818",
-    "duration": "1:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ChensoFan）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 
