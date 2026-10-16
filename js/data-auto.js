@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_SR0icg4S9n0",
+    "title": "幼女戦記  MAD  ⑳",
+    "author": "情二チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "SR0icg4S9n0",
+    "duration": "3:49",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（情二チャンネル）。",
+    "tags": [
+      "自動取得",
+      "幼女戦記"
+    ],
+    "auto": true,
+    "anime": "幼女戦記",
+    "reading": "ようじょせんき"
+  },
+  {
     "id": "auto_8UHVpnq_6z4",
     "title": "【このすば】この素晴らしい世界にレーザービームを！【MAD】",
     "author": "ぐれー",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_bYL8yP11ihw",
-    "title": "【天元突破グレンラガン】happily ever after(MAD/AMV)",
-    "author": "蕭劍龍",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "bYL8yP11ihw",
-    "duration": "3:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（蕭劍龍）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ];
 
