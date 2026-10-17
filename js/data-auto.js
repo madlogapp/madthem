@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_s_kZLAGpxfQ",
+    "title": "【転載】【MAD】STEINS;GATE・牧瀬紅莉栖 x paranoia(鹿乃)",
+    "author": "次郎",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "s_kZLAGpxfQ",
+    "duration": "3:22",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（次郎）。",
+    "tags": [
+      "自動取得",
+      "しかのこのこのここしたんたん"
+    ],
+    "auto": true,
+    "anime": "しかのこのこのここしたんたん",
+    "reading": "しかのこのこのここしたんたん"
+  },
+  {
     "id": "auto_PHvyB8ppxU4",
     "title": "【MAD/AMV】 七つの大罪xMY FIRST STORY -Missing You",
     "author": "sd a",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_C4Gx7Vg_LsA",
-    "title": "【MAD】コードギアス/『誰ガ為ノ世界』",
-    "author": "ブラックUT",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "C4Gx7Vg_LsA",
-    "duration": "3:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ブラックUT）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 奪還のロゼ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 奪還のロゼ",
-    "reading": "こーどぎあす だっかんのろぜ"
   }
 ];
 
