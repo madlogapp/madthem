@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_QWBnLyhU8_A",
+    "title": "【MAD】魔法少女まどか☆マギカ【FLYING IN THE SKY】",
+    "author": "tea tea",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "QWBnLyhU8_A",
+    "duration": "1:22",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（tea tea）。",
+    "tags": [
+      "自動取得",
+      "魔法少女まどか☆マギカ"
+    ],
+    "auto": true,
+    "anime": "魔法少女まどか☆マギカ",
+    "reading": "まほうしょうじょまどか☆まぎか"
+  },
+  {
     "id": "auto_ZlTDQdIyI18",
     "title": "【静止画MAD】REVIVER（僕のヒーローアカデミア）",
     "author": "KS00",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_Ke5gwSXFWiM",
-    "title": "【MAD】僕のヒーローアカデミア【君の神様になりたい。】",
-    "author": "闇亦",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ke5gwSXFWiM",
-    "duration": "4:13",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（闇亦）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
