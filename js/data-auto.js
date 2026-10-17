@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ZlTDQdIyI18",
+    "title": "【静止画MAD】REVIVER（僕のヒーローアカデミア）",
+    "author": "KS00",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ZlTDQdIyI18",
+    "duration": "5:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（KS00）。",
+    "tags": [
+      "自動取得",
+      "僕のヒーローアカデミア"
+    ],
+    "auto": true,
+    "anime": "僕のヒーローアカデミア",
+    "reading": "ぼくのひーろーあかでみあ"
+  },
+  {
     "id": "auto_s_kZLAGpxfQ",
     "title": "【転載】【MAD】STEINS;GATE・牧瀬紅莉栖 x paranoia(鹿乃)",
     "author": "次郎",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_FrgMZqZM-Mg",
-    "title": "【MAD】聲の形 × Innocence",
-    "author": "Hiramoti",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "FrgMZqZM-Mg",
-    "duration": "5:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Hiramoti）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 
