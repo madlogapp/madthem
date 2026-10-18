@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto__qWQffgTgeA",
+    "title": "【推しの子】セレナーデ丨小夜曲【中日字幕】【MAD】",
+    "author": "长草中",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "_qWQffgTgeA",
+    "duration": "3:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（长草中）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_9im0Nub-304",
     "title": "アスカ【ジレンマ】新世紀エヴァンゲリオンMAD",
     "author": "ฅ^•ω•^ฅ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_OIec7HSLd6c",
-    "title": "【MAD/AMV】(僕)(私)は(君)(あんた)と繋がり続けていたい　Evangelion エヴァ テテ",
-    "author": "カハラMinami",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "OIec7HSLd6c",
-    "duration": "4:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（カハラMinami）。",
-    "tags": [
-      "自動取得",
-      "あんたへ"
-    ],
-    "auto": true,
-    "anime": "あんたへ",
-    "reading": "あんたへ"
   }
 ];
 
