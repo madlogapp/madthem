@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_b5c8L7dqRjA",
+    "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「Rising」",
+    "author": "コジコジ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "b5c8L7dqRjA",
+    "duration": "4:00",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（コジコジ）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_QWBnLyhU8_A",
     "title": "【MAD】魔法少女まどか☆マギカ【FLYING IN THE SKY】",
     "author": "tea tea",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_f-WRBzrniOk",
-    "title": "【MAD】薬屋のひとりごと×クスシキ/Mrs.GREEN APPLE",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "f-WRBzrniOk",
-    "duration": "3:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ]
