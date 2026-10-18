@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_9im0Nub-304",
+    "title": "アスカ【ジレンマ】新世紀エヴァンゲリオンMAD",
+    "author": "ฅ^•ω•^ฅ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "9im0Nub-304",
+    "duration": "4:00",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
+    "tags": [
+      "自動取得",
+      "ジレンマ"
+    ],
+    "auto": true,
+    "anime": "ジレンマ",
+    "reading": "じれんま"
+  },
+  {
     "id": "auto_b5c8L7dqRjA",
     "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「Rising」",
     "author": "コジコジ",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "あんたへ",
     "reading": "あんたへ"
-  },
-  {
-    "id": "auto_ed3yRAov5fc",
-    "title": "【呪術廻戦】懐玉・玉折 【MAD/AMV】  ※セリフ入り",
-    "author": "ragi",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ed3yRAov5fc",
-    "duration": "3:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ragi）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ]
