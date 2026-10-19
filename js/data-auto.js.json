@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_QgIQbeRzkkc",
+    "title": "【OSHI NO KO】 Season 3 Non-Credit Opening | CHANMINA \"TEST ME\"",
+    "author": "TVアニメ【推しの子】公式チャンネル and ちゃんみな [CHANMINA]",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "QgIQbeRzkkc",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TVアニメ【推しの子】公式チャンネル and ちゃんみな [CHANMINA]）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto__qWQffgTgeA",
     "title": "【推しの子】セレナーデ丨小夜曲【中日字幕】【MAD】",
     "author": "长草中",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_KTU1WExytBg",
-    "title": "【MAD】暗殺教室×きっと大丈夫",
-    "author": "ただのアニメ好きチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "KTU1WExytBg",
-    "duration": "4:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ただのアニメ好きチャンネル）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ]
