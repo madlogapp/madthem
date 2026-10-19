@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Nuu0h23YS1I",
+    "title": "「LASER BEAM」【柳生比呂士】【テニスの王子様】「カラオケ」",
+    "author": "VとアニソンカラオケMAD倉庫",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Nuu0h23YS1I",
+    "duration": "3:21",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（VとアニソンカラオケMAD倉庫）。",
+    "tags": [
+      "自動取得",
+      "テニスの王子様"
+    ],
+    "auto": true,
+    "anime": "テニスの王子様",
+    "reading": "てにすのおうじさま"
+  },
+  {
     "id": "auto_QgIQbeRzkkc",
     "title": "【OSHI NO KO】 Season 3 Non-Credit Opening | CHANMINA \"TEST ME\"",
     "author": "TVアニメ【推しの子】公式チャンネル and ちゃんみな [CHANMINA]",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "リコリス・リコイル Friends are thieves of time.",
     "reading": "りこりす・りこいる Friends are thieves of time."
-  },
-  {
-    "id": "auto_aewnoN9Z2QY",
-    "title": "【MAD】東京リベンジャーズ×ベテルギウス※本誌222話ネタバレ注意※Tokyo Revengers",
-    "author": "はりねずみ太郎",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "aewnoN9Z2QY",
-    "duration": "3:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（はりねずみ太郎）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ]
