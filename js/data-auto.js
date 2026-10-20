@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_vWzrq-BKJ7g",
+    "title": "【MAD】君の名は×天気の子×RADWIMPS×三浦透子×グランドエスケープ",
+    "author": "みおみくチャンネル",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "vWzrq-BKJ7g",
+    "duration": "2:44",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（みおみくチャンネル）。",
+    "tags": [
+      "自動取得",
+      "君の名は。"
+    ],
+    "auto": true,
+    "anime": "君の名は。",
+    "reading": "くんのめいは。"
+  },
+  {
     "id": "auto_jlT-MtVoKHo",
     "title": "Sousou no Frieren  / bliss — milet  (葬送のフリーレン) Special ED (TV Size) 【MAD】",
     "author": "陽紅SunRed",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_jObEisDB5Jw",
-    "title": "【MV】日本三國×火種【キタニタツヤ】【MAD/AMV】",
-    "author": "ロキシー / MAD",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "jObEisDB5Jw",
-    "duration": "3:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ロキシー / MAD）。",
-    "tags": [
-      "自動取得",
-      "日本三國"
-    ],
-    "auto": true,
-    "anime": "日本三國",
-    "reading": "にっぽんみくに"
   }
 ];
 
