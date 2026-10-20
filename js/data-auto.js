@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_K_7BItO16k8",
+    "title": "【MAD】葬送のフリーレン×カーテンコール　僕のヒーローアカデミアOP",
+    "author": "ただのアニメ好きチャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "K_7BItO16k8",
+    "duration": "3:57",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ただのアニメ好きチャンネル）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_Nuu0h23YS1I",
     "title": "「LASER BEAM」【柳生比呂士】【テニスの王子様】「カラオケ」",
     "author": "VとアニソンカラオケMAD倉庫",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_CTuzHBghzZc",
-    "title": "【MAD】リコリコ×祝福/YOASOBI",
-    "author": "hatasaka[MAD]",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "CTuzHBghzZc",
-    "duration": "3:12",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（hatasaka[MAD]）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル Friends are thieves of time."
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル Friends are thieves of time.",
-    "reading": "りこりす・りこいる Friends are thieves of time."
   }
 ];
 
