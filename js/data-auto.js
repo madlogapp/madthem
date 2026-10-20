@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_-4mtQ8VwUkk",
+    "title": "【ファンタジア文庫】デート・ア・ライブ PV【アニメ化企画進行中】",
+    "author": "FUJIMISHOBO01",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "-4mtQ8VwUkk",
+    "duration": "2:02",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（FUJIMISHOBO01）。",
+    "tags": [
+      "自動取得",
+      "デート・ア・ライブ"
+    ],
+    "auto": true,
+    "anime": "デート・ア・ライブ",
+    "reading": "でーと・あ・らいぶ"
+  },
+  {
     "id": "auto_vWzrq-BKJ7g",
     "title": "【MAD】君の名は×天気の子×RADWIMPS×三浦透子×グランドエスケープ",
     "author": "みおみくチャンネル",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_t3SB9zSXv8o",
-    "title": "【MAD】暗殺教室×ロストワンの号哭",
-    "author": "うでやすな",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "t3SB9zSXv8o",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（うでやすな）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ];
 
