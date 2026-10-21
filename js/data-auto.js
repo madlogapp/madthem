@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_F7GLqf9fg0s",
+    "title": "「 AMV 」Yuri On Ice",
+    "author": "Mad Blood",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "F7GLqf9fg0s",
+    "duration": "1:56",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Mad Blood）。",
+    "tags": [
+      "自動取得",
+      "ユーリ!!! on ICE"
+    ],
+    "auto": true,
+    "anime": "ユーリ!!! on ICE",
+    "reading": "ゆーり!!! on ICE"
+  },
+  {
     "id": "auto_-4mtQ8VwUkk",
     "title": "【ファンタジア文庫】デート・ア・ライブ PV【アニメ化企画進行中】",
     "author": "FUJIMISHOBO01",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ドラゴンボール",
     "reading": "どらごんぼーる"
-  },
-  {
-    "id": "auto_e45vB6IOTuo",
-    "title": "【MAD】推しの子×アクマ - MY FIRST STORY",
-    "author": "灰狼ガウ",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "e45vB6IOTuo",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（灰狼ガウ）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
