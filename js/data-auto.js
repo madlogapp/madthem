@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_dgnpyAzeZno",
+    "title": "TV Anime 【OSHI NO KO】  / B-KOMACHI B’s Revenge Dance Video",
+    "author": "TVアニメ【推しの子】公式チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "dgnpyAzeZno",
+    "duration": "1:32",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TVアニメ【推しの子】公式チャンネル）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_F7GLqf9fg0s",
     "title": "「 AMV 」Yuri On Ice",
     "author": "Mad Blood",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_-JvZxs5J7QE",
-    "title": "【MAD】ドラゴンボール（DBZ）×GONG　魔人ブウ編",
-    "author": "so sousou",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "-JvZxs5J7QE",
-    "duration": "4:39",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（so sousou）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボール"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボール",
-    "reading": "どらごんぼーる"
   }
 ];
 
