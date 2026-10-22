@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Wc8wFueOPJU",
+    "title": "【MAD/AMV】勇者/晴る【葬送のフリーレン】",
+    "author": "Re:No",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Wc8wFueOPJU",
+    "duration": "7:46",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Re:No）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_fZ0UsDLs_zw",
     "title": "TVアニメ『凪のあすから』OP映像（Ray／lull〜そして僕らは〜）【NBCユニバーサルAnime✕Music30周年記念OP/ED毎日投稿企画】",
     "author": "NBCUniversal Anime/Music",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_kBc-Mcqtk7A",
-    "title": "【MAD】夢幻/歌詞付【柱稽古編】",
-    "author": "どどみけ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kBc-Mcqtk7A",
-    "duration": "4:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（どどみけ）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃 柱稽古編"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃 柱稽古編",
-    "reading": "おにほろのは はしらけいこへん"
   }
 ];
 
