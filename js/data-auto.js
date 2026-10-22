@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_VIKFWJoVeGU",
+    "title": "【映像MAD】暗殺教室/泥中に咲く",
+    "author": "",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "VIKFWJoVeGU",
+    "duration": "4:43",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（）。",
+    "tags": [
+      "自動取得",
+      "暗殺教室"
+    ],
+    "auto": true,
+    "anime": "暗殺教室",
+    "reading": "あんさつきょうしつ"
+  },
+  {
     "id": "auto_dgnpyAzeZno",
     "title": "TV Anime 【OSHI NO KO】  / B-KOMACHI B’s Revenge Dance Video",
     "author": "TVアニメ【推しの子】公式チャンネル",
@@ -21974,29 +21996,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（予告くん）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_slvQDtTH3j4",
-    "title": "ブルーロック/色彩【セリフ入りMAD】【色彩/yama】【ブルーロック19話】【AMV】【4k】",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP",
-      "ロック"
-    ],
-    "youtubeId": "slvQDtTH3j4",
-    "duration": "3:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
     "tags": [
       "自動取得",
       "ブルーロック"
