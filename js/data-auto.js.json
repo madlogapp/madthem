@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_fZ0UsDLs_zw",
+    "title": "TVアニメ『凪のあすから』OP映像（Ray／lull〜そして僕らは〜）【NBCユニバーサルAnime✕Music30周年記念OP/ED毎日投稿企画】",
+    "author": "NBCUniversal Anime/Music",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "fZ0UsDLs_zw",
+    "duration": "1:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（NBCUniversal Anime/Music）。",
+    "tags": [
+      "自動取得",
+      "凪のあすから"
+    ],
+    "auto": true,
+    "anime": "凪のあすから",
+    "reading": "なぎのあすから"
+  },
+  {
     "id": "auto_VIKFWJoVeGU",
     "title": "【映像MAD】暗殺教室/泥中に咲く",
     "author": "",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "鬼滅の刃 柱稽古編",
     "reading": "おにほろのは はしらけいこへん"
-  },
-  {
-    "id": "auto_QCL5HP2nRPQ",
-    "title": "【MAD】U-20日本代表 vs BLUELOCK【ブルーロック】【生中継】",
-    "author": "予告くん",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "QCL5HP2nRPQ",
-    "duration": "3:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（予告くん）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ]
