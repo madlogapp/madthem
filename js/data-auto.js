@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_A_8hUOxUYss",
+    "title": "【コメント付き】映画館での迷惑行為【進撃の巨人】【MAD】",
+    "author": "投稿者氏名（niconicole3263）",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "A_8hUOxUYss",
+    "duration": "1:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（投稿者氏名（niconicole3263））。",
+    "tags": [
+      "自動取得",
+      "進撃の巨人"
+    ],
+    "auto": true,
+    "anime": "進撃の巨人",
+    "reading": "しんげきのきょじん"
+  },
+  {
     "id": "auto_T5RdDGfRF_U",
     "title": "【AMV】太陽が昇らない世界 - Aimer｜『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』主題歌｜中文字幕",
     "author": "Sanguine Heron",
@@ -21974,28 +21996,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（Counter Guardian）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
-  },
-  {
-    "id": "auto_ggpuL3qBAnk",
-    "title": "【MAD】Fate/stay night/UBW × IMAGINARY LIKE THE JUSTICE",
-    "author": "ムイキャ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ggpuL3qBAnk",
-    "duration": "4:35",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ムイキャ）。",
     "tags": [
       "自動取得",
       "運命"
