@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Utc23TSUbo0",
+    "title": "【完結記念MAD】進撃の巨人 × 悪魔の子 Attack on Titan",
+    "author": "nebosuke",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Utc23TSUbo0",
+    "duration": "3:47",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（nebosuke）。",
+    "tags": [
+      "自動取得",
+      "進撃の巨人"
+    ],
+    "auto": true,
+    "anime": "進撃の巨人",
+    "reading": "しんげきのきょじん"
+  },
+  {
     "id": "auto_Wc8wFueOPJU",
     "title": "【MAD/AMV】勇者/晴る【葬送のフリーレン】",
     "author": "Re:No",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_vB5GNhXclak",
-    "title": "【MAD/AMV】僕のヒーローアカデミア/BUMPOFCHICKEN/I　歌詞付き",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vB5GNhXclak",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
