@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_1yLz7S5IHjg",
+    "title": "【 MAD】七つの大罪(キングver)×Another Hero",
+    "author": "ウータ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "1yLz7S5IHjg",
+    "duration": "3:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ウータ）。",
+    "tags": [
+      "自動取得",
+      "七つの大罪"
+    ],
+    "auto": true,
+    "anime": "七つの大罪",
+    "reading": "ななつのたいざい"
+  },
+  {
     "id": "auto_A_8hUOxUYss",
     "title": "【コメント付き】映画館での迷惑行為【進撃の巨人】【MAD】",
     "author": "投稿者氏名（niconicole3263）",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_7vZp3yGxZXE",
-    "title": "Fate/stay night [Unlimited Blade Works] Aimer - Brave Shine [4K]",
-    "author": "Counter Guardian",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "7vZp3yGxZXE",
-    "duration": "1:50",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Counter Guardian）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ];
 
