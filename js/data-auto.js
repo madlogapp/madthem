@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_T5RdDGfRF_U",
+    "title": "【AMV】太陽が昇らない世界 - Aimer｜『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』主題歌｜中文字幕",
+    "author": "Sanguine Heron",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "T5RdDGfRF_U",
+    "duration": "2:48",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Sanguine Heron）。",
+    "tags": [
+      "自動取得",
+      "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来"
+    ],
+    "auto": true,
+    "anime": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "reading": "げきじょうばん「おにほろのは」むげんしろへん だいいっしょう きかざさいらい"
+  },
+  {
     "id": "auto_Utc23TSUbo0",
     "title": "【完結記念MAD】進撃の巨人 × 悪魔の子 Attack on Titan",
     "author": "nebosuke",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_v9SlrH3WZKE",
-    "title": "【MAD】『ハイキュー!!』×『キミシダイ列車』 〜MSBY ブラックジャッカル vs シュヴァイデン アドラーズ〜",
-    "author": "yFoxyGOD_ Isso ae",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "v9SlrH3WZKE",
-    "duration": "4:13",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（yFoxyGOD_ Isso ae）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
