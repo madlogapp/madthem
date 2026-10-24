@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_L45nO_7YfoU",
+    "title": "【MAD】黒子のバスケ×『Can Do』",
+    "author": "ただの一般人",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "L45nO_7YfoU",
+    "duration": "1:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ただの一般人）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_b-DO4_1Mbj0",
     "title": "【MAD】約束のネバーランド〜GFハウス脱獄篇〜「shangri-la」",
     "author": "MAD製作所ヴァルサン",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Biri-Biri",
     "reading": "Biri-Biri"
-  },
-  {
-    "id": "auto_IdipUffuZUQ",
-    "title": "【MAD】 怪獣8号 × 飛行艇 King Gnu(歌詞付き)",
-    "author": "MasMAD",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "IdipUffuZUQ",
-    "duration": "4:32",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MasMAD）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ];
 
