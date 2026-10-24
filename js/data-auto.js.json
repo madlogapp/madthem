@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_KTfdZRSo2I8",
+    "title": "【静止画MAD】The rumbling【チェンソーマン】",
+    "author": "春",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "KTfdZRSo2I8",
+    "duration": "1:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（春）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン",
+    "reading": "ちぇんそーまん"
+  },
+  {
     "id": "auto_L45nO_7YfoU",
     "title": "【MAD】黒子のバスケ×『Can Do』",
     "author": "ただの一般人",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_VyqobX7NdQc",
-    "title": "【MAD】Lycoris Recoil リコリス‧リコイル x 怪物【YOASOBI】",
-    "author": "狂草 KKS ch.",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "VyqobX7NdQc",
-    "duration": "3:23",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（狂草 KKS ch.）。",
-    "tags": [
-      "自動取得",
-      "Biri-Biri"
-    ],
-    "auto": true,
-    "anime": "Biri-Biri",
-    "reading": "Biri-Biri"
   }
 ]
