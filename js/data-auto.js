@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_b-DO4_1Mbj0",
+    "title": "【MAD】約束のネバーランド〜GFハウス脱獄篇〜「shangri-la」",
+    "author": "MAD製作所ヴァルサン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "b-DO4_1Mbj0",
+    "duration": "4:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（MAD製作所ヴァルサン）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_1yLz7S5IHjg",
     "title": "【 MAD】七つの大罪(キングver)×Another Hero",
     "author": "ウータ",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_vxnTxUOh8yg",
-    "title": "『SAKAMOTO DAYS』スペシャルエンディング│Vaundy「Somebody help us」",
-    "author": "TMSアニメ公式チャンネル",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "vxnTxUOh8yg",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TMSアニメ公式チャンネル）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 
