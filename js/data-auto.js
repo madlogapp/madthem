@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_7g_w6ZSSndc",
+    "title": "【MAD】約束のネバーランド×廃墟の国のアリス",
+    "author": "Asuka",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "7g_w6ZSSndc",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Asuka）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_KTfdZRSo2I8",
     "title": "【静止画MAD】The rumbling【チェンソーマン】",
     "author": "春",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_e_nVvIU1mHs",
-    "title": "【MAD】ハイキュー!!×アスノヨゾラ哨戒班(烏野高校編)",
-    "author": "ぴー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "e_nVvIU1mHs",
-    "duration": "3:08",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぴー）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
