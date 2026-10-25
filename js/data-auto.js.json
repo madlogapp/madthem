@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_5gAHozjFYWg",
+    "title": "【静止画MAD】Amazing Grace【SAKAMOTO DAYS】赤尾晶/赤尾莉昂",
+    "author": "晶晶帅飞全世界",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "5gAHozjFYWg",
+    "duration": "1:49",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（晶晶帅飞全世界）。",
+    "tags": [
+      "自動取得",
+      "SAKAMOTO DAYS"
+    ],
+    "auto": true,
+    "anime": "SAKAMOTO DAYS",
+    "reading": "SAKAMOTO DAYS"
+  },
+  {
     "id": "auto_7g_w6ZSSndc",
     "title": "【MAD】約束のネバーランド×廃墟の国のアリス",
     "author": "Asuka",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_ryrMJDa0U3E",
-    "title": "【MAD】怪獣8号/怪獣 -PEOPLE 1-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ryrMJDa0U3E",
-    "duration": "1:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ]
