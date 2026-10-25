@@ -2060,5 +2060,9 @@
   },
   "魔法少女まどかマギカ 叛逆の物語": null,
   "Can Do": null,
-  "The rumbling": null
+  "The rumbling": null,
+  "天体観測": {
+    "n": "天体観測",
+    "s": 3
+  }
 }

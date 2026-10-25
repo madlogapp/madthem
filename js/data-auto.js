@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_zxII9N4rWmI",
+    "title": "【MAD】彼方のアストラ【天体観測】",
+    "author": "かいうし",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "zxII9N4rWmI",
+    "duration": "4:08",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（かいうし）。",
+    "tags": [
+      "自動取得",
+      "彼方のアストラ"
+    ],
+    "auto": true,
+    "anime": "彼方のアストラ",
+    "reading": "かなたのあすとら"
+  },
+  {
     "id": "auto_5gAHozjFYWg",
     "title": "【静止画MAD】Amazing Grace【SAKAMOTO DAYS】赤尾晶/赤尾莉昂",
     "author": "晶晶帅飞全世界",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_uQVp9rWgyRE",
-    "title": "【MAD】推しの子×フォニイ/phony",
-    "author": "ラウニィー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "uQVp9rWgyRE",
-    "duration": "3:10",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ラウニィー）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
