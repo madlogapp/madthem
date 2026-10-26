@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_I6-rqx8MbZo",
+    "title": "【静止画MAD】黒子のバスケ/Pray【VS霧崎第一】",
+    "author": "YOSH11000",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "I6-rqx8MbZo",
+    "duration": "1:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（YOSH11000）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_zxII9N4rWmI",
     "title": "【MAD】彼方のアストラ【天体観測】",
     "author": "かいうし",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_b2l8sz4TAY4",
-    "title": "本気のぶつかり合いで強いのはオカルン？ それとも邪視？ | 『ダンダダン』第2期 | ネトフリアニメ",
-    "author": "Netflix Anime",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "b2l8sz4TAY4",
-    "duration": "1:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Netflix Anime）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
