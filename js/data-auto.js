@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_hGOfEOwtLO4",
+    "title": "【MAD/AMV】Re:ゼロから始める異世界生活× first death  【リゼロ4期】【セリフ入り】",
+    "author": "なす",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "hGOfEOwtLO4",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（なす）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ"
+  },
+  {
     "id": "auto_I6-rqx8MbZo",
     "title": "【静止画MAD】黒子のバスケ/Pray【VS霧崎第一】",
     "author": "YOSH11000",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_E5cMWG739YI",
-    "title": "【MAD】葬送のフリーレン×三原色/YOASOBI【AMV】",
-    "author": "しもつかれMADとか",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "E5cMWG739YI",
-    "duration": "3:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しもつかれMADとか）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
