@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_WtQUj1X_iqk",
+    "title": "【MAD】Lemon×鬼滅の刃",
+    "author": "みら",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "WtQUj1X_iqk",
+    "duration": "4:16",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（みら）。",
+    "tags": [
+      "自動取得",
+      "くりいむレモン レモンエンジェル"
+    ],
+    "auto": true,
+    "anime": "くりいむレモン レモンエンジェル",
+    "reading": "くりいむれもん れもんえんじぇる"
+  },
+  {
     "id": "auto_r3ioumBhi5Y",
     "title": "【静止画MAD】熱源【ひゃくえむ。】",
     "author": "ALINCO",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Dr.STONE",
     "reading": "Dr.STONE"
-  },
-  {
-    "id": "auto_GBWMuExuLc8",
-    "title": "【MAD/AMV】僕のヒーローアカデミア/優里/カーテンコール",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "GBWMuExuLc8",
-    "duration": "4:00",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
