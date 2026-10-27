@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_f3TrMaZDTyk",
+    "title": "Dr. Stone - Amv - Rude-a LIFE(Ending)",
+    "author": "Ezama",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "f3TrMaZDTyk",
+    "duration": "2:57",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Ezama）。",
+    "tags": [
+      "自動取得",
+      "エンディングソング"
+    ],
+    "auto": true,
+    "anime": "エンディングソング",
+    "reading": "えんでぃんぐそんぐ"
+  },
+  {
     "id": "auto_WtQUj1X_iqk",
     "title": "【MAD】Lemon×鬼滅の刃",
     "author": "みら",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_zZAhEILIxPM",
-    "title": "【Dr.STONE】Z＝232の軌跡【公式PV】",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "zZAhEILIxPM",
-    "duration": "1:04",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "Dr.STONE"
-    ],
-    "auto": true,
-    "anime": "Dr.STONE",
-    "reading": "Dr.STONE"
   }
 ]
