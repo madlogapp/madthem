@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_r3ioumBhi5Y",
+    "title": "【静止画MAD】熱源【ひゃくえむ。】",
+    "author": "ALINCO",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "r3ioumBhi5Y",
+    "duration": "2:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ALINCO）。",
+    "tags": [
+      "自動取得",
+      "ひゃくえむ。"
+    ],
+    "auto": true,
+    "anime": "ひゃくえむ。",
+    "reading": "ひゃくえむ。"
+  },
+  {
     "id": "auto_hGOfEOwtLO4",
     "title": "【MAD/AMV】Re:ゼロから始める異世界生活× first death  【リゼロ4期】【セリフ入り】",
     "author": "なす",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_i7U3XuW3t-Y",
-    "title": "【MAD】及川徹ｘ青のすみか【ハイキュー!!】",
-    "author": "【MAD】しぷさん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "i7U3XuW3t-Y",
-    "duration": "3:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（【MAD】しぷさん）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
