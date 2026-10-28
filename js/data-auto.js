@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_kqKaC-QUZGw",
+    "title": "【MAD】青き春の在り処【俺ガイル】",
+    "author": "りーぬさん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "kqKaC-QUZGw",
+    "duration": "3:43",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（りーぬさん）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
+  },
+  {
     "id": "auto_f3TrMaZDTyk",
     "title": "Dr. Stone - Amv - Rude-a LIFE(Ending)",
     "author": "Ezama",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_kIQt9QnoI-Y",
-    "title": "【MAD】聲の形 【愛し】",
-    "author": "みさみさ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kIQt9QnoI-Y",
-    "duration": "4:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（みさみさ）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 
