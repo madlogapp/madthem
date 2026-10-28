@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_pWpsr54dyqA",
+    "title": "メイドインアビスmad/Torches",
+    "author": "スプラウト",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "pWpsr54dyqA",
+    "duration": "1:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（スプラウト）。",
+    "tags": [
+      "自動取得",
+      "メイドインアビス"
+    ],
+    "auto": true,
+    "anime": "メイドインアビス",
+    "reading": "めいどいんあびす"
+  },
+  {
     "id": "auto_kqKaC-QUZGw",
     "title": "【MAD】青き春の在り処【俺ガイル】",
     "author": "りーぬさん",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ブルーロック VS. U-20 JAPAN",
     "reading": "ぶるーろっく VS. U-20 JAPAN"
-  },
-  {
-    "id": "auto_qEXjBYB-cfA",
-    "title": "【静止画MAD】東京リベンジャーズ×たしかなこと　⚠️ネタバレ注意⚠️",
-    "author": "26ぴょん。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "qEXjBYB-cfA",
-    "duration": "3:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（26ぴょん。）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 
