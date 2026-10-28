@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_KwmJSbmPEqg",
+    "title": "暗殺教室×かくれんぼ【AMV/MAD】",
+    "author": "にいチャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "KwmJSbmPEqg",
+    "duration": "5:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（にいチャンネル）。",
+    "tags": [
+      "自動取得",
+      "暗殺教室"
+    ],
+    "auto": true,
+    "anime": "暗殺教室",
+    "reading": "あんさつきょうしつ"
+  },
+  {
     "id": "auto_pWpsr54dyqA",
     "title": "メイドインアビスmad/Torches",
     "author": "スプラウト",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "「英雄」解体",
     "reading": "「えいゆう」かいたい"
-  },
-  {
-    "id": "auto_6d_kMxozvmo",
-    "title": "【ピースサイン】ブルーロック VS.U-20 JAPAN【MAD】",
-    "author": "Ame",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "6d_kMxozvmo",
-    "duration": "3:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Ame）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック VS. U-20 JAPAN"
-    ],
-    "auto": true,
-    "anime": "ブルーロック VS. U-20 JAPAN",
-    "reading": "ぶるーろっく VS. U-20 JAPAN"
   }
 ];
 
