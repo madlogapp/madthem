@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_O7U5tIP2iXE",
+    "title": "【静止画MAD】 LEVEL5  【とある魔術の禁書目録】",
+    "author": "SIROUZONO",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "O7U5tIP2iXE",
+    "duration": "1:49",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（SIROUZONO）。",
+    "tags": [
+      "自動取得",
+      "とある魔術の禁書目録"
+    ],
+    "auto": true,
+    "anime": "とある魔術の禁書目録",
+    "reading": "とあるまじゅつのきんしょもくろく"
+  },
+  {
     "id": "auto_X5ZPLsWtj5w",
     "title": "【AMV】「鬼滅の刃」無限城編 第一章 × Aimer - escalate｜中文字幕",
     "author": "Sanguine Heron",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_wXC8vSVmPMg",
-    "title": "【 アニメmad 】Mela! × SPY×FAMILY【 セリフ入り 】【 スパイファミリー 】",
-    "author": "ノゾミ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "wXC8vSVmPMg",
-    "duration": "4:03",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ノゾミ）。",
-    "tags": [
-      "自動取得",
-      "Mela!"
-    ],
-    "auto": true,
-    "anime": "Mela!",
-    "reading": "Mela!"
   }
 ]
