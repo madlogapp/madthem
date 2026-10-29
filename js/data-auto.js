@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_34t5kfHh3Qk",
+    "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「かたちあるもの」",
+    "author": "コジコジ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "34t5kfHh3Qk",
+    "duration": "4:17",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（コジコジ）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_O7U5tIP2iXE",
     "title": "【静止画MAD】 LEVEL5  【とある魔術の禁書目録】",
     "author": "SIROUZONO",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_-elKnCDV9gs",
-    "title": "【MAD】葬送のフリーレン【ヨルシカ/晴る】",
-    "author": "あーる",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "-elKnCDV9gs",
-    "duration": "4:46",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（あーる）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
