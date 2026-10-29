@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_X5ZPLsWtj5w",
+    "title": "【AMV】「鬼滅の刃」無限城編 第一章 × Aimer - escalate｜中文字幕",
+    "author": "Sanguine Heron",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "X5ZPLsWtj5w",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Sanguine Heron）。",
+    "tags": [
+      "自動取得",
+      "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来"
+    ],
+    "auto": true,
+    "anime": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "reading": "げきじょうばん「おにほろのは」むげんしろへん だいいっしょう きかざさいらい"
+  },
+  {
     "id": "auto_KwmJSbmPEqg",
     "title": "暗殺教室×かくれんぼ【AMV/MAD】",
     "author": "にいチャンネル",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Mela!",
     "reading": "Mela!"
-  },
-  {
-    "id": "auto_Ng_Zo38O0xo",
-    "title": "【完結記念MAD】英雄×モブサイコ100 1期〜3期　〜モブの成長物語〜　mob psycho Anime MV #anime #アニメ #モブサイコ100",
-    "author": "アニメ道場　　【MAD.アニメ紹介チャンネル】anime",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ng_Zo38O0xo",
-    "duration": "3:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（アニメ道場　　【MAD.アニメ紹介チャンネル】anime）。",
-    "tags": [
-      "自動取得",
-      "「英雄」解体"
-    ],
-    "auto": true,
-    "anime": "「英雄」解体",
-    "reading": "「えいゆう」かいたい"
   }
 ];
 
