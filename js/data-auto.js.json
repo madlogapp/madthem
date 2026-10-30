@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_-7Y0TZJtTpc",
+    "title": "[FGO MAD] Fate / Grand Order Juvenile / ReoNA [AMV]",
+    "author": "FANK",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "-7Y0TZJtTpc",
+    "duration": "4:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（FANK）。",
+    "tags": [
+      "自動取得",
+      "運命"
+    ],
+    "auto": true,
+    "anime": "運命",
+    "reading": "うんめい"
+  },
+  {
     "id": "auto_T5qKr7TKqXo",
     "title": "【MAD】ONEPIECE /レイリー×ロジャー 『おかえり』",
     "author": "織田 信長",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "機動戦士ガンダムユニコーン RE:0096",
     "reading": "きどうせんしがんだむゆにこーん RE:0096"
-  },
-  {
-    "id": "auto_Lh_CQgBrMEQ",
-    "title": "【MAD】ポケットモンスター サン & ムーン 『未来コネクション』【Pokémon】",
-    "author": "せれな(厨二病)",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Lh_CQgBrMEQ",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（せれな(厨二病)）。",
-    "tags": [
-      "自動取得",
-      "Pokémon Evolutions"
-    ],
-    "auto": true,
-    "anime": "Pokémon Evolutions",
-    "reading": "Pokémon Evolutions"
   }
 ]
