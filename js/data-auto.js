@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_T5qKr7TKqXo",
+    "title": "【MAD】ONEPIECE /レイリー×ロジャー 『おかえり』",
+    "author": "織田 信長",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "T5qKr7TKqXo",
+    "duration": "2:04",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（織田 信長）。",
+    "tags": [
+      "自動取得",
+      "おかえり"
+    ],
+    "auto": true,
+    "anime": "おかえり",
+    "reading": "おかえり"
+  },
+  {
     "id": "auto_VLss6N4EzUM",
     "title": "MAD 君に届け (kiminitodoke)  SUPER BEAVER 「証明」",
     "author": "ゆっくりしていってねチャンネル",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Pokémon Evolutions",
     "reading": "Pokémon Evolutions"
-  },
-  {
-    "id": "auto_z5Pr9iVmCME",
-    "title": "【MAD】呪術廻戦 渋谷事変×SPECIALZ 【4K/2160p60】【五条悟】【呪術廻戦2期 9話 渋谷事変 開門】【AMV】【jujutsu kaisen】",
-    "author": "まけと。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "z5Pr9iVmCME",
-    "duration": "3:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（まけと。）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
