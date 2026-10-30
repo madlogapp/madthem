@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_VLss6N4EzUM",
+    "title": "MAD 君に届け (kiminitodoke)  SUPER BEAVER 「証明」",
+    "author": "ゆっくりしていってねチャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "VLss6N4EzUM",
+    "duration": "4:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ゆっくりしていってねチャンネル）。",
+    "tags": [
+      "自動取得",
+      "君に届け ミニトド劇場"
+    ],
+    "auto": true,
+    "anime": "君に届け ミニトド劇場",
+    "reading": "くんにとどけ みにとどげきじょう"
+  },
+  {
     "id": "auto_34t5kfHh3Qk",
     "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「かたちあるもの」",
     "author": "コジコジ",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_8kaL6SaH9k4",
-    "title": "[AMV/MAD] Fate/Grand Order | 1,000,000 TIMES . MY FIRST STORY",
-    "author": "Altair Alter",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "8kaL6SaH9k4",
-    "duration": "5:12",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Altair Alter）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ]
