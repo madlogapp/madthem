@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_xaiq7Ejq5AU",
+    "title": "【ダンダダンMAD】ダンダダン×オトノケ - Otonoke",
+    "author": "Rinne Ch. 佐城りんね【MAD】【MMD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "xaiq7Ejq5AU",
+    "duration": "3:04",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Rinne Ch. 佐城りんね【MAD】【MMD】）。",
+    "tags": [
+      "自動取得",
+      "ダンダダン"
+    ],
+    "auto": true,
+    "anime": "ダンダダン",
+    "reading": "だんだだん"
+  },
+  {
     "id": "auto_-7Y0TZJtTpc",
     "title": "[FGO MAD] Fate / Grand Order Juvenile / ReoNA [AMV]",
     "author": "FANK",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "怪獣８号",
     "reading": "かいじゅう８ごう"
-  },
-  {
-    "id": "auto_cLNBTjFqi-A",
-    "title": "【セリフ付きMAD】機動戦士ガンダムUC[ユニコーン]        　　　　 UNICORN /澤野弘之",
-    "author": "Raiza",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "cLNBTjFqi-A",
-    "duration": "4:44",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Raiza）。",
-    "tags": [
-      "自動取得",
-      "機動戦士ガンダムユニコーン RE:0096"
-    ],
-    "auto": true,
-    "anime": "機動戦士ガンダムユニコーン RE:0096",
-    "reading": "きどうせんしがんだむゆにこーん RE:0096"
   }
 ]
