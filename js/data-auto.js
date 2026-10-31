@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_bDhpRACy9Rc",
+    "title": "【呪術廻戦】とても素敵な六月でした【懐玉・玉折】MAD/AMV",
+    "author": "えふのこ@efnoko",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "bDhpRACy9Rc",
+    "duration": "4:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（えふのこ@efnoko）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_kWI5ZdFVkZc",
     "title": "【ベノム】幼女戦記MAD",
     "author": "taba",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_lUKwBEIgiHg",
-    "title": "【MAD】炎炎ノ消防隊×ヴィラン(ジョーカー)",
-    "author": "ツクオ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "lUKwBEIgiHg",
-    "duration": "3:57",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ツクオ）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ];
 
