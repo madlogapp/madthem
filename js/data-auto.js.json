@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_kWI5ZdFVkZc",
+    "title": "【ベノム】幼女戦記MAD",
+    "author": "taba",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "kWI5ZdFVkZc",
+    "duration": "3:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（taba）。",
+    "tags": [
+      "自動取得",
+      "幼女戦記"
+    ],
+    "auto": true,
+    "anime": "幼女戦記",
+    "reading": "ようじょせんき"
+  },
+  {
     "id": "auto_xaiq7Ejq5AU",
     "title": "【ダンダダンMAD】ダンダダン×オトノケ - Otonoke",
     "author": "Rinne Ch. 佐城りんね【MAD】【MMD】",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_aiCMXJ4zKWA",
-    "title": "アニメ『怪獣８号』ノンクレジットED｜OneRepublic「Nobody」｜毎週土曜23時～放送・配信",
-    "author": "TOHO animation チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "aiCMXJ4zKWA",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
-    "tags": [
-      "自動取得",
-      "怪獣８号"
-    ],
-    "auto": true,
-    "anime": "怪獣８号",
-    "reading": "かいじゅう８ごう"
   }
 ]
