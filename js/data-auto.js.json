@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_JTnvS6CPaC4",
+    "title": "【MAD】サマーウォーズ×IMAGINARY LIKE THE JUSTICE",
+    "author": "ttanig",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "JTnvS6CPaC4",
+    "duration": "4:53",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ttanig）。",
+    "tags": [
+      "自動取得",
+      "サマーウォーズ"
+    ],
+    "auto": true,
+    "anime": "サマーウォーズ",
+    "reading": "さまーうぉーず"
+  },
+  {
     "id": "auto_c9zemDikePE",
     "title": "voracity x 最後の大隊(Hellsing)",
     "author": "Toki",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_eCHgsRjgCZU",
-    "title": "【MAD】Fate/kaleid liner プリズマ ☆イリヤ 雪下の誓い×IMAGINARY LIKE THE JUSTICE",
-    "author": "Kyu(カカサブ)",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "eCHgsRjgCZU",
-    "duration": "4:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Kyu(カカサブ)）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ]
