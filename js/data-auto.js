@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_y1wzEpRMZIw",
+    "title": "【MAD】Strange Actors【Fate strange Fake】",
+    "author": "蒼緋",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "y1wzEpRMZIw",
+    "duration": "3:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（蒼緋）。",
+    "tags": [
+      "自動取得",
+      "Fate/strange Fake"
+    ],
+    "auto": true,
+    "anime": "Fate/strange Fake",
+    "reading": "Fate/strange Fake"
+  },
+  {
     "id": "auto_bDhpRACy9Rc",
     "title": "【呪術廻戦】とても素敵な六月でした【懐玉・玉折】MAD/AMV",
     "author": "えふのこ@efnoko",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_0hNu77p8vcw",
-    "title": "【MAD】薫る花は凛と咲く×まなざしは光/キタニタツヤ",
-    "author": "Ina",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "0hNu77p8vcw",
-    "duration": "3:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Ina）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 
