@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_c9zemDikePE",
+    "title": "voracity x 最後の大隊(Hellsing)",
+    "author": "Toki",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "c9zemDikePE",
+    "duration": "3:50",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Toki）。",
+    "tags": [
+      "自動取得",
+      "HELLSING"
+    ],
+    "auto": true,
+    "anime": "HELLSING",
+    "reading": "HELLSING"
+  },
+  {
     "id": "auto_y1wzEpRMZIw",
     "title": "【MAD】Strange Actors【Fate strange Fake】",
     "author": "蒼緋",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_sZ5xbGq4N5k",
-    "title": "呪術廻戦× Soranji 【静止画MAD】※ネタバレ注意",
-    "author": "狛磨。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "sZ5xbGq4N5k",
-    "duration": "5:36",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（狛磨。）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
