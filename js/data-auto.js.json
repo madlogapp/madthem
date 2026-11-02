@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_w4E8rWU1C_k",
+    "title": "【セリフ入りMAD】呪術廻戦 渋谷事変×唱(Ado)",
+    "author": "kana【かな】",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "w4E8rWU1C_k",
+    "duration": "3:51",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（kana【かな】）。",
+    "tags": [
+      "自動取得",
+      "ショコラカタブラ"
+    ],
+    "auto": true,
+    "anime": "ショコラカタブラ",
+    "reading": "しょこらかたぶら"
+  },
+  {
     "id": "auto_JTnvS6CPaC4",
     "title": "【MAD】サマーウォーズ×IMAGINARY LIKE THE JUSTICE",
     "author": "ttanig",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_fFb3ddXIYm0",
-    "title": "【MAD】【怪獣8号】【ともに】怪獣8号MADともに",
-    "author": "ねずみくん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "fFb3ddXIYm0",
-    "duration": "3:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねずみくん）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ]
