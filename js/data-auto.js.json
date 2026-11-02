@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_cAniBqyQopY",
+    "title": "劇場版『チェンソーマン レゼ篇』- 米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada - JANE DOE 『AMV』",
+    "author": "ImZima",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "cAniBqyQopY",
+    "duration": "3:53",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ImZima）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン レゼ篇"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン レゼ篇",
+    "reading": "ちぇんそーまん れぜへん"
+  },
+  {
     "id": "auto_w4E8rWU1C_k",
     "title": "【セリフ入りMAD】呪術廻戦 渋谷事変×唱(Ado)",
     "author": "kana【かな】",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_Bt__l1nR2Oc",
-    "title": "【MAD】チェンソーマン×青のすみか(キタニタツヤ) 呪術廻戦OP風",
-    "author": "Byakuya",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "Bt__l1nR2Oc",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Byakuya）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ]
