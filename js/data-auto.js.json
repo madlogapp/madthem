@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_UxCfBwAM0sg",
+    "title": "聲の形 MAD",
+    "author": "クラネ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "UxCfBwAM0sg",
+    "duration": "1:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（クラネ）。",
+    "tags": [
+      "自動取得",
+      "聲の形"
+    ],
+    "auto": true,
+    "anime": "聲の形",
+    "reading": "こえのかたち"
+  },
+  {
     "id": "auto_cAniBqyQopY",
     "title": "劇場版『チェンソーマン レゼ篇』- 米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada - JANE DOE 『AMV』",
     "author": "ImZima",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "コードギアス 奪還のロゼ",
     "reading": "こーどぎあす だっかんのろぜ"
-  },
-  {
-    "id": "auto_3YJU_mvndiA",
-    "title": "東京リベンジャーズ×IN MY WORLD【静止画MAD】※ネタバレ注意",
-    "author": "狛磨。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "3YJU_mvndiA",
-    "duration": "3:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（狛磨。）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ]
