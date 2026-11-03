@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_yp1o947weeQ",
+    "title": "【MAD】チェンソーマン × 一途 | King Gnu (Chainsawman fan edit)",
+    "author": "ヒッキ_15",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "yp1o947weeQ",
+    "duration": "1:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ヒッキ_15）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン",
+    "reading": "ちぇんそーまん"
+  },
+  {
     "id": "auto_4Oh0MNKg1CU",
     "title": "[MAD]魔法科高校の劣等生",
     "author": "棚からぼた餅（ウパ）",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ドラゴンボールDAIMA",
     "reading": "どらごんぼーるDAIMA"
-  },
-  {
-    "id": "auto_JPz_4SuNDy8",
-    "title": "【AMV/MAD】SAKAMOTO DAYS【アメイジンググレイス】",
-    "author": "Nanatsuki",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JPz_4SuNDy8",
-    "duration": "1:51",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Nanatsuki）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 
