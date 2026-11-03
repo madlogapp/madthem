@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_gSJVG7CozQw",
+    "title": "【MAD】オーバーロード×Clattanoia",
+    "author": "のりたましょうゆはんどる",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gSJVG7CozQw",
+    "duration": "4:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（のりたましょうゆはんどる）。",
+    "tags": [
+      "自動取得",
+      "オーバーロード"
+    ],
+    "auto": true,
+    "anime": "オーバーロード",
+    "reading": "おーばーろーど"
+  },
+  {
     "id": "auto_UxCfBwAM0sg",
     "title": "聲の形 MAD",
     "author": "クラネ",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_t-_S-1ljrpc",
-    "title": "【MAD】コードギアス × 転生林檎",
-    "author": "おもち🌱",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "t-_S-1ljrpc",
-    "duration": "1:07",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（おもち🌱）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 奪還のロゼ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 奪還のロゼ",
-    "reading": "こーどぎあす だっかんのろぜ"
   }
 ];
 
