@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_4Oh0MNKg1CU",
+    "title": "[MAD]魔法科高校の劣等生",
+    "author": "棚からぼた餅（ウパ）",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "4Oh0MNKg1CU",
+    "duration": "3:49",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（棚からぼた餅（ウパ））。",
+    "tags": [
+      "自動取得",
+      "魔法科高校の劣等生"
+    ],
+    "auto": true,
+    "anime": "魔法科高校の劣等生",
+    "reading": "まほうかこうこうのれっとうせい"
+  },
+  {
     "id": "auto_gSJVG7CozQw",
     "title": "【MAD】オーバーロード×Clattanoia",
     "author": "のりたましょうゆはんどる",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_EXEOIv7T8hM",
-    "title": "【MAD】 聲の形 【命に嫌われている】",
-    "author": "しづか",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "EXEOIv7T8hM",
-    "duration": "4:47",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しづか）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 
