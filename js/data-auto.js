@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_s5OoBqCBe-0",
+    "title": "【MAD】リコリス・リコイル×IMAGINARY LIKE THE JUSTICE",
+    "author": "カズト",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "s5OoBqCBe-0",
+    "duration": "4:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（カズト）。",
+    "tags": [
+      "自動取得",
+      "リコリス・リコイル"
+    ],
+    "auto": true,
+    "anime": "リコリス・リコイル",
+    "reading": "りこりす・りこいる"
+  },
+  {
     "id": "auto_yp1o947weeQ",
     "title": "【MAD】チェンソーマン × 一途 | King Gnu (Chainsawman fan edit)",
     "author": "ヒッキ_15",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_flpxteuwNOs",
-    "title": "【MAD】ドラゴンボールDAIMA「晴る」",
-    "author": "ジャック",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "flpxteuwNOs",
-    "duration": "4:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャック）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボールDAIMA"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボールDAIMA",
-    "reading": "どらごんぼーるDAIMA"
   }
 ];
 
