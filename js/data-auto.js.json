@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_AP8lwQ-OAoo",
+    "title": "MAD 新門紅丸×宵々古今 【炎炎ノ消防隊】",
+    "author": "Nova 【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "AP8lwQ-OAoo",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Nova 【MAD】）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto__cQAFUPZ3NU",
     "title": "【AMV/PV】葬送のフリーレン × 祝福",
     "author": "PV hikousiki",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "風のゆくえ",
     "reading": "かぜのゆくえ"
-  },
-  {
-    "id": "auto_jgadtVWSas4",
-    "title": "〈MAD〉暗殺教室×夜に駆ける",
-    "author": "DAIFUK U",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "jgadtVWSas4",
-    "duration": "4:42",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（DAIFUK U）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ]
