@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto__cQAFUPZ3NU",
+    "title": "【AMV/PV】葬送のフリーレン × 祝福",
+    "author": "PV hikousiki",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "_cQAFUPZ3NU",
+    "duration": "1:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（PV hikousiki）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_s5OoBqCBe-0",
     "title": "【MAD】リコリス・リコイル×IMAGINARY LIKE THE JUSTICE",
     "author": "カズト",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto__gh2BJlTn9U",
-    "title": "【MAD】僕のヒーローアカデミア/かくれんぼ",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_gh2BJlTn9U",
-    "duration": "5:07",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
