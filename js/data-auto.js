@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_-glzY4LVDBY",
+    "title": "【FGO】いつかまた出逢えるなら",
+    "author": "喵太Miota",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "-glzY4LVDBY",
+    "duration": "5:09",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（喵太Miota）。",
+    "tags": [
+      "自動取得",
+      "Fate/Grand Order -絶対魔獣戦線バビロニア-"
+    ],
+    "auto": true,
+    "anime": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+    "reading": "Fate/Grand Order -ぜったいまじゅうせんせんばびろにあ-"
+  },
+  {
     "id": "auto_6JvyLUAvVdA",
     "title": "【MAD】炎炎ノ消防隊×廻廻奇譚",
     "author": "はるぽこたん",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "機動戦士Gundam GQuuuuuuX",
     "reading": "きどうせんしGundam GQuuuuuuX"
-  },
-  {
-    "id": "auto_cV_YoKyh1Uk",
-    "title": "【MAD】葬送のフリーレン×ただ君に晴れ",
-    "author": "ただのアニメ好きチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "cV_YoKyh1Uk",
-    "duration": "3:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ただのアニメ好きチャンネル）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
