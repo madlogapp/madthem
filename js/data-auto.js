@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_zslf5-mxhpU",
+    "title": "【MAD】天気の子／だれかの心臓になれたなら",
+    "author": "のばふぁん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "zslf5-mxhpU",
+    "duration": "3:50",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（のばふぁん）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_-glzY4LVDBY",
     "title": "【FGO】いつかまた出逢えるなら",
     "author": "喵太Miota",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_PLn4C-HDgH4",
-    "title": "【MAD/AMV】Plazma/もうどうなってもいいや【GQuuuuuuX】",
-    "author": "Re:No",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "PLn4C-HDgH4",
-    "duration": "6:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Re:No）。",
-    "tags": [
-      "自動取得",
-      "機動戦士Gundam GQuuuuuuX"
-    ],
-    "auto": true,
-    "anime": "機動戦士Gundam GQuuuuuuX",
-    "reading": "きどうせんしGundam GQuuuuuuX"
   }
 ];
 
