@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_6JvyLUAvVdA",
+    "title": "【MAD】炎炎ノ消防隊×廻廻奇譚",
+    "author": "はるぽこたん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "6JvyLUAvVdA",
+    "duration": "3:59",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（はるぽこたん）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_AP8lwQ-OAoo",
     "title": "MAD 新門紅丸×宵々古今 【炎炎ノ消防隊】",
     "author": "Nova 【MAD】",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_wlDKkx8ganQ",
-    "title": "【感動MAD/AMV】ワンピース 心に響く名言名場面集【風のゆくえ】【高画質】【セリフ入り】【全てのアニメファンに見てほしい】",
-    "author": "わんポニ",
-    "type": "single",
-    "genres": [
-      "バラード"
-    ],
-    "youtubeId": "wlDKkx8ganQ",
-    "duration": "4:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（わんポニ）。",
-    "tags": [
-      "自動取得",
-      "風のゆくえ"
-    ],
-    "auto": true,
-    "anime": "風のゆくえ",
-    "reading": "かぜのゆくえ"
   }
 ];
 
