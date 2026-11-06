@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_B96_hqzFGzs",
+    "title": "[AMV]  Yuri on ice!!! (Ava Max- Sweet but psycho)",
+    "author": "Aisyah Nurjulita",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "B96_hqzFGzs",
+    "duration": "3:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Aisyah Nurjulita）。",
+    "tags": [
+      "自動取得",
+      "ユーリ!!! on ICE"
+    ],
+    "auto": true,
+    "anime": "ユーリ!!! on ICE",
+    "reading": "ゆーり!!! on ICE"
+  },
+  {
     "id": "auto_zc6OMsBN-As",
     "title": "KANA-BOON 『SUPERNOVA』 Music Video【アニメ「Dr.STONE SCIENCE FUTURE」最終シーズン第2クールオープニングテーマ】",
     "author": "KANA-BOON Official YouTube Channel",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_jkeLq8aIR3A",
-    "title": "【MAD/AMV】MONOCHROME【BLEACH 千年血戦篇 相克譚】",
-    "author": "桐生輝瀬 / kiryu klse",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "jkeLq8aIR3A",
-    "duration": "3:03",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（桐生輝瀬 / kiryu klse）。",
-    "tags": [
-      "自動取得",
-      "MONOCHROME"
-    ],
-    "auto": true,
-    "anime": "MONOCHROME",
-    "reading": "MONOCHROME"
   }
 ]
