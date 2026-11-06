@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Uj0lhfgT0Gs",
+    "title": "【MAD】暗殺教室×グッバイ宣言",
+    "author": "",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Uj0lhfgT0Gs",
+    "duration": "3:12",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（）。",
+    "tags": [
+      "自動取得",
+      "暗殺教室"
+    ],
+    "auto": true,
+    "anime": "暗殺教室",
+    "reading": "あんさつきょうしつ"
+  },
+  {
     "id": "auto_B96_hqzFGzs",
     "title": "[AMV]  Yuri on ice!!! (Ava Max- Sweet but psycho)",
     "author": "Aisyah Nurjulita",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_kMtY5Xzjb3o",
-    "title": "【MAD】鬼滅の刃×太陽が昇らない世界/Aimer   『無限城編へ』  【セリフ入り】【歌詞入り】",
-    "author": "【MAD】デラックスジョーカー",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "kMtY5Xzjb3o",
-    "duration": "3:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（【MAD】デラックスジョーカー）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ]
