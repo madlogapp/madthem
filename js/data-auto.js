@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_zc6OMsBN-As",
+    "title": "KANA-BOON 『SUPERNOVA』 Music Video【アニメ「Dr.STONE SCIENCE FUTURE」最終シーズン第2クールオープニングテーマ】",
+    "author": "KANA-BOON Official YouTube Channel",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "zc6OMsBN-As",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（KANA-BOON Official YouTube Channel）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダムSEED たねきゃら劇場"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダムSEED たねきゃら劇場",
+    "reading": "きどうせんしがんだむSEED たねきゃらげきじょう"
+  },
+  {
     "id": "auto_zslf5-mxhpU",
     "title": "【MAD】天気の子／だれかの心臓になれたなら",
     "author": "のばふぁん",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "MONOCHROME",
     "reading": "MONOCHROME"
-  },
-  {
-    "id": "auto_BncyGAFyvM8",
-    "title": "「名前を呼ぶよ」（SUPER BEAVER）『東京リベンジャーズ』原作コラボMV",
-    "author": "マガジンチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "BncyGAFyvM8",
-    "duration": "1:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（マガジンチャンネル）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 
