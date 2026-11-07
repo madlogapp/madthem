@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_uAfaQf3jy8E",
+    "title": "【魔法科高校の劣等生】　第3話　『入学編Ⅲ』　ハイライト",
+    "author": "アニメ画像まとめちゃんねる",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "uAfaQf3jy8E",
+    "duration": "4:10",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（アニメ画像まとめちゃんねる）。",
+    "tags": [
+      "自動取得",
+      "魔法科高校の劣等生"
+    ],
+    "auto": true,
+    "anime": "魔法科高校の劣等生",
+    "reading": "まほうかこうこうのれっとうせい"
+  },
+  {
     "id": "auto_Uj0lhfgT0Gs",
     "title": "【MAD】暗殺教室×グッバイ宣言",
     "author": "",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_JDLhjJEm2Y4",
-    "title": "【ダンダダン】Opening Full『オトノケ』- Creepy Nuts【MAD/AMV】 Dandadan -『Otonoke』",
-    "author": "Rad1o Music",
-    "type": "single",
-    "genres": [
-      "ヒップホップ"
-    ],
-    "youtubeId": "JDLhjJEm2Y4",
-    "duration": "3:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Rad1o Music）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
