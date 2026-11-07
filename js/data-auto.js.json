@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_gFRIoDUuTXQ",
+    "title": "[Mr.Children]言の葉の庭～蒼～[MAD]",
+    "author": "wahea",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "gFRIoDUuTXQ",
+    "duration": "3:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（wahea）。",
+    "tags": [
+      "自動取得",
+      "himawari"
+    ],
+    "auto": true,
+    "anime": "himawari",
+    "reading": "himawari"
+  },
+  {
     "id": "auto_bovWqxsWavg",
     "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「MAGIC」",
     "author": "コジコジ",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_ZW_MgrBVIcQ",
-    "title": "【MAD】Torch of Liberty【炎炎ノ消防隊】",
-    "author": "孫悟空official",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ZW_MgrBVIcQ",
-    "duration": "3:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（孫悟空official）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ]
