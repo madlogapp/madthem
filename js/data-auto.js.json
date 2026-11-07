@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_bovWqxsWavg",
+    "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「MAGIC」",
+    "author": "コジコジ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "bovWqxsWavg",
+    "duration": "2:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（コジコジ）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_uAfaQf3jy8E",
     "title": "【魔法科高校の劣等生】　第3話　『入学編Ⅲ』　ハイライト",
     "author": "アニメ画像まとめちゃんねる",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_Cnk6xrYefxM",
-    "title": "【MAD】モブサイコ100  「脱法ロック」",
-    "author": "kenton 98",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "Cnk6xrYefxM",
-    "duration": "3:04",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（kenton 98）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ]
