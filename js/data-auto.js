@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Ld7SloRKNhQ",
+    "title": "セリフ入り【MAD】無限城編×泥中に咲く【鬼滅の刃】",
+    "author": "あちぷアニメチャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Ld7SloRKNhQ",
+    "duration": "4:47",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（あちぷアニメチャンネル）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_gFRIoDUuTXQ",
     "title": "[Mr.Children]言の葉の庭～蒼～[MAD]",
     "author": "wahea",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_0-jCnJCx3Tg",
-    "title": "【呪術廻戦】一途/King Gnu【MAD】",
-    "author": "ぽちけん。【不定期投稿】",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "0-jCnJCx3Tg",
-    "duration": "2:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぽちけん。【不定期投稿】）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
