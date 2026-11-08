@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_tnRO2M7sSf4",
+    "title": "【MAD】ワンパンマン×夜に駆ける",
+    "author": "たんこぶ塩こShow",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "tnRO2M7sSf4",
+    "duration": "4:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（たんこぶ塩こShow）。",
+    "tags": [
+      "自動取得",
+      "ワンパンマン"
+    ],
+    "auto": true,
+    "anime": "ワンパンマン",
+    "reading": "わんぱんまん"
+  },
+  {
     "id": "auto_Ld7SloRKNhQ",
     "title": "セリフ入り【MAD】無限城編×泥中に咲く【鬼滅の刃】",
     "author": "あちぷアニメチャンネル",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_nhfzjADte4A",
-    "title": "【MAD/AMV】僕のヒーローアカデミア×爆豪勝己/林ゆうき/GO Beyond　セリフあり",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "nhfzjADte4A",
-    "duration": "6:51",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ]
