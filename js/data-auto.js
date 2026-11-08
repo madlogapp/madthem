@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ECbJcnd7zeM",
+    "title": "【MAD】BLEACH×カルマ",
+    "author": "BLEACHオタクの日常",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ECbJcnd7zeM",
+    "duration": "3:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（BLEACHオタクの日常）。",
+    "tags": [
+      "自動取得",
+      "BLEACH"
+    ],
+    "auto": true,
+    "anime": "BLEACH",
+    "reading": "BLEACH"
+  },
+  {
     "id": "auto_tnRO2M7sSf4",
     "title": "【MAD】ワンパンマン×夜に駆ける",
     "author": "たんこぶ塩こShow",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_u_ohLkrwJCo",
-    "title": "【アニメMAD】　ダンダダン×革命道中",
-    "author": "ちょぼただお",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "u_ohLkrwJCo",
-    "duration": "3:14",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ちょぼただお）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
