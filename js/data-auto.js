@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ED1zGslwM8o",
+    "title": "【MAD】呪術廻戦 懐玉・玉折(過去編) [青のすみか/キタニタツヤ]",
+    "author": "a_mi",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "ED1zGslwM8o",
+    "duration": "3:19",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（a_mi）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦 懐玉・玉折"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦 懐玉・玉折",
+    "reading": "じゅじゅつかいせん かいぎょく・たまおり"
+  },
+  {
     "id": "auto_ECbJcnd7zeM",
     "title": "【MAD】BLEACH×カルマ",
     "author": "BLEACHオタクの日常",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_KPcmHZOXeA0",
-    "title": "【彼の日の君へ】鬼滅の刃【MAD】",
-    "author": "しづか",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "KPcmHZOXeA0",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しづか）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ];
 
