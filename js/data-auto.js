@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_718XK6JSHv4",
+    "title": "【MAD】四月は君の嘘×alarm",
+    "author": "さぶとじ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "718XK6JSHv4",
+    "duration": "4:00",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（さぶとじ）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_ED1zGslwM8o",
     "title": "【MAD】呪術廻戦 懐玉・玉折(過去編) [青のすみか/キタニタツヤ]",
     "author": "a_mi",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_bVARYnZ1ihA",
-    "title": "【MAD】進撃の巨人×unravel【エレン・イェーガー】",
-    "author": "マグロさん【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "bVARYnZ1ihA",
-    "duration": "4:03",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（マグロさん【MAD】）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 
