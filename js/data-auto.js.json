@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_bNlwPfsYlzo",
+    "title": "「MAD」ブルーアーカイブ×熱情のスペクトラム",
+    "author": "さうんど",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "bNlwPfsYlzo",
+    "duration": "3:43",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（さうんど）。",
+    "tags": [
+      "自動取得",
+      "ブルーアーカイブ アニメPVs"
+    ],
+    "auto": true,
+    "anime": "ブルーアーカイブ アニメPVs",
+    "reading": "ぶるーあーかいぶ あにめPVs"
+  },
+  {
     "id": "auto_718XK6JSHv4",
     "title": "【MAD】四月は君の嘘×alarm",
     "author": "さぶとじ",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_y2d6wLFXRKo",
-    "title": "【セリフ入りMAD】モブサイコ100×全部いい",
-    "author": "あろは",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "y2d6wLFXRKo",
-    "duration": "5:19",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（あろは）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ]
