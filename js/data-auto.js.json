@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_tL6PmSd3ApE",
+    "title": "【コメント付き】3年目の浮気【進撃の巨人】【MAD】",
+    "author": "投稿者氏名（niconicole3263）",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "tL6PmSd3ApE",
+    "duration": "3:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（投稿者氏名（niconicole3263））。",
+    "tags": [
+      "自動取得",
+      "進撃の巨人"
+    ],
+    "auto": true,
+    "anime": "進撃の巨人",
+    "reading": "しんげきのきょじん"
+  },
+  {
     "id": "auto_P55d2L1f87A",
     "title": "【MAD】ヴァイオレット・エヴァーガーデン/コントラスト",
     "author": "八幡Dワークス",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "グレンラガン パラレルワークス",
     "reading": "ぐれんらがん ぱられるわーくす"
-  },
-  {
-    "id": "auto_ZPlPsfv8JwU",
-    "title": "ROYALTY | AMV | 4K UHD [2160P]",
-    "author": "KONI AMVs",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ZPlPsfv8JwU",
-    "duration": "3:47",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（KONI AMVs）。",
-    "tags": [
-      "自動取得",
-      "L/R -Licensed by Royal-"
-    ],
-    "auto": true,
-    "anime": "L/R -Licensed by Royal-",
-    "reading": "L/R -Licensed by Royal-"
   }
 ]
