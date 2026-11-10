@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_r8IVBTQvjw4",
+    "title": "【セリフ入りMAD】僕のヒーローアカデミアFINAL SEASON ×I 【4K/2160p60】【BUMP OF CHICKEN】【AMV】【My Hero Academia】",
+    "author": "まけと。",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "r8IVBTQvjw4",
+    "duration": "4:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（まけと。）。",
+    "tags": [
+      "自動取得",
+      "僕のヒーローアカデミア FINAL SEASON"
+    ],
+    "auto": true,
+    "anime": "僕のヒーローアカデミア FINAL SEASON",
+    "reading": "ぼくのひーろーあかでみあ FINAL SEASON"
+  },
+  {
     "id": "auto_bNlwPfsYlzo",
     "title": "「MAD」ブルーアーカイブ×熱情のスペクトラム",
     "author": "さうんど",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ゴーストダイブ",
     "reading": "ごーすとだいぶ"
-  },
-  {
-    "id": "auto_chuZkvjt6_Q",
-    "title": "「Judgement」ブルーロック Animation MV（TVアニメ『ブルーロック』2クール目オープニング主題歌）",
-    "author": "ASH DA HERO Channel",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "chuZkvjt6_Q",
-    "duration": "3:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ASH DA HERO Channel）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 
