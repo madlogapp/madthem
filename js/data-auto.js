@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_P55d2L1f87A",
+    "title": "【MAD】ヴァイオレット・エヴァーガーデン/コントラスト",
+    "author": "八幡Dワークス",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "P55d2L1f87A",
+    "duration": "4:26",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（八幡Dワークス）。",
+    "tags": [
+      "自動取得",
+      "ヴァイオレット・エヴァーガーデン"
+    ],
+    "auto": true,
+    "anime": "ヴァイオレット・エヴァーガーデン",
+    "reading": "ゔぁいおれっと・えゔぁーがーでん"
+  },
+  {
     "id": "auto_r8IVBTQvjw4",
     "title": "【セリフ入りMAD】僕のヒーローアカデミアFINAL SEASON ×I 【4K/2160p60】【BUMP OF CHICKEN】【AMV】【My Hero Academia】",
     "author": "まけと。",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "L/R -Licensed by Royal-",
     "reading": "L/R -Licensed by Royal-"
-  },
-  {
-    "id": "auto_kD_9zOzbnV0",
-    "title": "ゴーストダイブ【ポケモンMAD】",
-    "author": "カクサン",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kD_9zOzbnV0",
-    "duration": "3:19",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（カクサン）。",
-    "tags": [
-      "自動取得",
-      "ゴーストダイブ"
-    ],
-    "auto": true,
-    "anime": "ゴーストダイブ",
-    "reading": "ごーすとだいぶ"
   }
 ];
 
