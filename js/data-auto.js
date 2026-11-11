@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_M3FbcdYZRy0",
+    "title": "【MAD/AMV】晴る【ヨルシカ】【葬送のフリーレン】",
+    "author": "Re:No",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "M3FbcdYZRy0",
+    "duration": "4:32",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Re:No）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_q0JYOO2AfQg",
     "title": "【鬼滅の刃】×【太陽系デスコ】MAD",
     "author": "North",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "影色舞",
     "reading": "かげいろまい"
-  },
-  {
-    "id": "auto_NLIGDjKBLY0",
-    "title": "アイナ・ジ・エンド / 革命道中 - On The Way [Official Music Video]（TVアニメ『ダンダダン』第2期オープニングテーマ）",
-    "author": "AiNA THE END Official",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "NLIGDjKBLY0",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（AiNA THE END Official）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 
