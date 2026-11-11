@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_CkDxW9hJ_gI",
+    "title": "「MAD」呪術廻戦/アスノヨゾラ哨戒班「歌詞付き」「Jujutsu Kaisen」",
+    "author": "Reki",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "CkDxW9hJ_gI",
+    "duration": "2:56",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Reki）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_tL6PmSd3ApE",
     "title": "【コメント付き】3年目の浮気【進撃の巨人】【MAD】",
     "author": "投稿者氏名（niconicole3263）",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_5VDOZShVtpE",
-    "title": "[MAD]グレンラガン ×サンボマスター",
-    "author": "声優の凄い演技を紹介",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "5VDOZShVtpE",
-    "duration": "4:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（声優の凄い演技を紹介）。",
-    "tags": [
-      "自動取得",
-      "グレンラガン パラレルワークス"
-    ],
-    "auto": true,
-    "anime": "グレンラガン パラレルワークス",
-    "reading": "ぐれんらがん ぱられるわーくす"
   }
 ]
