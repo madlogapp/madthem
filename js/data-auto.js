@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_q0JYOO2AfQg",
+    "title": "【鬼滅の刃】×【太陽系デスコ】MAD",
+    "author": "North",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "q0JYOO2AfQg",
+    "duration": "3:21",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（North）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_CkDxW9hJ_gI",
     "title": "「MAD」呪術廻戦/アスノヨゾラ哨戒班「歌詞付き」「Jujutsu Kaisen」",
     "author": "Reki",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_dr6oLr-ozhk",
-    "title": "Fate/strange fake / FAKEit [MAD/AMV]",
-    "author": "あさまさ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "dr6oLr-ozhk",
-    "duration": "3:04",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（あさまさ）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ];
 
