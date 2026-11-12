@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_IBbiohFlW0s",
+    "title": "【SAKAMOTO DAYS】セツナレンサ【MMV/MAD】",
+    "author": "Daren",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "IBbiohFlW0s",
+    "duration": "3:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Daren）。",
+    "tags": [
+      "自動取得",
+      "SAKAMOTO DAYS"
+    ],
+    "auto": true,
+    "anime": "SAKAMOTO DAYS",
+    "reading": "SAKAMOTO DAYS"
+  },
+  {
     "id": "auto_M3FbcdYZRy0",
     "title": "【MAD/AMV】晴る【ヨルシカ】【葬送のフリーレン】",
     "author": "Re:No",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_L0zXEf8BHdk",
-    "title": "【炎々ノ消防隊MAD】シルエット",
-    "author": "ハクレイ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "L0zXEf8BHdk",
-    "duration": "3:56",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ハクレイ）。",
-    "tags": [
-      "自動取得",
-      "影色舞"
-    ],
-    "auto": true,
-    "anime": "影色舞",
-    "reading": "かげいろまい"
   }
 ];
 
