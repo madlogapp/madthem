@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_FBDGL5gqbx4",
+    "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「奇蹟」",
+    "author": "コジコジ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "FBDGL5gqbx4",
+    "duration": "4:46",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（コジコジ）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_GdWDZ1tLnhs",
     "title": "【OP完全再現】ダンダダン×にゃんこ大戦争【MAD】",
     "author": "しゅがーとーすと",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_eWv78ojr8xA",
-    "title": "【音MAD】ココロオドル【Dr.STONE】",
-    "author": "たっちょ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "eWv78ojr8xA",
-    "duration": "4:11",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（たっちょ）。",
-    "tags": [
-      "自動取得",
-      "Dr.STONE"
-    ],
-    "auto": true,
-    "anime": "Dr.STONE",
-    "reading": "Dr.STONE"
   }
 ];
 
