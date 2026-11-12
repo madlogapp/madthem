@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_GdWDZ1tLnhs",
+    "title": "【OP完全再現】ダンダダン×にゃんこ大戦争【MAD】",
+    "author": "しゅがーとーすと",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "GdWDZ1tLnhs",
+    "duration": "1:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（しゅがーとーすと）。",
+    "tags": [
+      "自動取得",
+      "ダンダダン"
+    ],
+    "auto": true,
+    "anime": "ダンダダン",
+    "reading": "だんだだん"
+  },
+  {
     "id": "auto_IBbiohFlW0s",
     "title": "【SAKAMOTO DAYS】セツナレンサ【MMV/MAD】",
     "author": "Daren",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Dr.STONE",
     "reading": "Dr.STONE"
-  },
-  {
-    "id": "auto_ySA_P1m-rM4",
-    "title": "【推しの子】 MAD　【有馬かな：世界は恋に落ちている】",
-    "author": "かかと",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ySA_P1m-rM4",
-    "duration": "5:24",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（かかと）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 
