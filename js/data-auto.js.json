@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_dnF_zjzGXZM",
+    "title": "【MAD】天気の子×死ぬとき死ねばいい",
+    "author": "selen",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "dnF_zjzGXZM",
+    "duration": "5:43",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（selen）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_XX_OuH95amQ",
     "title": "【MAD】この素晴らしい世界に祝福を！｜ホーリーフラッグ",
     "author": "八幡Dワークス",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_gWmtNGdHi2o",
-    "title": "[MAD/AMV]  炎炎ノ消防隊×誰かの心臓になれたなら",
-    "author": "わっさ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "gWmtNGdHi2o",
-    "duration": "3:42",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（わっさ）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ]
