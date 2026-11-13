@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_x2xGbUh1_MY",
+    "title": "【MAD】BLEACH×Novelbright ※ネタバレ注意⚠️",
+    "author": "soliale0202",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "x2xGbUh1_MY",
+    "duration": "1:50",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（soliale0202）。",
+    "tags": [
+      "自動取得",
+      "BLEACH"
+    ],
+    "auto": true,
+    "anime": "BLEACH",
+    "reading": "BLEACH"
+  },
+  {
     "id": "auto_FBDGL5gqbx4",
     "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「奇蹟」",
     "author": "コジコジ",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_Ool6nM-Su3M",
-    "title": "【MAD】炎炎ノ消防隊×かくれんぼ(Alia)",
-    "author": "かちぇる",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ool6nM-Su3M",
-    "duration": "5:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（かちぇる）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ];
 
