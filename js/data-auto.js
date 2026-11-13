@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_XX_OuH95amQ",
+    "title": "【MAD】この素晴らしい世界に祝福を！｜ホーリーフラッグ",
+    "author": "八幡Dワークス",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "XX_OuH95amQ",
+    "duration": "4:16",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（八幡Dワークス）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！",
+    "reading": "このすばらしいせかいにしゅくふくを！"
+  },
+  {
     "id": "auto_x2xGbUh1_MY",
     "title": "【MAD】BLEACH×Novelbright ※ネタバレ注意⚠️",
     "author": "soliale0202",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_pKa-7tC54EI",
-    "title": "【MAD/AMV】綴/NAME【薫る花は凛と咲く】",
-    "author": "猫沢",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "pKa-7tC54EI",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（猫沢）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 
