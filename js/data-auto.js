@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_05a6MekU5Vk",
+    "title": "【MAD】あの日見た花の名前を僕達はまだ知らない×AAA 愛してるのに愛せない",
+    "author": "ちゃあはん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "05a6MekU5Vk",
+    "duration": "4:57",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ちゃあはん）。",
+    "tags": [
+      "自動取得",
+      "あの日見た花の名前を僕達はまだ知らない。"
+    ],
+    "auto": true,
+    "anime": "あの日見た花の名前を僕達はまだ知らない。",
+    "reading": "あのひみたはなのなまえをぼくたちはまだしらない。"
+  },
+  {
     "id": "auto_dnF_zjzGXZM",
     "title": "【MAD】天気の子×死ぬとき死ねばいい",
     "author": "selen",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_aFgYNt_l0jw",
-    "title": "【MAD】僕のヒーローアカデミア  ×  ヒバナ",
-    "author": "Ron",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "aFgYNt_l0jw",
-    "duration": "3:24",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Ron）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
