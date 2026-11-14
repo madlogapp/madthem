@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_3EFaVT4Dxco",
+    "title": "【MAD】ハイキュー!! × 新時代(Ado)",
+    "author": "【MAD】しぷさん",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "3EFaVT4Dxco",
+    "duration": "3:47",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（【MAD】しぷさん）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!!"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!!",
+    "reading": "はいきゅー!!"
+  },
+  {
     "id": "auto_QFVzp9amxTM",
     "title": "【AMV/MAD】NARUTO－ナルト－【KANA-BOON - シルエット】",
     "author": "みぞ",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "コードギアス 奪還のロゼ",
     "reading": "こーどぎあす だっかんのろぜ"
-  },
-  {
-    "id": "auto_HLi-ohwp9Ac",
-    "title": "【東京リベンジャーズMAD】you（ひぐらしのなく頃に）",
-    "author": "トントンちゃんねる",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "HLi-ohwp9Ac",
-    "duration": "3:13",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（トントンちゃんねる）。",
-    "tags": [
-      "自動取得",
-      "ひぐらしのなく頃に"
-    ],
-    "auto": true,
-    "anime": "ひぐらしのなく頃に",
-    "reading": "ひぐらしのなくごろに"
   }
 ];
 
