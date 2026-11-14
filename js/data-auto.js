@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_QFVzp9amxTM",
+    "title": "【AMV/MAD】NARUTO－ナルト－【KANA-BOON - シルエット】",
+    "author": "みぞ",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "QFVzp9amxTM",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（みぞ）。",
+    "tags": [
+      "自動取得",
+      "NARUTO -ナルト-"
+    ],
+    "auto": true,
+    "anime": "NARUTO -ナルト-",
+    "reading": "NARUTO -なると-"
+  },
+  {
     "id": "auto_05a6MekU5Vk",
     "title": "【MAD】あの日見た花の名前を僕達はまだ知らない×AAA 愛してるのに愛せない",
     "author": "ちゃあはん",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ひぐらしのなく頃に",
     "reading": "ひぐらしのなくごろに"
-  },
-  {
-    "id": "auto_-cMT_1tRmjk",
-    "title": "【MAD】チェンソーマン×ドーナツホール(ハチ)",
-    "author": "Byakuya",
-    "type": "single",
-    "genres": [
-      "ボカロ"
-    ],
-    "youtubeId": "-cMT_1tRmjk",
-    "duration": "3:23",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Byakuya）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 
