@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_OLpLIxxbgMk",
+    "title": "【MAD】【推しの子】『 Amore 』",
+    "author": "脳が焼かれた子",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "OLpLIxxbgMk",
+    "duration": "4:36",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（脳が焼かれた子）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_3EFaVT4Dxco",
     "title": "【MAD】ハイキュー!! × 新時代(Ado)",
     "author": "【MAD】しぷさん",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_qa8N7H3xoKU",
-    "title": "【MAD】コードギアス × とても素敵な六月でした　【誰が裁けるの？】",
-    "author": "偽田MAD",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "qa8N7H3xoKU",
-    "duration": "4:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（偽田MAD）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 奪還のロゼ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 奪還のロゼ",
-    "reading": "こーどぎあす だっかんのろぜ"
   }
 ];
 
