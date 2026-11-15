@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_pvv1-440ojo",
+    "title": "【MAD】ポケモン剣盾×アカシア【王道】",
+    "author": "MCBチャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "pvv1-440ojo",
+    "duration": "4:21",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（MCBチャンネル）。",
+    "tags": [
+      "自動取得",
+      "タイムボカン王道復古"
+    ],
+    "auto": true,
+    "anime": "タイムボカン王道復古",
+    "reading": "たいむぼかんおうどうふっこ"
+  },
+  {
     "id": "auto_OLpLIxxbgMk",
     "title": "【MAD】【推しの子】『 Amore 』",
     "author": "脳が焼かれた子",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_EXZ7qQrkVk8",
-    "title": "Jujutsu Kaisen「AMV」Toxic",
-    "author": "JocoBesT",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "EXZ7qQrkVk8",
-    "duration": "2:59",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（JocoBesT）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
