@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_bcxFKNyW3ec",
+    "title": "【MAD】 Compass 【 Re:ZERO / リゼロ 】",
+    "author": "Nai20040314",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "bcxFKNyW3ec",
+    "duration": "9:26",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Nai20040314）。",
+    "tags": [
+      "自動取得",
+      "猫和老鼠：星盘奇缘"
+    ],
+    "auto": true,
+    "anime": "猫和老鼠：星盘奇缘",
+    "reading": "ねこわろうそ：ほし"
+  },
+  {
     "id": "auto_pvv1-440ojo",
     "title": "【MAD】ポケモン剣盾×アカシア【王道】",
     "author": "MCBチャンネル",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "COLORs",
     "reading": "COLORs"
-  },
-  {
-    "id": "auto_AvPDtlyyP_A",
-    "title": "【ゼロ距離】聲の形【MAD】",
-    "author": "しづか",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "AvPDtlyyP_A",
-    "duration": "4:44",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しづか）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ]
