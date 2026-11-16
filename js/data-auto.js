@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_2UFMRWI-WE4",
+    "title": "(AMV/MAD) とても素敵な六月でした 【Fate/stay night Heaven's Feel】",
+    "author": "설하진",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "2UFMRWI-WE4",
+    "duration": "4:12",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（설하진）。",
+    "tags": [
+      "自動取得",
+      "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly"
+    ],
+    "auto": true,
+    "anime": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly",
+    "reading": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly"
+  },
+  {
     "id": "auto_WyJMxKsH3Es",
     "title": "ドラゴンボール超 スーパーヒーロー×HERO〜希望の歌〜【MAD/AMV】",
     "author": "クロ猫",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ヱヴァンゲリヲン新劇場版:Q",
     "reading": "ゑゔぁんげりをんしんげきばはん:Q"
-  },
-  {
-    "id": "auto_OY0dX4ZZcnE",
-    "title": "【MAD】鬼滅の刃 × アスノヨゾラ哨戒班",
-    "author": "まっしろ。【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "OY0dX4ZZcnE",
-    "duration": "2:54",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（まっしろ。【MAD】）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ];
 
