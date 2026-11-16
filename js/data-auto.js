@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_WyJMxKsH3Es",
+    "title": "ドラゴンボール超 スーパーヒーロー×HERO〜希望の歌〜【MAD/AMV】",
+    "author": "クロ猫",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "WyJMxKsH3Es",
+    "duration": "3:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（クロ猫）。",
+    "tags": [
+      "自動取得",
+      "ドラゴンボール超 スーパーヒーロー"
+    ],
+    "auto": true,
+    "anime": "ドラゴンボール超 スーパーヒーロー",
+    "reading": "どらごんぼーるちょう すーぱーひーろー"
+  },
+  {
     "id": "auto_bcxFKNyW3ec",
     "title": "【MAD】 Compass 【 Re:ZERO / リゼロ 】",
     "author": "Nai20040314",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_1nyaV4WFddM",
-    "title": "SawanoHiroyuki[nZk]:Jean-Ken Johnny & TAKUMA \"PROVANT\"×Anime \"Fate/strange Fake\" Collaboration Movie",
-    "author": "澤野弘之 / SawanoHiroyuki[nZk] and アニプレックス チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "1nyaV4WFddM",
-    "duration": "2:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（澤野弘之 / SawanoHiroyuki[nZk] and アニプレックス チャンネル）。",
-    "tags": [
-      "自動取得",
-      "COLORs"
-    ],
-    "auto": true,
-    "anime": "COLORs",
-    "reading": "COLORs"
   }
 ];
 
