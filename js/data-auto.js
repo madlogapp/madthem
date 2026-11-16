@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_P18OnxvAjZc",
+    "title": "【ありふれたせかいせいふく】約束のネバーランド【MAD】",
+    "author": "Alone 【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "P18OnxvAjZc",
+    "duration": "3:21",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Alone 【MAD】）。",
+    "tags": [
+      "自動取得",
+      "ありふれたせかいせいふく"
+    ],
+    "auto": true,
+    "anime": "ありふれたせかいせいふく",
+    "reading": "ありふれたせかいせいふく"
+  },
+  {
     "id": "auto_2UFMRWI-WE4",
     "title": "(AMV/MAD) とても素敵な六月でした 【Fate/stay night Heaven's Feel】",
     "author": "설하진",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_30EFvE5tnjc",
-    "title": "Evangelion 3.33 Mad",
-    "author": "Isaías González",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "30EFvE5tnjc",
-    "duration": "5:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Isaías González）。",
-    "tags": [
-      "自動取得",
-      "ヱヴァンゲリヲン新劇場版:Q"
-    ],
-    "auto": true,
-    "anime": "ヱヴァンゲリヲン新劇場版:Q",
-    "reading": "ゑゔぁんげりをんしんげきばはん:Q"
   }
 ];
 
