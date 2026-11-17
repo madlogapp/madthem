@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_PwejwxS4Hg8",
+    "title": "【PSYCHO-PASS MAD】Fallen",
+    "author": "あめ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "PwejwxS4Hg8",
+    "duration": "4:35",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（あめ）。",
+    "tags": [
+      "自動取得",
+      "堕玄师"
+    ],
+    "auto": true,
+    "anime": "堕玄师",
+    "reading": "だげん"
+  },
+  {
     "id": "auto_SOR0lpxzv0c",
     "title": "【MAD】コードギアス×孔雀",
     "author": "kou sio",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Dr.STONE",
     "reading": "Dr.STONE"
-  },
-  {
-    "id": "auto_8keR5f-gBPM",
-    "title": "【原作完結記念MAD】呪術廻戦×右肩の蝶 Cover / めいちゃん【高画質/4K】",
-    "author": "タオリ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "8keR5f-gBPM",
-    "duration": "4:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（タオリ）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
