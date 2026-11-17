@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_EmqVWveWV4U",
+    "title": "【薫る花】ARCADIA／ヰ世界情緒【MAD】【薫る花は凛と咲く】",
+    "author": "那由多の遊び場",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "EmqVWveWV4U",
+    "duration": "7:08",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（那由多の遊び場）。",
+    "tags": [
+      "自動取得",
+      "薫る花は凛と咲く"
+    ],
+    "auto": true,
+    "anime": "薫る花は凛と咲く",
+    "reading": "かおるはなはりんとさく"
+  },
+  {
     "id": "auto_PwejwxS4Hg8",
     "title": "【PSYCHO-PASS MAD】Fallen",
     "author": "あめ",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_huLOzs1hnv4",
-    "title": "【MAD】ドクターストーン×good morning world",
-    "author": "mame beams",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "huLOzs1hnv4",
-    "duration": "4:09",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（mame beams）。",
-    "tags": [
-      "自動取得",
-      "Dr.STONE"
-    ],
-    "auto": true,
-    "anime": "Dr.STONE",
-    "reading": "Dr.STONE"
   }
 ];
 
