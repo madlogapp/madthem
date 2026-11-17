@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_SOR0lpxzv0c",
+    "title": "【MAD】コードギアス×孔雀",
+    "author": "kou sio",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "SOR0lpxzv0c",
+    "duration": "3:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（kou sio）。",
+    "tags": [
+      "自動取得",
+      "コードギアス 奪還のロゼ"
+    ],
+    "auto": true,
+    "anime": "コードギアス 奪還のロゼ",
+    "reading": "こーどぎあす だっかんのろぜ"
+  },
+  {
     "id": "auto_P18OnxvAjZc",
     "title": "【ありふれたせかいせいふく】約束のネバーランド【MAD】",
     "author": "Alone 【MAD】",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_aLRQj1LhrfQ",
-    "title": "【MAD】進撃の巨人×soranji フルver.",
-    "author": "るき",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "aLRQj1LhrfQ",
-    "duration": "5:39",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（るき）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 
