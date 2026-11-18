@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Tac9dkYxGQ8",
+    "title": "【MAD】凪のあすから",
+    "author": "SO RA",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Tac9dkYxGQ8",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（SO RA）。",
+    "tags": [
+      "自動取得",
+      "凪のあすから"
+    ],
+    "auto": true,
+    "anime": "凪のあすから",
+    "reading": "なぎのあすから"
+  },
+  {
     "id": "auto_eCj3Xge9OCU",
     "title": "陰の実力者になりたくてMAD/AMV-オーバーロードop HOLLOW HUNGER-",
     "author": "kain MAD",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_vQ8cH94ty3Y",
-    "title": "milet「The Story of Us」×『葬送のフリーレン』第2期 SPECIAL MUSIC VIDEO (MV)",
-    "author": "TOHO animation チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vQ8cH94ty3Y",
-    "duration": "4:36",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ]
