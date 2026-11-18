@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_eCj3Xge9OCU",
+    "title": "陰の実力者になりたくてMAD/AMV-オーバーロードop HOLLOW HUNGER-",
+    "author": "kain MAD",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "eCj3Xge9OCU",
+    "duration": "3:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（kain MAD）。",
+    "tags": [
+      "自動取得",
+      "陰の実力者になりたくて！"
+    ],
+    "auto": true,
+    "anime": "陰の実力者になりたくて！",
+    "reading": "いんのじつりょくしゃになりたくて！"
+  },
+  {
     "id": "auto_EmqVWveWV4U",
     "title": "【薫る花】ARCADIA／ヰ世界情緒【MAD】【薫る花は凛と咲く】",
     "author": "那由多の遊び場",
@@ -21974,28 +21996,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto__G4QUlZU2FU",
-    "title": "【MAD】葬送のフリーレン×眼差し/ロクデナシ",
-    "author": "シノ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_G4QUlZU2FU",
-    "duration": "4:03",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（シノ）。",
     "tags": [
       "自動取得",
       "葬送のフリーレン"
