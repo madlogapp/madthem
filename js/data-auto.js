@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_m0LUmotJ0mQ",
+    "title": "【MAD】『天気の子』ノンテロップ予報　-Weathering With You-",
+    "author": "takashi koyama",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "m0LUmotJ0mQ",
+    "duration": "3:59",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（takashi koyama）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_Tac9dkYxGQ8",
     "title": "【MAD】凪のあすから",
     "author": "SO RA",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "WIND BREAKER",
     "reading": "WIND BREAKER"
-  },
-  {
-    "id": "auto_nwoPpG30HEU",
-    "title": "【MAD/AMV】僕のヒーローアカデミア×ざらめ/六等星　セリフあり",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "nwoPpG30HEU",
-    "duration": "4:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
