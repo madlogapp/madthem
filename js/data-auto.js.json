@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_eGzR3XV7grY",
+    "title": "【MAD】炎炎ノ消防隊×夜に駆ける",
+    "author": "らむりん【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "eGzR3XV7grY",
+    "duration": "4:21",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（らむりん【MAD】）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_AOkXWUhJZ9s",
     "title": "【MAD】ハイキュー！烏野高校×白鳥沢学園【インフェルノ／MrsGreenApple】",
     "author": "72-ﾅﾂ-",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "怪獣８号",
     "reading": "かいじゅう８ごう"
-  },
-  {
-    "id": "auto_dNgIM7Aefk4",
-    "title": "【MAD】HUNTER × HUNTER / クロロ=ルシルフル『右肩の蝶』",
-    "author": "織田 信長",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "dNgIM7Aefk4",
-    "duration": "1:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（織田 信長）。",
-    "tags": [
-      "自動取得",
-      "Hunter"
-    ],
-    "auto": true,
-    "anime": "Hunter",
-    "reading": "Hunter"
   }
 ]
