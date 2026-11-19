@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_4Ql6YwCTAko",
+    "title": "『SPY×FAMILY』Season 2エンディング主題歌 Vaundy「トドメの一撃」feat.Cory Wongアニメ映像(ノンクレジット)",
+    "author": "",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "4Ql6YwCTAko",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（）。",
+    "tags": [
+      "自動取得",
+      "SPY×FAMILY"
+    ],
+    "auto": true,
+    "anime": "SPY×FAMILY",
+    "reading": "SPY×FAMILY"
+  },
+  {
     "id": "auto_m0LUmotJ0mQ",
     "title": "【MAD】『天気の子』ノンテロップ予報　-Weathering With You-",
     "author": "takashi koyama",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_c1I6SqMsBWM",
-    "title": "【MAD】WIND BREAKER/絶対零度 -なとり-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "c1I6SqMsBWM",
-    "duration": "2:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "WIND BREAKER"
-    ],
-    "auto": true,
-    "anime": "WIND BREAKER",
-    "reading": "WIND BREAKER"
   }
 ]
