@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_AOkXWUhJZ9s",
+    "title": "【MAD】ハイキュー！烏野高校×白鳥沢学園【インフェルノ／MrsGreenApple】",
+    "author": "72-ﾅﾂ-",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "AOkXWUhJZ9s",
+    "duration": "4:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（72-ﾅﾂ-）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!! 烏野高校 VS 白鳥沢学園高校"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
+    "reading": "はいきゅー!! からすのこうこう VS はくちょうさわがくえんこうこう"
+  },
+  {
     "id": "auto_4Ql6YwCTAko",
     "title": "『SPY×FAMILY』Season 2エンディング主題歌 Vaundy「トドメの一撃」feat.Cory Wongアニメ映像(ノンクレジット)",
     "author": "",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "Hunter",
     "reading": "Hunter"
-  },
-  {
-    "id": "auto_ZM9HqflDVPI",
-    "title": "【MAD/AMV】僕のヒーローアカデミア × カーテンコール / 優里 -セリフ入り-",
-    "author": "ぼくのめ【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "ZM9HqflDVPI",
-    "duration": "4:03",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぼくのめ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ]
