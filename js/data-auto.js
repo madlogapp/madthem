@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_dQ92Fwsprv4",
+    "title": "【MAD】【カバー音源】約束のネバーランド「絶体絶命」",
+    "author": "ある日の猫",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "dQ92Fwsprv4",
+    "duration": "2:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ある日の猫）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_wZtrnRve6ME",
     "title": "MADKID / Mad Pulse [Music Video] (TVアニメ「DIGIMON BEATBREAK」オープニングテーマ)",
     "author": "MADKID OFFICIAL",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "異世界かるてっと",
     "reading": "いせかいかるてっと"
-  },
-  {
-    "id": "auto_t-SZDWyZsCQ",
-    "title": "【声入りMAD】葬送のフリーレン｜勇者【YOASOBI】",
-    "author": "えふのこ@efnoko",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "t-SZDWyZsCQ",
-    "duration": "3:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（えふのこ@efnoko）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
