@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_wZtrnRve6ME",
+    "title": "MADKID / Mad Pulse [Music Video] (TVアニメ「DIGIMON BEATBREAK」オープニングテーマ)",
+    "author": "MADKID OFFICIAL",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wZtrnRve6ME",
+    "duration": "3:54",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（MADKID OFFICIAL）。",
+    "tags": [
+      "自動取得",
+      "道"
+    ],
+    "auto": true,
+    "anime": "道",
+    "reading": "みち"
+  },
+  {
     "id": "auto_eGzR3XV7grY",
     "title": "【MAD】炎炎ノ消防隊×夜に駆ける",
     "author": "らむりん【MAD】",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_DoyCHoC-vUo",
-    "title": "Berserk Kafka vs Isao Shinomiya Full Fighter (Kaiju No. 8)「AMV」My Demons「4K 60FPS」",
-    "author": "Darin",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "DoyCHoC-vUo",
-    "duration": "4:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Darin）。",
-    "tags": [
-      "自動取得",
-      "怪獣８号"
-    ],
-    "auto": true,
-    "anime": "怪獣８号",
-    "reading": "かいじゅう８ごう"
   }
 ];
 
