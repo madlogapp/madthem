@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_IBTK8PGe_Oo",
+    "title": "サイバーパンク：エッジランナーズ 2 | 公開日決定ティーザー予告編",
+    "author": "Cyberpunk 2077",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "IBTK8PGe_Oo",
+    "duration": "1:17",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Cyberpunk 2077）。",
+    "tags": [
+      "自動取得",
+      "サイバーパンク: エッジランナーズ2"
+    ],
+    "auto": true,
+    "anime": "サイバーパンク: エッジランナーズ2",
+    "reading": "さいばーぱんく: えっじらんなーず2"
+  },
+  {
     "id": "auto_dQ92Fwsprv4",
     "title": "【MAD】【カバー音源】約束のネバーランド「絶体絶命」",
     "author": "ある日の猫",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "グラビテーション OVA",
     "reading": "ぐらびてーしょん OVA"
-  },
-  {
-    "id": "auto_YIp9VzHvb6A",
-    "title": "【MAD/AMV】Isekai Quartet by Ainz, Kazuma, Subaru & Tanya【Isekai Quartet】",
-    "author": "root X【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "YIp9VzHvb6A",
-    "duration": "3:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（root X【MAD】）。",
-    "tags": [
-      "自動取得",
-      "異世界かるてっと"
-    ],
-    "auto": true,
-    "anime": "異世界かるてっと",
-    "reading": "いせかいかるてっと"
   }
 ];
 
