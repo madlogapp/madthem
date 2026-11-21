@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_iQRloW56Jfg",
+    "title": "【MAD/AMV】ぼっち・ざ・ろっく！「青のすみか(acoustic ver)」【ぼざろMAD】",
+    "author": "",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "iQRloW56Jfg",
+    "duration": "3:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（）。",
+    "tags": [
+      "自動取得",
+      "ぼっち・ざ・ろっく！"
+    ],
+    "auto": true,
+    "anime": "ぼっち・ざ・ろっく！",
+    "reading": "ぼっち・ざ・ろっく！"
+  },
+  {
     "id": "auto_IBTK8PGe_Oo",
     "title": "サイバーパンク：エッジランナーズ 2 | 公開日決定ティーザー予告編",
     "author": "Cyberpunk 2077",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_Fpuyz1XyAiQ",
-    "title": "SAKAMOTO DAYS Part 2 - Ending FULL \"Dandelion\" by go!go!vanillas (Lyrics)",
-    "author": "Jamong",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "Fpuyz1XyAiQ",
-    "duration": "3:59",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Jamong）。",
-    "tags": [
-      "自動取得",
-      "グラビテーション OVA"
-    ],
-    "auto": true,
-    "anime": "グラビテーション OVA",
-    "reading": "ぐらびてーしょん OVA"
   }
 ];
 
