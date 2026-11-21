@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_pyg7R89ixps",
+    "title": "【mad】約束のネバーランド/眩しいDNAだけ",
+    "author": "チーチャン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "pyg7R89ixps",
+    "duration": "4:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（チーチャン）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_nxr5sTCTT1Q",
     "title": "【MAD 歌詞付き】モブサイコ100 『 sajou no hana - グレイ 』",
     "author": "Lyrical 歌詞付き",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_0H4nHezj_Ko",
-    "title": "【MAD】ダンダダン『お気に召すまま』",
-    "author": "零(ZERO)ch",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "0H4nHezj_Ko",
-    "duration": "3:40",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（零(ZERO)ch）。",
-    "tags": [
-      "自動取得",
-      "お気に召すまま"
-    ],
-    "auto": true,
-    "anime": "お気に召すまま",
-    "reading": "おきにめすまま"
   }
 ]
