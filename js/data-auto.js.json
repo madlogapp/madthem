@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_nxr5sTCTT1Q",
+    "title": "【MAD 歌詞付き】モブサイコ100 『 sajou no hana - グレイ 』",
+    "author": "Lyrical 歌詞付き",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "nxr5sTCTT1Q",
+    "duration": "3:43",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Lyrical 歌詞付き）。",
+    "tags": [
+      "自動取得",
+      "モブサイコ100"
+    ],
+    "auto": true,
+    "anime": "モブサイコ100",
+    "reading": "もぶさいこ100"
+  },
+  {
     "id": "auto_iQRloW56Jfg",
     "title": "【MAD/AMV】ぼっち・ざ・ろっく！「青のすみか(acoustic ver)」【ぼざろMAD】",
     "author": "",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "お気に召すまま",
     "reading": "おきにめすまま"
-  },
-  {
-    "id": "auto_T2H8p0EyuIg",
-    "title": "「MAD」呪術廻戦/フォニイ「Jujutsu Kaisen」「歌詞付き」",
-    "author": "Reki",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "T2H8p0EyuIg",
-    "duration": "3:10",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Reki）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ]
