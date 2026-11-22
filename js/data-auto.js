@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_aKs9Tod3mro",
+    "title": "TVアニメ『東京リベンジャーズ』三天戦争編 ノンクレジットOP【JO1「IGNITE」】",
+    "author": "TVアニメ『東京リベンジャーズ』チャンネル and JO1",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "aKs9Tod3mro",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TVアニメ『東京リベンジャーズ』チャンネル and JO1）。",
+    "tags": [
+      "自動取得",
+      "東京リベンジャーズ"
+    ],
+    "auto": true,
+    "anime": "東京リベンジャーズ",
+    "reading": "とうきょうりべんじゃーず"
+  },
+  {
     "id": "auto_pyg7R89ixps",
     "title": "【mad】約束のネバーランド/眩しいDNAだけ",
     "author": "チーチャン",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "アーケードゲーマーふぶき",
     "reading": "あーけーどげーまーふぶき"
-  },
-  {
-    "id": "auto_u648eX-7IFs",
-    "title": "【MAD/AMV】僕のヒーローアカデミア×ピースサイン/米津玄師【セリフ入り/完結記念】",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "u648eX-7IFs",
-    "duration": "3:59",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 
