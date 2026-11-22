@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_IJvonmewBhs",
+    "title": "【MAD】君の神様になりたい。【Re:ゼロから始める異世界生活】",
+    "author": "K M",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "IJvonmewBhs",
+    "duration": "4:09",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（K M）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ"
+  },
+  {
     "id": "auto_wN9gibNMR0Q",
     "title": "【MAD】SPY×FAMILY×シュガーソングとビターステップ",
     "author": "冷茶",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "リコリス・リコイル",
     "reading": "りこりす・りこいる"
-  },
-  {
-    "id": "auto_kRLJ_wcZHPg",
-    "title": "[Dr.STONE | Stanley Snyder |Dr. Xeno] 『はいよろこんで』but 『Yes, My Load』— Unhinged Boss vs. Badass Employee",
-    "author": "Cloud Nine",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kRLJ_wcZHPg",
-    "duration": "2:58",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Cloud Nine）。",
-    "tags": [
-      "自動取得",
-      "はいよろこんで"
-    ],
-    "auto": true,
-    "anime": "はいよろこんで",
-    "reading": "はいよろこんで"
   }
 ];
 
