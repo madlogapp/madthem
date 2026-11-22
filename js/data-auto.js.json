@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_wN9gibNMR0Q",
+    "title": "【MAD】SPY×FAMILY×シュガーソングとビターステップ",
+    "author": "冷茶",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wN9gibNMR0Q",
+    "duration": "4:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（冷茶）。",
+    "tags": [
+      "自動取得",
+      "スパイ教室"
+    ],
+    "auto": true,
+    "anime": "スパイ教室",
+    "reading": "すぱいきょうしつ"
+  },
+  {
     "id": "auto_aKs9Tod3mro",
     "title": "TVアニメ『東京リベンジャーズ』三天戦争編 ノンクレジットOP【JO1「IGNITE」】",
     "author": "TVアニメ『東京リベンジャーズ』チャンネル and JO1",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "はいよろこんで",
     "reading": "はいよろこんで"
-  },
-  {
-    "id": "auto_MoxZEVikc2g",
-    "title": "【ヴァイオレットMAD】戦闘人形（ぶき）とよばれて／ NEVER",
-    "author": "toshutoshu01",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "MoxZEVikc2g",
-    "duration": "2:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（toshutoshu01）。",
-    "tags": [
-      "自動取得",
-      "アーケードゲーマーふぶき"
-    ],
-    "auto": true,
-    "anime": "アーケードゲーマーふぶき",
-    "reading": "あーけーどげーまーふぶき"
   }
 ]
