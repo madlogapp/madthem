@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_X5CDCeiewms",
+    "title": "【MAD】天気の子×ただ君に晴れ",
+    "author": "ポッキーポッキー",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "X5CDCeiewms",
+    "duration": "3:17",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ポッキーポッキー）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_WvWHPJoz4_s",
     "title": "【MAD】鬼滅の刃×TOMORROW《胡蝶しのぶ、栗花落カナヲ、嘴平伊之助》",
     "author": "さく",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣８号",
     "reading": "かいじゅう８ごう"
-  },
-  {
-    "id": "auto_gSPVTEYrSGk",
-    "title": "【静止画MAD】渋谷事変×Out of Control【呪術廻戦】",
-    "author": "ALINCO",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "gSPVTEYrSGk",
-    "duration": "3:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ALINCO）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 
