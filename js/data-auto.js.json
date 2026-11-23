@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_WvWHPJoz4_s",
+    "title": "【MAD】鬼滅の刃×TOMORROW《胡蝶しのぶ、栗花落カナヲ、嘴平伊之助》",
+    "author": "さく",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "WvWHPJoz4_s",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（さく）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_IJvonmewBhs",
     "title": "【MAD】君の神様になりたい。【Re:ゼロから始める異世界生活】",
     "author": "K M",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_pIg2PzjZe18",
-    "title": "リコリス・リコイル x ALIVE 【神MAD】",
-    "author": "ハクさん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "pIg2PzjZe18",
-    "duration": "3:58",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ハクさん）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル"
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル",
-    "reading": "りこりす・りこいる"
   }
 ]
