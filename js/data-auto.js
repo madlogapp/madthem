@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_WNNEovLwIAg",
+    "title": "[MAD] 命に嫌われている。/ hated by life itself [BLEACH]",
+    "author": "",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "WNNEovLwIAg",
+    "duration": "1:00",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（）。",
+    "tags": [
+      "自動取得",
+      "BLEACH"
+    ],
+    "auto": true,
+    "anime": "BLEACH",
+    "reading": "BLEACH"
+  },
+  {
     "id": "auto_ZmameALeEp4",
     "title": "【ぼっち・ざ・ろっく！】青のすみか【MAD】",
     "author": "むぞん",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Biri-Biri",
     "reading": "Biri-Biri"
-  },
-  {
-    "id": "auto_rz8uVoc5Hq4",
-    "title": "【MAD】ハイキュー【アトラクトライト】",
-    "author": "じぇりち　チャンネル登録1000人目標",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "rz8uVoc5Hq4",
-    "duration": "4:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（じぇりち　チャンネル登録1000人目標）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 
