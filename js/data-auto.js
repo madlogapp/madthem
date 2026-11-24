@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ZmameALeEp4",
+    "title": "【ぼっち・ざ・ろっく！】青のすみか【MAD】",
+    "author": "むぞん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ZmameALeEp4",
+    "duration": "3:16",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（むぞん）。",
+    "tags": [
+      "自動取得",
+      "ぼっち・ざ・ろっく！"
+    ],
+    "auto": true,
+    "anime": "ぼっち・ざ・ろっく！",
+    "reading": "ぼっち・ざ・ろっく！"
+  },
+  {
     "id": "auto_X5CDCeiewms",
     "title": "【MAD】天気の子×ただ君に晴れ",
     "author": "ポッキーポッキー",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_5R51wTYAPys",
-    "title": "【静止画MAD】怪獣８号×一騎当千",
-    "author": "アニトク",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "5R51wTYAPys",
-    "duration": "1:24",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（アニトク）。",
-    "tags": [
-      "自動取得",
-      "怪獣８号"
-    ],
-    "auto": true,
-    "anime": "怪獣８号",
-    "reading": "かいじゅう８ごう"
   }
 ];
 
