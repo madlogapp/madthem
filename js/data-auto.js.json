@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_7veEwpgebjo",
+    "title": "【七つの大罪神々の逆鱗公開記念MAD】七つの大罪×IMAGINARY LIKE THE JUSTICE",
+    "author": "にいチャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "7veEwpgebjo",
+    "duration": "4:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（にいチャンネル）。",
+    "tags": [
+      "自動取得",
+      "七つの大罪"
+    ],
+    "auto": true,
+    "anime": "七つの大罪",
+    "reading": "ななつのたいざい"
+  },
+  {
     "id": "auto_WNNEovLwIAg",
     "title": "[MAD] 命に嫌われている。/ hated by life itself [BLEACH]",
     "author": "",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_y7acZNS6C0Q",
-    "title": "かくれんぼ1万再生突破記念🎉  【MAD】暗殺教室×怪物【YOASOBI】",
-    "author": "栗ちゃんネル",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "y7acZNS6C0Q",
-    "duration": "3:44",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（栗ちゃんネル）。",
-    "tags": [
-      "自動取得",
-      "Biri-Biri"
-    ],
-    "auto": true,
-    "anime": "Biri-Biri",
-    "reading": "Biri-Biri"
   }
 ]
