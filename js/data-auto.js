@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_9JP5lnWsGY4",
+    "title": "静止画ＭＡＤ】ＴＯＡＲＵＢＩＳ （Full ver.）【とある魔術の禁書目録】",
+    "author": "SABO201103",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "9JP5lnWsGY4",
+    "duration": "5:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（SABO201103）。",
+    "tags": [
+      "自動取得",
+      "とある魔術の禁書目録"
+    ],
+    "auto": true,
+    "anime": "とある魔術の禁書目録",
+    "reading": "とあるまじゅつのきんしょもくろく"
+  },
+  {
     "id": "auto_WWTUi9Xq4gU",
     "title": "【MAD】モブサイコ100 III 【君の神様になりたい】",
     "author": "Akash1ya",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "やはり俺の青春ラブコメはまちがっている。",
     "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
-  },
-  {
-    "id": "auto_ayJxX4CMX-A",
-    "title": "【MAD】 魔法少女まどか☆マギカ　『oath sign』",
-    "author": "Limit Overdrive",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ayJxX4CMX-A",
-    "duration": "4:10",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Limit Overdrive）。",
-    "tags": [
-      "自動取得",
-      "魔法少女まどか☆マギカ"
-    ],
-    "auto": true,
-    "anime": "魔法少女まどか☆マギカ",
-    "reading": "まほうしょうじょまどか☆まぎか"
   }
 ];
 
