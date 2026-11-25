@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_WWTUi9Xq4gU",
+    "title": "【MAD】モブサイコ100 III 【君の神様になりたい】",
+    "author": "Akash1ya",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "WWTUi9Xq4gU",
+    "duration": "4:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Akash1ya）。",
+    "tags": [
+      "自動取得",
+      "モブサイコ100 Ⅲ"
+    ],
+    "auto": true,
+    "anime": "モブサイコ100 Ⅲ",
+    "reading": "もぶさいこ100 Ⅲ"
+  },
+  {
     "id": "auto_L7VgU3_G3p0",
     "title": "【あの日見た花の名前を僕達はまだ知らない。】ZONE - secret base ～君がくれたもの～　(NU Ver.)",
     "author": "つぅ",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "魔法少女まどか☆マギカ",
     "reading": "まほうしょうじょまどか☆まぎか"
-  },
-  {
-    "id": "auto_7wMvXh1FyeI",
-    "title": "【MAD】進撃の巨人/天国 -Mrs. GREEN APPLE-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "7wMvXh1FyeI",
-    "duration": "5:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ]
