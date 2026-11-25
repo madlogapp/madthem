@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_L7VgU3_G3p0",
+    "title": "【あの日見た花の名前を僕達はまだ知らない。】ZONE - secret base ～君がくれたもの～　(NU Ver.)",
+    "author": "つぅ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "L7VgU3_G3p0",
+    "duration": "5:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（つぅ）。",
+    "tags": [
+      "自動取得",
+      "あの日見た花の名前を僕達はまだ知らない。"
+    ],
+    "auto": true,
+    "anime": "あの日見た花の名前を僕達はまだ知らない。",
+    "reading": "あのひみたはなのなまえをぼくたちはまだしらない。"
+  },
+  {
     "id": "auto_-M27hBGpRJA",
     "title": "MAD Steins;Gate×Once.avi",
     "author": "index2220724",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_v63ncEW99SA",
-    "title": "[MAD] 天元突破グレンラガン / 証明 (SUPER BEAVER)",
-    "author": "脇藩",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "v63ncEW99SA",
-    "duration": "4:42",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（脇藩）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ];
 
