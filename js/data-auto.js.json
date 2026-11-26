@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_xrQhEnLwbbs",
+    "title": "【転載】【MAD】サキワフアビス（メイドインアビス）",
+    "author": "次郎",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "xrQhEnLwbbs",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（次郎）。",
+    "tags": [
+      "自動取得",
+      "メイドインアビス"
+    ],
+    "auto": true,
+    "anime": "メイドインアビス",
+    "reading": "めいどいんあびす"
+  },
+  {
     "id": "auto_9JP5lnWsGY4",
     "title": "静止画ＭＡＤ】ＴＯＡＲＵＢＩＳ （Full ver.）【とある魔術の禁書目録】",
     "author": "SABO201103",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "約束のネバーランド",
     "reading": "やくそくのねばーらんど"
-  },
-  {
-    "id": "auto_Kpr0NhHWkGg",
-    "title": "俺ガイルMAD / 俺ガイルセリフ×過去を喰らう",
-    "author": "anisuki アニメ好きなんです",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Kpr0NhHWkGg",
-    "duration": "4:12",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（anisuki アニメ好きなんです）。",
-    "tags": [
-      "自動取得",
-      "やはり俺の青春ラブコメはまちがっている。"
-    ],
-    "auto": true,
-    "anime": "やはり俺の青春ラブコメはまちがっている。",
-    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
   }
 ]
