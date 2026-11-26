@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_RNhPlYTFmxo",
+    "title": "【MAD/AMV】Senjougahara Hitagi 【戦場ヶ原】- Starlight - Monogatari【物語】",
+    "author": "AMV22_",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "RNhPlYTFmxo",
+    "duration": "2:35",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（AMV22_）。",
+    "tags": [
+      "自動取得",
+      "〈物語〉シリーズ セカンドシーズン"
+    ],
+    "auto": true,
+    "anime": "〈物語〉シリーズ セカンドシーズン",
+    "reading": "〈ものがたり〉しりーず せかんどしーずん"
+  },
+  {
     "id": "auto_rm-jIThq7Nk",
     "title": "【MAD】幼女戦記×かくれんぼ",
     "author": "ゆっくり霧徒",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "傷物語 -こよみヴァンプ-",
     "reading": "きずものご -こよみゔぁんぷ-"
-  },
-  {
-    "id": "auto_JIpuey1NcKw",
-    "title": "【MAD】Your Lie in April / 四月は君の嘘(AMV)",
-    "author": "Soh Studio",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JIpuey1NcKw",
-    "duration": "5:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Soh Studio）。",
-    "tags": [
-      "自動取得",
-      "四月は君の嘘"
-    ],
-    "auto": true,
-    "anime": "四月は君の嘘",
-    "reading": "しがつはくんのうそ"
   }
 ];
 
