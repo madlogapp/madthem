@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_rm-jIThq7Nk",
+    "title": "【MAD】幼女戦記×かくれんぼ",
+    "author": "ゆっくり霧徒",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "rm-jIThq7Nk",
+    "duration": "3:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ゆっくり霧徒）。",
+    "tags": [
+      "自動取得",
+      "幼女戦記"
+    ],
+    "auto": true,
+    "anime": "幼女戦記",
+    "reading": "ようじょせんき"
+  },
+  {
     "id": "auto_xrQhEnLwbbs",
     "title": "【転載】【MAD】サキワフアビス（メイドインアビス）",
     "author": "次郎",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "四月は君の嘘",
     "reading": "しがつはくんのうそ"
-  },
-  {
-    "id": "auto_BzhmWopR55U",
-    "title": "【MAD】約束のネバーランド×灰色と青【ノーマン】",
-    "author": "句読点",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "BzhmWopR55U",
-    "duration": "2:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（句読点）。",
-    "tags": [
-      "自動取得",
-      "約束のネバーランド"
-    ],
-    "auto": true,
-    "anime": "約束のネバーランド",
-    "reading": "やくそくのねばーらんど"
   }
 ];
 
