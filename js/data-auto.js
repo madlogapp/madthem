@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_r9n1HXG-ov8",
+    "title": "【MAD】約束のネバーランド×「命に嫌われている」",
+    "author": "男子筋トレ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "r9n1HXG-ov8",
+    "duration": "4:32",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（男子筋トレ）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_o6SZGYYY_r4",
     "title": "【AMV/MAD】Tokyo Revengers × TENSONG【Tokyo Illusion】",
     "author": "",
@@ -21981,28 +22003,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SPY×FAMILY",
     "reading": "SPY×FAMILY"
-  },
-  {
-    "id": "auto_xz6miOyfN6g",
-    "title": "「幼女戦記」Remembrance [Eng Sub]",
-    "author": "Chole Schwarzer",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "xz6miOyfN6g",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Chole Schwarzer）。",
-    "tags": [
-      "自動取得",
-      "Garden of Remembrance"
-    ],
-    "auto": true,
-    "anime": "Garden of Remembrance",
-    "reading": "Garden of Remembrance"
   }
 ];
 
