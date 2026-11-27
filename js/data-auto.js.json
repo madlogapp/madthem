@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_o6SZGYYY_r4",
+    "title": "【AMV/MAD】Tokyo Revengers × TENSONG【Tokyo Illusion】",
+    "author": "",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "o6SZGYYY_r4",
+    "duration": "4:17",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（）。",
+    "tags": [
+      "自動取得",
+      "東京リベンジャーズ"
+    ],
+    "auto": true,
+    "anime": "東京リベンジャーズ",
+    "reading": "とうきょうりべんじゃーず"
+  },
+  {
     "id": "auto_RNhPlYTFmxo",
     "title": "【MAD/AMV】Senjougahara Hitagi 【戦場ヶ原】- Starlight - Monogatari【物語】",
     "author": "AMV22_",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "Garden of Remembrance",
     "reading": "Garden of Remembrance"
-  },
-  {
-    "id": "auto_sAmyEeYSV_c",
-    "title": "【MAD】傷物語「ブリキノダンス」",
-    "author": "えみな",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "sAmyEeYSV_c",
-    "duration": "3:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（えみな）。",
-    "tags": [
-      "自動取得",
-      "傷物語 -こよみヴァンプ-"
-    ],
-    "auto": true,
-    "anime": "傷物語 -こよみヴァンプ-",
-    "reading": "きずものご -こよみゔぁんぷ-"
   }
 ]
