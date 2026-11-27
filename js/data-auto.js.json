@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_w7x8pT5sBhw",
+    "title": "【MAD】【炎炎ノ消防隊】×【ともに】WANIMA",
+    "author": "シグマΣ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "w7x8pT5sBhw",
+    "duration": "3:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（シグマΣ）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_r9n1HXG-ov8",
     "title": "【MAD】約束のネバーランド×「命に嫌われている」",
     "author": "男子筋トレ",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "魔法少女まどか☆マギカ",
     "reading": "まほうしょうじょまどか☆まぎか"
-  },
-  {
-    "id": "auto_JsGyKkjT-hI",
-    "title": "【SPY x FAMILY】AMV / MAD",
-    "author": "AI STORY 0633",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JsGyKkjT-hI",
-    "duration": "1:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（AI STORY 0633）。",
-    "tags": [
-      "自動取得",
-      "SPY×FAMILY"
-    ],
-    "auto": true,
-    "anime": "SPY×FAMILY",
-    "reading": "SPY×FAMILY"
   }
 ]
