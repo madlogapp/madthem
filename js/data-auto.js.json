@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Hvetqa3n2UA",
+    "title": "【MAD】鬼滅の刃 ×「色は匂へど散りぬるを」",
+    "author": "蒼空エース",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Hvetqa3n2UA",
+    "duration": "3:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（蒼空エース）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_w7x8pT5sBhw",
     "title": "【MAD】【炎炎ノ消防隊】×【ともに】WANIMA",
     "author": "シグマΣ",
@@ -21979,27 +22001,5 @@
     "auto": true,
     "anime": "宇宙戦艦ヤマト・完結編",
     "reading": "うちゅうせんかんやまと・かんけつへん"
-  },
-  {
-    "id": "auto_OC-BRaAH09Y",
-    "title": "【MAD】魔法少女まどか☆マギカ×攻殻機動隊S.A.C 2nd GIG.mp4",
-    "author": "緣影",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "OC-BRaAH09Y",
-    "duration": "1:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（緣影）。",
-    "tags": [
-      "自動取得",
-      "魔法少女まどか☆マギカ"
-    ],
-    "auto": true,
-    "anime": "魔法少女まどか☆マギカ",
-    "reading": "まほうしょうじょまどか☆まぎか"
   }
 ]
